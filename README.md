@@ -9,7 +9,7 @@ Projects will include designing and developing a live web system. Each team will
 
 See [course requirements]().
 
-**Classes will be on Fridays 2:30-4:30 at ECS 130:**
+**Classes will be on Fridays 2:30-4:30 at ECS 130 (meeting dates below are tentative and could change):**
 
 - Meeting 1, 22/10/2014 - Introduction, how to build an app, standing on the shoulders of giants, demo of previous projects, forming groups
 - Meeting 2, 29/10/2014 - Web development overview, Team work, App Engine, GitHub, and API's
