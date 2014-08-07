@@ -1,6 +1,6 @@
 # Startup Programming
-#####[Department of Computer Science - University of Victoria](http://www.csc.uvic.ca/)
-#####CSC 485B + SENG 480B, 2014/2015, Semester A
+##### [Department of Computer Science - University of Victoria](http://www.csc.uvic.ca/)
+##### CSC 485B + SENG 480B, 2014/2015, Semester A
 <br>
 
 This course aims to give students the tools and skills to rapidly develop and transform innovative ideas (of their own choosing) into working projects utilizing advanced mobile, social, cloud and web technologies. In particular, students will experience the style of development activity that is common in a new startup company. The project based course will be augmented by a series of lectures to accelerate learning with new web technologies, product design, agile development practices, user interface design and project management. During the term, students will work in teams of 4 students. Each team will be closely mentored by several staff members (including the instructors and one or more members from industry). Students will gain valuable technical skills and experience working in small teams, while facing real-world challenges that include a tight schedule, hard deadlines and self directed learning.
@@ -33,7 +33,7 @@ See [course requirements](requirements.md).
 
 [UVic calendar](http://web.uvic.ca/calendar2014/GI/2AYeID.html)
 
-#License
+# License
 This work is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
 
 ![Alt text](https://i.creativecommons.org/l/by-sa/4.0/88x31.png "Creative Commons Attribution-ShareAlike 4.0 International License")
