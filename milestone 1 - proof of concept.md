@@ -4,7 +4,7 @@ For the first milestone (03/12/2012) you are required to provide a proof of conc
 
 ###1. PROJECT HOSTING
 
-Host your project at: [https://github.com/repositories/new](https://github.com/repositories/new)
+Host your project at: [https://github.com/repositories/new](https://github.com/repositories/new)  
 This site will serve as your project home page:
 
 - All source code should be put in project SVN (Source tab)
