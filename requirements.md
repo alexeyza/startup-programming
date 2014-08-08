@@ -21,7 +21,7 @@ Each team is required to do the following:
 4. Prepare a workplan for the implementation, including at least 3 mid-point milestones (dates will be published on the course schedule).
     - Presentation of these milestones will be part of the grade (15%, 25% and 25% of the grade).
 5. At each milestone:
-    - Present status and a working demo to the class. All groups are required to attend presentations by the other groups.
+    - Present status and a working demo to the class. All teams are required to attend presentations by the other teams.
     - Submit code (please open a GitHub repository).
     - Submit presentation files (PPTX / PDF / link to online presentation).
     - Provide a link to a demo of the application (link to live application or a demo video).
