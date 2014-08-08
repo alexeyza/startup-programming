@@ -9,6 +9,7 @@ Host your project at [GitHub](https://github.com/repositories/new), this will se
 - All source code should be pushed to the repository you created.
 - Documentation (usage instructions, screenshots, etc...) should be put in their appropriate place (README.md / Wiki tab / Project Home).
 - Features and Bugs (and project road-map) should be administered using the Issues tab.
+- License: choose the one that suits you best ([this](http://choosealicense.com/) might help), if you can't decide choose Apache V2.
 
 ###2. Feature List
 
