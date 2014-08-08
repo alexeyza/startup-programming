@@ -74,9 +74,6 @@
 
 - The Lean Startup by Eric Ries ([Amazon](http://www.amazon.com/The-Lean-Startup-Entrepreneurs-Continuous/dp/0307887898))
 - Founders at Work: Stories of Startups' Early Days by Jessica Livingston ([Amazon](http://www.amazon.com/Founders-Work-Stories-Startups-Early/dp/1430210788))
+- Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability by Steve Krug ([Amazon](http://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515/ref=dp_ob_title_bk))
 
 ### Recommended Videos
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=pPA787QTxp8
-" target="_blank"><img src="http://img.youtube.com/vi/pPA787QTxp8/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
