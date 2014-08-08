@@ -23,4 +23,6 @@ You will be given 15 minutes for that as follows:
 - Rehearse your presentation within the team and make sure you are all on the same page.
 - Please send us your presentation before the meeting.
 
+**If you haven't done so already, pleas send us an email with the names of the team members** ([alexeyza@uvic.com](mailto:alexeyza@uvic.com)).
+
 Good luck!
