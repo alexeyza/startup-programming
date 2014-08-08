@@ -25,7 +25,7 @@ For example:
 - Status: Server side ready, other parts are missing.
 - Time Estimation: 12 hours.
 ```
-  
+<br>
 Using the standard issue tracker (GitHub Issues) for that will assist you on deciding what to do next. Every decision (as well as your grade) should be derived from this list. Always work only on the next top priority feature not done. The features should be justified by the expected use cases of your product and by the innovation of the features. Stay focused - Do not spend time on re-implementing existing functionality, use mocks and stubs as much as possible in order to focus on the main things.
 We are interested only in the short list. You may also have another more detailed list for your own use.
 
