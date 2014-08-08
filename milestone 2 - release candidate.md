@@ -27,5 +27,5 @@ You are required to provide in your project page (on GitHub) a link to your live
 
 If you have any questions or comments please do not wait for the milestone meeting, use email: [alexeyza@uvic.com](mailto:alexeyza@uvic.com)
 
-Good luck,
+Good luck,  
 Peggy, Cliff, Arie, Ian and Alexey

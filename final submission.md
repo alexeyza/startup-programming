@@ -24,5 +24,5 @@ Give special attention to usability issues, look & feel and simplicity.
 5. Finishing level (bugs, missing features)
 6. Documentation (is it useful for users/developers) 
 
-Good luck,
+Good luck,  
 Peggy, Cliff, Arie, Ian and Alexey

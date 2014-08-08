@@ -45,5 +45,5 @@ For Milestone 3 you required to provide a link to a page which will include inst
 
 If you have any questions or comments please do not wait for the milestone meeting, use email: [taugadgets@gmail.com]()
 
-Good luck,
+Good luck,  
 Peggy, Cliff, Arie, Ian and Alexey
