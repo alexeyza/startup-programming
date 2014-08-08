@@ -24,8 +24,8 @@ Each team is required to do the following:
     - Present status and a working demo to the class. All groups are required to attend presentations by the other groups.
     - Submit code (please open a GitHub repository).
     - Submit presentation files (PPTX / PDF / link to online presentation).
-    - Provide a link to a demo of the application (link to application or a demo video).
-6. Listen to feedback (given both by other students and the staff members).
+    - Provide a link to a demo of the application (link to live application or a demo video).
+6. Listen to feedback (given by other students and the staff members).
 7. Setup a web page (using GitHub) containing all the the above docs, presentations, screenshots, videos and download links.
 8. Have a live working application on the web!
     - If web application, must support the following browsers: Firefox, and Chrome/Chromium (current stable version of each).
