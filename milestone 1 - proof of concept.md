@@ -60,3 +60,6 @@ Prepare a 10 minute presentation:
 5. Good presentation (simple, clear, focused, time-framed, sincere).
 
 If you have any questions please do not wait for the milestone meeting, use email: [alexeyza@uvic.com](mailto:alexeyza@uvic.com)
+
+Good luck,
+Peggy, Cliff, Arie, Ian and Alexey
