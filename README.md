@@ -27,11 +27,12 @@ See [course requirements](requirements.md).
 - Arie Van Deursen
 - Ian Bull
 
+**Teams and Projects:**  
+View current and past [teams and projects](teams and projects.md).
+
 **Reception Hour:** By appointment. Friday 1:00-2:00pm at ECS 542a (please send an email to set a meeting) 
 
 **Contact email:** [alexeyza@uvic.ca](mailto:alexeyza@uvic.ca)
-
-[UVic calendar](http://web.uvic.ca/calendar2014/GI/2AYeID.html)
 
 # License
 This work is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
