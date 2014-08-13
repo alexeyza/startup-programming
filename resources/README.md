@@ -4,7 +4,7 @@
 
 - [Welcome to Startup Programming](https://docs.google.com/presentation/d/1smezy0AbtVYj9YDp43EwO8SYgRWuj9ajBun_AxeNK20)
 - [How to develop an app?](http://docs.google.com/present/edit?id=0ATnSRy32pYeGZGNqM3RraG1fMjE1ZjduZjUzZmQ&hl=en_GB)
-- [Standing on the shoulders of giants](http://prezi.com/6zyl4nqy2hln/standing-on-the-shoulders-of-giants-v2/) - On software reuse and software composition (v2).
+- [Standing on the shoulders of giants](http://prezi.com/mkn6azkr8kqt/standing-on-the-shoulders-of-giants-v4/) - On software reuse and software composition (v4).
 
 ### Meeting 2
 
