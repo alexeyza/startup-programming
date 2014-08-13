@@ -1,4 +1,4 @@
-# Resources
+# Course Slides
 
 ### Meeting 1
 
@@ -17,6 +17,11 @@
 ### Meeting 3
 
 - [UX – UI introduction](https://sites.google.com/site/startup14a/resources/UX%20%E2%80%93%20UI%20introduction%20%281%29.pdf?attredirects=0&d=1)
+
+# Resources
+
+### Recommended Reading and Watching
+Go to [recommended reading](recommended reading.md) seciton.
 
 ### Google App Engine
 
@@ -54,12 +59,28 @@
 
 - [Google Charts](https://developers.google.com/chart/) - Google chart tools are powerful, simple to use, and free. For example, it allows to dynamically generate QR codes.
 
+### Screen Recording
+
+These tools can help you create demo videos, and tutorial videos for your application. Use [this](https://www.youtube.com/watch?v=kRAO-gf67nM) for inspiration.
+
+**On Windows OS:**
+
+- [CamStudio](http://camstudio.org/) - can capture your screen (and audio) and record it
+- [VirtualDub](http://www.virtualdub.org/) - if you need to compress or edit the video
+
+**On Ubuntu:**
+
+- [RecordMyDesktop](http://recordmydesktop.sourceforge.net/about.php) - can capture your screen
+- [WinFF](http://winff.org/html_new/) - you can convert to other formats
+- [Avidemux](http://fixounet.free.fr/avidemux/) - if you need to edit or compress the video
+
 ### Useful Links and Tools
 
 - [Balsamiq](http://balsamiq.com/) - A web service (or desktop tool) for UI mockup sketching.
 - [Google API Explorer](http://code.google.com/apis/explorer/) - A quick and easy way to see all available API's provided by Google.
 - [Build Podcast](http://build-podcast.com/) - A cool podcast about technology tools for design and development (each episode covers a different tool).
 - [Sublime Text](http://www.sublimetext.com/) - A recommended IDE, especially for web developers. Other good options are [TextMate](http://macromates.com/) (only for Mac) or [Atom](https://atom.io/) by GitHub.
+- A badass list of [frontend development resources](https://gist.github.com/dypsilon/5819504).
 
 ### Web and Mobile Prototyping
 
@@ -70,11 +91,3 @@
 
 - [Parsing existing websites](http://open.dapper.net/) - This tool allows you to extract any content from the Web, and get it in various formats.
 - [Never write a web scraper again](http://www.kimonolabs.com/load?url=http%3A%2F%2Fwww.kimonolabs.com%2Fwelcome.html) - A simple to use web scraper.
-
-### Recommended Reading
-
-- The Lean Startup by Eric Ries ([Amazon](http://www.amazon.com/The-Lean-Startup-Entrepreneurs-Continuous/dp/0307887898))
-- Founders at Work: Stories of Startups' Early Days by Jessica Livingston ([Amazon](http://www.amazon.com/Founders-Work-Stories-Startups-Early/dp/1430210788))
-- Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability by Steve Krug ([Amazon](http://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515/ref=dp_ob_title_bk))
-
-### Recommended Videos
