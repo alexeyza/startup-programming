@@ -22,7 +22,7 @@ See [course requirements](requirements.md).
 
 **Staff:**
 
-- Dr. Margaret-Anne Storey
+- Margaret-Anne Storey
 - Alexey Zagalsky
 - Cliff McCollum
 - Arie Van Deursen
