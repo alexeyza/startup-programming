@@ -3,7 +3,7 @@
 ### Meeting 1
 
 - [Welcome to Startup Programming](https://docs.google.com/presentation/d/1smezy0AbtVYj9YDp43EwO8SYgRWuj9ajBun_AxeNK20)
-- [How to develop an app?](http://docs.google.com/present/edit?id=0ATnSRy32pYeGZGNqM3RraG1fMjE1ZjduZjUzZmQ&hl=en_GB)
+- [How to Build a Software Product?](https://docs.google.com/presentation/d/1-T1rV32jLolgbbdOrJsf9SlWsSDswbcoDqAJOtbzd_c)
 - [Standing on the shoulders of giants](http://prezi.com/mkn6azkr8kqt/standing-on-the-shoulders-of-giants-v4/) - On software reuse and software composition (v4).
 
 ### Meeting 2
