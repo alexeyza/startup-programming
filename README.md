@@ -12,7 +12,7 @@ See [course requirements](requirements.md).
 
 **Classes will be on Fridays 2:30-4:30 at ECS 130:**
 
-- Meeting 1, 22/10/2014 - Introduction, How to build a software product, Standing on the shoulders of giants, Demo of past projects, Forming Teams
+- Meeting 1, 22/10/2014 - Introduction, How to build a software product, Standing on the shoulders of giants, Demo of past projects, Forming teams
 - Meeting 2, 29/10/2014 - Web development overview, App Engine
 - Meeting 3, 05/11/2014 - Team work, GitHub, and API's, Project proposal presentations
 - Meeting 4, 12/11/2014 - UI/UX Lecture, Project proposal presentations cont.
