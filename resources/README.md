@@ -11,7 +11,7 @@
 - Web development overview: [client side](https://sites.google.com/site/startup14a/resources/clientSide_crashCourse.pdf?attredirects=0&d=1), [server side](https://sites.google.com/site/startup14a/resources/CrashCourseOnServlets.pdf?attredirects=0&d=1) [[code examples](https://sites.google.com/site/startup14a/resources/html_examples.zip?attredirects=0&d=1) shown in class]
 - [AppEngine and GWT](http://docs.google.com/present/view?id=dd7fg6t5_8fg26w2hf)
 - A few of the past projects:
-    - [Check Me In](https://code.google.com/p/check-me-in/) - [Lessons learned](https://sites.google.com/site/startup14a/resources/Google%20Workshop%20-%20Lesson%20learnd%2029.10.12%20%281%29.pptx?attredirects=0&d=1), who continued to create [Screemo](http://www.screemo.com/), a successful startup.
+    - [Check Me In](https://code.google.com/p/check-me-in/) - continued to create [Screemo](http://www.screemo.com/), a successful startup [[Lessons learned](https://sites.google.com/site/startup14a/resources/Google%20Workshop%20-%20Lesson%20learnd%2029.10.12%20%281%29.pptx?attredirects=0&d=1)].
     - [What2Wear](https://code.google.com/p/what2wear/)
     - [AroundRoid](https://code.google.com/p/aroundroid/)
     - [StrEAT](https://code.google.com/p/team-4/)
