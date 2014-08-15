@@ -1,6 +1,6 @@
 # Milestone 3 - Final Presentation (Public Beta)
 
-We are happy to invite you to present your third milestone in the Google Technologies for Cloud and Web Development Workshop at Google Office TLV on Monday, 21/01/2013 (10:00-13:00).
+We are happy to invite you to present your third milestone in the Google Technologies for Cloud and Web Development Workshop at Google Office TLV on Monday, 28/11/2014 (10:00-13:00).
 
 Google office is located at Electra Tower, 98 Yigal Alon street, 29 floor, Tel-Aviv.
   

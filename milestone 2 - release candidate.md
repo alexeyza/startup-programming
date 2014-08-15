@@ -1,6 +1,6 @@
 #Milestone 2 - Release Candidate
 
-For the second milestone (Monday, 31/12/2012) you are required to show progress based on the feedback you've received from the staff at Milestone 1.
+For the second milestone (Monday, 07/11/2014) you are required to show progress based on the feedback you've received from the staff at Milestone 1.
 
 Please provide a full demonstration (**6 minutes**) of using your product in various scenarios. The demonstration should encompass your top features, and **highlight** new features or changes made since Milestone 1.
 You should also be prepared to talk about your development process, in case you would be asked to (what is your plan for the next Milestone? how long do you expect the work would take? how did you split the work? what was easy? what was difficult? why?).

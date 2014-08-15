@@ -2,7 +2,7 @@
 
 Note that the final submission is not done as a face-to-face presentation but as deploying your final application and all supplemented material to the Web.
 
-By the due date (3/3/2013) you should send us an email ([taugadgets@gmail.com]()) that includes:
+By the due date (05/12/2014) you should send us an email ([taugadgets@gmail.com]()) that includes:
 
 - link to download final application installation file or to the App-Engine website
 - link for all the source code involved in your final project (client, server, other)

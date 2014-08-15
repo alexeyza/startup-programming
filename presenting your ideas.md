@@ -1,5 +1,5 @@
 # Presenting Your Ideas
-In our third meeting (05/11/2012) you should present your project idea.
+In our third meeting (19/09/2014) you should present your project idea.
 
 You will be given 15 minutes for that as follows:
 
