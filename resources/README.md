@@ -8,15 +8,25 @@
 
 ### Meeting 2
 
+- Web development overview: [client side](https://sites.google.com/site/startup14a/resources/clientSide_crashCourse.pdf?attredirects=0&d=1), [server side](https://sites.google.com/site/startup14a/resources/CrashCourseOnServlets.pdf?attredirects=0&d=1) [[code examples](https://sites.google.com/site/startup14a/resources/html_examples.zip?attredirects=0&d=1) shown in class]
 - [AppEngine and GWT](http://docs.google.com/present/view?id=dd7fg6t5_8fg26w2hf)
-- [clientSide_crashCourse](https://sites.google.com/site/startup14a/resources/clientSide_crashCourse.pdf?attredirects=0&d=1)
-- [CrashCourseOnServlets](https://sites.google.com/site/startup14a/resources/CrashCourseOnServlets.pdf?attredirects=0&d=1)
-- [Google Workshop - Lesson learnd 29.10.12 ](https://sites.google.com/site/startup14a/resources/Google%20Workshop%20-%20Lesson%20learnd%2029.10.12%20%281%29.pptx?attredirects=0&d=1)
-- [html_examples](https://sites.google.com/site/startup14a/resources/html_examples.zip?attredirects=0&d=1)
+- A few of the past projects:
+    - [Check Me In](https://code.google.com/p/check-me-in/) - [Lessons learned](https://sites.google.com/site/startup14a/resources/Google%20Workshop%20-%20Lesson%20learnd%2029.10.12%20%281%29.pptx?attredirects=0&d=1), who continued to create [Screemo](http://www.screemo.com/), a successful startup.
+    - [What2Wear](https://code.google.com/p/what2wear/)
+    - [AroundRoid](https://code.google.com/p/aroundroid/)
+    - [StrEAT](https://code.google.com/p/team-4/)
+    - [Good2Go](https://code.google.com/p/good2go/)
+    - [UniZone](https://code.google.com/p/unizone/)
+    - [FlyingBoard](https://code.google.com/p/flyingboard/)
+    - [The Reporter](https://code.google.com/p/smoking-not/)
+    - [SporTeam](https://code.google.com/p/sporteam/) [on [Google Play](https://play.google.com/store/apps/details?id=com.sporteamws)]
+    - [Valto](https://code.google.com/p/valto/)
+    - [Choozie](https://code.google.com/p/choosie-app/) [on [Google Play](https://play.google.com/store/apps/details?id=com.choozie.app)]
+    - [EZ-Launch](https://code.google.com/p/ez-launch/) [on [Google Play](https://play.google.com/store/apps/details?id=com.sadna.widgets.application)]
 
 ### Meeting 3
 
-- [UX – UI introduction](https://sites.google.com/site/startup14a/resources/UX%20%E2%80%93%20UI%20introduction%20%281%29.pdf?attredirects=0&d=1)
+- [UX – UI overview](https://sites.google.com/site/startup14a/resources/UX%20%E2%80%93%20UI%20introduction%20%281%29.pdf?attredirects=0&d=1)
 
 # Resources
 
