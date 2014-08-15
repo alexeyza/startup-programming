@@ -28,11 +28,11 @@ Each team is required to do the following:
 6. Listen to feedback (given by other students and the staff members).
 7. Setup a web page (using GitHub) containing all the the above docs, presentations, screenshots, videos and download links.
 8. Have a live working application on the web!
-    - If web application, must support the following browsers: Firefox, and Chrome/Chromium (current stable version of each).
-    - If mobile application, support stable version of android/iOS.
+    - If web application, must support Firefox and Chrome/Chromium (current stable version of each).
+    - If mobile application, support a stable version of Android or iOS.
     - The application needs to be fully working even after the course has ended.
 9. Grade will be determined on a combination of the following:
     - 70% of your grade will be given for presentation and progress along the semester.
-    - 30% of your grade will be determined "offline".
+    - 30% of your grade will be determined by the course staff reviewing your final project without your presence.
     - For each milestone a list of requirements and expectations will be provided.
     - Extra points may be given for: challenging projects, original ideas, collaboration with external organizations.
