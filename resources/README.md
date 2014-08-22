@@ -48,6 +48,11 @@ Go to [recommended reading](recommended reading.md) seciton.
 - [jQuery plugins](http://webdesignledger.com/resources/best-jquery-plugins-of-2011) - A few nice plugins for jQuery.
 - [JSDB](http://www.jsdb.io/) - Database of Javascript libraries, frameworks & plugins.
 
+### Continues Integration
+
+- [Travis CI](https://travis-ci.org/) - Easy to use continues integration tool (see [tutorial](https://www.youtube.com/watch?v=BOIJjfFoRdc)).
+- [Coveralls](https://coveralls.io/) - Coveralls works with popular continuous integration tools (such as Travis CI) to show test coverage history and statistics.
+
 ### Mobile
 
 - [ionic](http://ionicframework.com/) - Open source front-end framework for developing hybrid mobile apps with HTML5 (for both iOS and Android).
