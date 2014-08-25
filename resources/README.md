@@ -26,7 +26,7 @@
 
 ### Meeting 3
 
-- [UX – UI overview](https://sites.google.com/site/startup14a/resources/UX%20%E2%80%93%20UI%20introduction%20%281%29.pdf?attredirects=0&d=1)
+- Guest Talk: UX – UI overview
 
 # Resources
 
