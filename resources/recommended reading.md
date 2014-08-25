@@ -7,7 +7,7 @@
 - Founders at Work: Stories of Startups' Early Days by Jessica Livingston ([Amazon](http://www.amazon.com/Founders-Work-Stories-Startups-Early/dp/1430210788))
 - Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability by Steve Krug ([Amazon](http://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515/ref=dp_ob_title_bk))
 - Designing Multi-Device Experiences by Michal Levin ([Amazon](http://www.amazon.ca/Designing-Multi-Device-Experiences-Ecosystem-Approach/dp/1449340385), [YouTube](https://www.youtube.com/watch?v=5ieYBP3pUfA), and a [related presentation](http://www.slideshare.net/gabrielwhite/multidevice-user-experience))
-- UX for Lean Startups by Laura Klein ([Amazon](http://www.amazon.com/UX-Lean-Startups-Experience-Research/dp/1449334911), [YouTube](https://www.youtube.com/watch?v=5SpKiSh4Ysk))
+- UX for Lean Startups by Laura Klein ([Amazon](http://www.amazon.com/UX-Lean-Startups-Experience-Research/dp/1449334911))
 - Getting Real by 37signals ([PDF](https://basecamp.com/books/Getting%20Real.pdf))
 
 ### Blogs and Articles
@@ -19,3 +19,4 @@
 ### Recommended Watching
 - The User is Drunk [[YouTube](https://www.youtube.com/watch?v=r2CbbBLVaPk)]
 - Startup School 2012 talks [[YouTube](https://www.youtube.com/watch?v=c2JTu22qxms&list=PLxQVMRveVG5nbTKOKMsojqbHnJsaUfkYU)]
+- Beyond Landing Pages: Five Ways to Find Out if Your Idea Is Stupid by Laura Klein [[YouTube](https://www.youtube.com/watch?v=g_g-9BpBcFs)]
