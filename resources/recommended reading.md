@@ -18,5 +18,5 @@
 
 ### Recommended Watching
 - The User is Drunk [[YouTube](https://www.youtube.com/watch?v=r2CbbBLVaPk)]
-- Startup School 2012 talks [[YouTube](https://www.youtube.com/watch?v=c2JTu22qxms&list=PLxQVMRveVG5nbTKOKMsojqbHnJsaUfkYU)]
+- Startup School talks [[YouTube](https://www.youtube.com/channel/UCcefcZRL2oaA_uBNeo5UOWg/playlists)]
 - Beyond Landing Pages: Five Ways to Find Out if Your Idea Is Stupid by Laura Klein [[YouTube](https://www.youtube.com/watch?v=g_g-9BpBcFs)]
