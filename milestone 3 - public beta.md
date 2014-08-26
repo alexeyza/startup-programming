@@ -1,10 +1,8 @@
 # Milestone 3 - Final Presentation (Public Beta)
 
-We are happy to invite you to present your third milestone in the Google Technologies for Cloud and Web Development Workshop at Google Office TLV on Monday, 28/11/2014 (10:00-13:00).
-
-Google office is located at Electra Tower, 98 Yigal Alon street, 29 floor, Tel-Aviv.
+We are happy to invite you to present your third milestone at ????, Friday 28/11/2014 (place and time TBD).
   
-In the meeting you'll get the opportunity to present the beta version of your project and share your experience with each other (as well as additional guests and some of Google developers that might be curious enough to visit).
+In the meeting you'll get the opportunity to present the beta version of your project and share your experience with each other (as well as additional guests and ??? developers that might be curious enough to visit).
 
 We remind you that for this third milestone you are required to provide a fully functioning project, that will be evaluated by the course staff, and you'll get valuable feedback regarding the expected final project configuration and scope.
 
@@ -43,7 +41,7 @@ For mobile applications you are required to provide a link to a page which will 
 
 **Important note:** This is not the final submission of your project. Please see details on the [Final Submission](final submission.md) page.
 
-If you have any questions or comments please do not wait for the milestone meeting, use email: [taugadgets@gmail.com]()
+If you have any questions or comments please do not wait for the milestone meeting, use email: [alexeyza@uvic.ca](mailto:alexeyza@uvic.ca)
 
 Good luck,  
 Peggy, Cliff, Arie, Ian and Alexey
