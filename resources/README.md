@@ -3,12 +3,12 @@
 ### Meeting 1
 
 - [Welcome to Startup Programming](https://docs.google.com/presentation/d/1smezy0AbtVYj9YDp43EwO8SYgRWuj9ajBun_AxeNK20)
-- [How to Build a Software Product?](https://docs.google.com/presentation/d/1-T1rV32jLolgbbdOrJsf9SlWsSDswbcoDqAJOtbzd_c)
+- [How to build a software product?](https://docs.google.com/presentation/d/1-T1rV32jLolgbbdOrJsf9SlWsSDswbcoDqAJOtbzd_c)
 - [Standing on the shoulders of giants](http://prezi.com/mkn6azkr8kqt/standing-on-the-shoulders-of-giants-v4/) - On software reuse and software composition (v4).
 
 ### Meeting 2
 
-- Web development overview: [client side](https://sites.google.com/site/startup14a/resources/clientSide_crashCourse.pdf?attredirects=0&d=1), [server side](https://sites.google.com/site/startup14a/resources/CrashCourseOnServlets.pdf?attredirects=0&d=1) [[code examples](https://sites.google.com/site/startup14a/resources/html_examples.zip?attredirects=0&d=1) shown in class]
+- [Web development overview](https://docs.google.com/presentation/d/1zvVbyEkl6rlU_Wnd-IIJCQm9Q-vZXPR3XIO0FZxMkng)
 - [AppEngine and GWT](http://docs.google.com/present/view?id=dd7fg6t5_8fg26w2hf)
 - A few of the past projects:
     - [Check Me In](https://code.google.com/p/check-me-in/) - continued to create [Screemo](http://www.screemo.com/), a successful startup [[Lessons learned](https://sites.google.com/site/startup14a/resources/Google%20Workshop%20-%20Lesson%20learnd%2029.10.12%20%281%29.pptx?attredirects=0&d=1)].
