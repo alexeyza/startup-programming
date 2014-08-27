@@ -18,6 +18,8 @@ Each team is required to do the following:
 3. Come up with a project and present the idea, scope and architecture to the class (5% of grade).
     - Obtain approval for the project.
     - Project will include both server side and client side development.
+    - Project needs to be publicly available (e.g. for mentors and future students).
+    - Project needs to be scalable - it can not be hosted on your own machine, no manual input of data (automate it), and it should be running after the semester ends.
 4. Prepare a workplan for the implementation, including at least 3 mid-point milestones (dates will be published on the course schedule).
     - Presentation of these milestones will be part of the grade (15%, 25% and 25% of the grade).
 5. At each milestone:

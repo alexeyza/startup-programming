@@ -5,11 +5,6 @@
 - [Welcome to Startup Programming](https://docs.google.com/presentation/d/1smezy0AbtVYj9YDp43EwO8SYgRWuj9ajBun_AxeNK20)
 - [How to build a software product?](https://docs.google.com/presentation/d/1-T1rV32jLolgbbdOrJsf9SlWsSDswbcoDqAJOtbzd_c)
 - [Standing on the shoulders of giants](http://prezi.com/mkn6azkr8kqt/standing-on-the-shoulders-of-giants-v4/) - On software reuse and software composition (v4).
-
-### Meeting 2
-
-- [Web development overview](https://docs.google.com/presentation/d/1zvVbyEkl6rlU_Wnd-IIJCQm9Q-vZXPR3XIO0FZxMkng)
-- [AppEngine and GWT](http://docs.google.com/present/view?id=dd7fg6t5_8fg26w2hf)
 - A few of the past projects:
     - [Check Me In](https://code.google.com/p/check-me-in/) - continued to create [Screemo](http://www.screemo.com/), a successful startup [[Lessons learned](https://docs.google.com/file/d/0B94p08j2m1YtRDRrLVlFOVVPLUk)].
     - [What2Wear](https://code.google.com/p/what2wear/)
@@ -24,7 +19,16 @@
     - [Choozie](https://code.google.com/p/choosie-app/) [on [Google Play](https://play.google.com/store/apps/details?id=com.choozie.app)]
     - [EZ-Launch](https://code.google.com/p/ez-launch/) [on [Google Play](https://play.google.com/store/apps/details?id=com.sadna.widgets.application)]
 
+### Meeting 2
+
+- [Web development overview](https://docs.google.com/presentation/d/1zvVbyEkl6rlU_Wnd-IIJCQm9Q-vZXPR3XIO0FZxMkng)
+- [AppEngine](http://docs.google.com/present/view?id=dd7fg6t5_8fg26w2hf)
+
 ### Meeting 3
+
+- Team work, GitHub, and API's
+
+### Meeting 4
 
 - Guest Talk: UX – UI overview
 
