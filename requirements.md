@@ -9,7 +9,7 @@ Prerequisites:
 
 General Requirements:
 
-- Attendance in all workshop meetings is **mandatory**
+- Attendance in all workshop meetings is **mandatory**. If you have to miss a meeting, please let us know ahead of time.
 
 Each team is required to do the following:
 
