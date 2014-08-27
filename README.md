@@ -23,10 +23,10 @@ See [course requirements](requirements.md).
 **Staff:**
 
 - Margaret-Anne Storey
+- Alexey Zagalsky
 - Cliff McCollum
 - Arie Van Deursen
 - Ian Bull
-- Alexey Zagalsky
 
 **Teams and Projects:**  
 View current and past [teams and projects](teams and projects.md).
