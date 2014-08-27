@@ -59,7 +59,7 @@ Prepare a 10 minute presentation:
 4. Demonstrating an interesting, self contained, primary use case of your application.
 5. Good presentation (simple, clear, focused, time-framed, sincere).
 
-If you have any questions please do not wait for the milestone meeting, use email: [alexeyza@uvic.com](mailto:alexeyza@uvic.com)
+If you have any questions please do not wait for the milestone meeting, use email: [startup.programming@gmail.com](mailto:startup.programming@gmail.com)
 
 Good luck,  
 Peggy, Cliff, Arie, Ian and Alexey

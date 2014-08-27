@@ -25,7 +25,7 @@ You are required to provide in your project page (on GitHub) a link to your live
 5. Providing a link to the live application.
 6. Good presentation (simple, clear, focused, time-framed, sincere)
 
-If you have any questions or comments please do not wait for the milestone meeting, use email: [alexeyza@uvic.com](mailto:alexeyza@uvic.com)
+If you have any questions or comments please do not wait for the milestone meeting, use email: [startup.programming@gmail.com](mailto:startup.programming@gmail.com)
 
 Good luck,  
 Peggy, Cliff, Arie, Ian and Alexey

@@ -41,7 +41,7 @@ For mobile applications you are required to provide a link to a page which will 
 
 **Important note:** This is not the final submission of your project. Please see details on the [Final Submission](final submission.md) page.
 
-If you have any questions or comments please do not wait for the milestone meeting, use email: [alexeyza@uvic.ca](mailto:alexeyza@uvic.ca)
+If you have any questions or comments please do not wait for the milestone meeting, use email: [startup.programming@gmail.com](mailto:startup.programming@gmail.com)
 
 Good luck,  
 Peggy, Cliff, Arie, Ian and Alexey

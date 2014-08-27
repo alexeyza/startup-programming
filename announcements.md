@@ -8,7 +8,7 @@
     - Think of a use case - a typical use - a need that could be answered by you application.
     - Maybe something you always wanted to write...
 3. Send us email for approval.
-    - Email to:  [alexeyza@uvic.com](mailto:alexeyza@uvic.com) 
+    - Email to:  [startup.programming@gmail.com](mailto:startup.programming@gmail.com) 
 4. Open a project web site.
     - Start at: [https://github.com/repositories/new](https://github.com/repositories/new).
     - This will serve as your project home page.

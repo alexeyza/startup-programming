@@ -13,7 +13,7 @@ You will be given 15 minutes as follows:
 
 **Some Tips:**
 
-- Early feedback is a good thing! It is advisable that you send us your idea as soon as possible via email ([alexeyza@uvic.com](mailto:alexeyza@uvic.com)) - this can save you a lot of time (e.g. if you took a wrong directions, impossible mission, etc.).
+- Early feedback is a good thing! It is advisable that you send us your idea as soon as possible via email ([startup.programming@gmail.com](mailto:startup.programming@gmail.com)) - this can save you a lot of time (e.g. if you took a wrong directions, impossible mission, etc.).
 - 15 minutes is a very short time!
 - If you are preparing a power point presentation - **do not prepare more than 5 slides** (including cover slide).
 - Be visual: if you have already thought about user interface, you may show a sketch of it in the presentation.
@@ -23,6 +23,6 @@ You will be given 15 minutes as follows:
 - Rehearse your presentation within the team and make sure you are all on the same page.
 - If you plan on using slides, please email them to us before the meeting.
 
-**If you haven't done so already, pleas send us an email with the names of your team members** ([alexeyza@uvic.com](mailto:alexeyza@uvic.com)).
+**If you haven't done so already, pleas send us an email with the names of your team members** ([startup.programming@gmail.com](mailto:startup.programming@gmail.com)).
 
 Good luck!
