@@ -1,6 +1,6 @@
 # Announcements
 
-## So, What should I do before the next meeting (07/11/2011)?
+## So, What should I do before the next meeting (12/09/2014)?
 1. Form a team.
     - Each team should consist of 4 students.
 2. Find a project idea.
