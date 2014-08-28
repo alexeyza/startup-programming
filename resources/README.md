@@ -51,6 +51,7 @@ Go to [recommended reading](recommended reading.md) seciton.
 - [jQuery](http://jquery.com/) - If you plan to use javascript in your application, you should consider using JQuery library.
 - [jQuery plugins](http://webdesignledger.com/resources/best-jquery-plugins-of-2011) - A few nice plugins for jQuery.
 - [JSDB](http://www.jsdb.io/) - Database of Javascript libraries, frameworks & plugins.
+- [Advanced JavaScript](https://github.com/advanced-js/syllabus#resources) course - A nice collection of resources to learn JavaScript.
 
 ### Continues Integration
 
