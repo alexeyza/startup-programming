@@ -22,11 +22,11 @@ See [course requirements](requirements.md).
 
 **Staff:**
 
-- Margaret-Anne Storey
-- Alexey Zagalsky
+- [Margaret-Anne Storey](http://webhome.cs.uvic.ca/~mstorey)
+- [Alexey Zagalsky](http://alexeyza.com/)
 - Cliff McCollum
-- Arie Van Deursen
-- Ian Bull
+- [Arie Van Deursen](http://www.st.ewi.tudelft.nl/~arie/)
+- [Ian Bull](http://ianbull.com/)
 
 **Teams and Projects:**  
 View current and past [teams and projects](teams and projects.md).
