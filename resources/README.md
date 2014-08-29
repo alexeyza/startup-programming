@@ -22,11 +22,11 @@
 ### Meeting 2
 
 - [Web development overview](https://docs.google.com/presentation/d/1zvVbyEkl6rlU_Wnd-IIJCQm9Q-vZXPR3XIO0FZxMkng)
-- [AppEngine](http://docs.google.com/present/view?id=dd7fg6t5_8fg26w2hf)
+- Platform as a Service
 
 ### Meeting 3
 
-- Team work, GitHub, and API's
+- Team work, Source control (GitHub), and API's
 
 ### Meeting 4
 
