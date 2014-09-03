@@ -46,6 +46,7 @@ Go to [recommended reading](recommended reading.md) seciton.
 ### Python
 
 - [Google Python Class Day](http://www.youtube.com/watch?v=tKTZoB2Vjuk&feature=channel) - A basic tutorial for python by Nick Parlante. There are links to his exercises as well.
+- [PyCharm](http://www.jetbrains.com/pycharm/) - A pretty good IDE for Python.
 
 ### JavaScript
 - [Douglas Crockford's Javascript](http://javascript.crockford.com/) - Useful links for JavaScript. Watch the video courses (in the bottom of the page).
