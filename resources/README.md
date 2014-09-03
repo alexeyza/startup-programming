@@ -41,6 +41,7 @@ Go to [recommended reading](recommended reading.md) seciton.
 
 - [Google App Engine](https://developers.google.com/appengine/) - Google App Engine is a Platform as a Service (PaaS) offering that lets you build and run applications on Google’s infrastructure.
 - App Engine Shoutout ([Python](https://www.youtube.com/watch?v=bfgO-LXGpTM), [Java](https://www.youtube.com/watch?v=P3GT4-m_6RQ)) - "Hello World" for App Engine in Python (a bit outdated but with a few minor changes can work).
+- [App Engine with Python and Flask](https://www.youtube.com/watch?v=FRI3QGNWJYI) - If you prefer to work with Flask instead of the default [webapp2 framework](https://webapp-improved.appspot.com/).
 
 ### Python
 
