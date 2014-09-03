@@ -22,7 +22,7 @@
 ### Meeting 2
 
 - [Web development overview](https://docs.google.com/presentation/d/1zvVbyEkl6rlU_Wnd-IIJCQm9Q-vZXPR3XIO0FZxMkng)
-- Platform as a Service (App Engine [demo files](/GAEDemo.zip?raw=true) from class)
+- Platform as a Service (App Engine [demo files](resources/GAEDemo.zip?raw=true) from class)
 
 ### Meeting 3
 
