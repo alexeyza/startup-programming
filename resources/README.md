@@ -23,6 +23,7 @@
 
 - [Web development overview](https://docs.google.com/presentation/d/1zvVbyEkl6rlU_Wnd-IIJCQm9Q-vZXPR3XIO0FZxMkng)
 - Cloud Computing Services (App Engine [demo files](GAEDemo.zip?raw=true) from class)
+- UX – UI overview
 
 ### Meeting 3
 
@@ -30,7 +31,7 @@
 
 ### Meeting 4
 
-- Guest Talk: UX – UI overview
+- Guest Talk 
 
 # Resources
 

@@ -14,9 +14,9 @@ See [course requirements](requirements.md).
 (*Tentative schedule*)
 
 - Meeting 1, 05/09/2014 - Introduction, How to build a software product, Standing on the shoulders of giants, Demo of past projects, Forming teams
-- Meeting 2, 12/09/2014 - Web development overview, App Engine
-- Meeting 3, 19/09/2014 - Team work, GitHub, and API's, Project proposal presentations
-- Meeting 4, 26/09/2014 - UI/UX Lecture, Project proposal presentations cont.
+- Meeting 2, 12/09/2014 - Web development overview, Cloud computing services (by Alexey), UI/UX overview lecture (by Peggy)
+- Meeting 3, 19/09/2014 - Team work, GitHub, and API's (by Ian), Project proposal presentations
+- Meeting 4, 26/09/2014 - TBD talk (by Arie), Project proposal presentations cont.
 - Meeting 5, 10/10/2014 - Guest Talks
 - Meeting 6, 17/10/2014 - Milestone 1 presentation - Proof Of Concept
 - Meeting 7, 07/11/2014 - Milestone 2 presentation - Release Candidate
