@@ -15,6 +15,7 @@
 - Y-Combinator [essays](http://www.paulgraham.com/articles.html) by Paul Grahm, and the Y-Combinator [startup library](http://www.ycombinator.com/resources/).
 - How to validate a product without building it [[link](http://blog.sendwithus.com/how-we-validated/)]
 - How Airbnb solved the mystery of predicative pricing [[link](http://www.fastcompany.com/3026550/lessons-learned/how-airbnb-solved-the-mystery-of-predictive-pricing)]
+- Interaction design checklist [[link](http://ixdchecklist.com/)]
 
 ### Recommended Watching
 - The User is Drunk [[YouTube](https://www.youtube.com/watch?v=r2CbbBLVaPk)]
