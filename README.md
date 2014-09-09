@@ -20,7 +20,7 @@ See [course requirements](requirements.md).
 - Meeting 5, 10/10/2014 - Guest Talks
 - Meeting 6, 17/10/2014 - [Milestone 1 presentation](milestone 1 - proof of concept.md) - Proof Of Concept
 - Meeting 7, 07/11/2014 - [Milestone 2 presentation](milestone 2 - release candidate.md) - Release Candidate
-- Meeting 8, 28/11/2014 - [Final presentation](milestone 3 - public beta.md) (Milestone 3, Public live BETA)
+- Meeting 8, 28/11/2014 - Final presentation ([Milestone 3](milestone 3 - public beta.md), Public live BETA)
 
 **Staff:**
 
