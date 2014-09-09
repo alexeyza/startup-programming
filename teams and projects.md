@@ -30,7 +30,7 @@ Members:
 - Jordan Lerner [[jordan.m.lerner@gmail.com](mailto:jordan.m.lerner@gmail.com)]
 - Logan Masniuk [[logan.masniuk@gmail.com](mailto:logan.masniuk@gmail.com)]
 - Berk Yazicioglu [[yaziciogluberk@gmail.com](mailto:yaziciogluberk@gmail.com)]
-- John Rogers [[jrogers@uvic.ca](mailto:jrogers@uvic.ca)]
+- ?? [[??](mailto:??)]
 
 ---
 
@@ -38,11 +38,11 @@ Members:
 Description:  
 Members:
 
-- Student 1 <email>
-- Student 2 <email>
-- Student 3 <email>
-- Student 4 <email>
-- Student 5 <email>
+- Christopher Cook [[cjcook@uvic.ca](mailto:cjcook@uvic.ca)]
+- Hardeep Kevin Gill [[hkevgill@uvic.ca](mailto:hkevgill@uvic.ca)]
+- Jesper Rage [[jrage@uvic.ca](mailto:jrage@uvic.ca)]
+- Lloyd Montgomery [[lloydrmontgomery@gmail.com](mailto:lloydrmontgomery@gmail.com)]
+- Noel Feliciano [[felicianonoel@gmail.com](mailto:felicianonoel@gmail.com)]
 
 ---
 
