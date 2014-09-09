@@ -33,6 +33,7 @@ Members:
 - Student 2 <email>
 - Student 3 <email>
 - Student 4 <email>
+- Student 5 <email>
 
 ---
 
@@ -44,6 +45,7 @@ Members:
 - Student 2 <email>
 - Student 3 <email>
 - Student 4 <email>
+- Student 5 <email>
 
 ---
 
@@ -55,6 +57,7 @@ Members:
 - Student 2 <email>
 - Student 3 <email>
 - Student 4 <email>
+- Student 5 <email>
 
 ---
 
