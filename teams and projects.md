@@ -20,7 +20,6 @@ Members:
 - Daniel Faulkler [[danielafaulkner@gmail.com](mailto:danielafaulkner@gmail.com)]
 - Chuan Yun Loe [[cyloe3@gmail.com](mailto:cyloe3@gmail.com)]
 - Prashant Chhabra [[prashant.chhabra89@gmail.com](mailto:prashant.chhabra89@gmail.com)]
-- Jyoti Sheoran [[sheoranjs24@gmail.com](mailto:sheoranjs24@gmail.com)]
 
 ---
 
