@@ -27,11 +27,10 @@ Members:
 Description:  
 Members:
 
-- Student 1 <email>
-- Student 2 <email>
-- Student 3 <email>
-- Student 4 <email>
-- Student 5 <email>
+- Jordan Lerner [[jordan.m.lerner@gmail.com](mailto:jordan.m.lerner@gmail.com)]
+- Logan Masniuk [[logan.masniuk@gmail.com](mailto:logan.masniuk@gmail.com)]
+- Berk Yazicioglu [[yaziciogluberk@gmail.com](mailto:yaziciogluberk@gmail.com)]
+- John Rogers [[jrogers@uvic.ca](mailto:jrogers@uvic.ca)]
 
 ---
 
