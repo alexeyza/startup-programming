@@ -16,6 +16,7 @@
 - How to validate a product without building it [[link](http://blog.sendwithus.com/how-we-validated/)]
 - How Airbnb solved the mystery of predicative pricing [[link](http://www.fastcompany.com/3026550/lessons-learned/how-airbnb-solved-the-mystery-of-predictive-pricing)]
 - Interaction design checklist [[link](http://ixdchecklist.com/)]
+- How to give a 90-second demo [[link](http://www.mattmcalister.com/blog/2006/09/22/96/how-to-give-a-90-second-demo/)]
 
 ### Recommended Watching
 - The User is Drunk [[YouTube](https://www.youtube.com/watch?v=r2CbbBLVaPk)]
