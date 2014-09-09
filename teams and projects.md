@@ -8,6 +8,7 @@ Members:
 - Samuel Navarrete [[cakebrewery@gmail.com](mailto:cakebrewery@gmail.com)]
 - Riz Panjwani [[panjwani.riz@gmail.com](mailto:panjwani.riz@gmail.com)]
 - Carly Lebeuf [[carly.lebeuf@gmail.com](mailto:carly.lebeuf@gmail.com)]
+- Jyoti Sheoran [[sheoranjs24@gmail.com](mailto:sheoranjs24@gmail.com)]
 
 ---
 
