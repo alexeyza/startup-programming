@@ -6,9 +6,9 @@ Members:
 
 - Scott Low [[scouter32@gmail.com](mailto:scouter32@gmail.com)]
 - Samuel Navarrete [[cakebrewery@gmail.com](mailto:cakebrewery@gmail.com)]
-- Laura Grondahl [[emailgrondahl@gmail.com](mailto:emailgrondahl@gmail.com)]
 - Riz Panjwani [[panjwani.riz@gmail.com](mailto:panjwani.riz@gmail.com)]
 - Carly Lebeuf [[carly.lebeuf@gmail.com](mailto:carly.lebeuf@gmail.com)]
+- ?
 
 ---
 
