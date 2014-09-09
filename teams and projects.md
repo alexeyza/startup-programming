@@ -16,12 +16,13 @@ Members:
 Description:  
 Members:
 
-- Siduo Guan <sirius890928@gmail.com>
-- Jonathan Lam <N/A>
-- Daniel Faulkler <danielafaulkner@gmail.com>
-- Chuan Yun Loe <cyloe3@gmail.com>
-- Prashant Chhabra <prashant.chhabra89@gmail.com>
-- Jyoti Sheoran <sheoranjs24@gmail.com>
+- Siduo Guan [[sirius890928@gmail.com](mailto:sirius890928@gmail.com)]
+- Jonathan Lam [N\A]
+- Daniel Faulkler [[danielafaulkner@gmail.com](mailto:danielafaulkner@gmail.com)]
+- Chuan Yun Loe [[cyloe3@gmail.com](mailto:cyloe3@gmail.com)]
+- Prashant Chhabra [[prashant.chhabra89@gmail.com](mailto:prashant.chhabra89@gmail.com)]
+- Jyoti Sheoran [[sheoranjs24@gmail.com](mailto:sheoranjs24@gmail.com)]
+
 ---
 
 **Team 3:**  
