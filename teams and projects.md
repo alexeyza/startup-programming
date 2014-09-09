@@ -15,9 +15,9 @@ Members:
 Description:  
 Members:
 
-- Siduo Guan [[sirius890928@gmail.com](mailto:sirius890928@gmail.com)]
-- Jonathan Lam [N\A]
-- Daniel Faulkler [[danielafaulkner@gmail.com](mailto:danielafaulkner@gmail.com)]
+- Charlie Guan [[sirius890928@gmail.com](mailto:sirius890928@gmail.com)]
+- Jonathan Lam [[lamjwe@uvic.ca](mailto:lamjwe@uvic.ca)]
+- Daniel Faulkner [[danielafaulkner@gmail.com](mailto:danielafaulkner@gmail.com)]
 - Chuan Yun Loe [[cyloe3@gmail.com](mailto:cyloe3@gmail.com)]
 - Prashant Chhabra [[prashant.chhabra89@gmail.com](mailto:prashant.chhabra89@gmail.com)]
 
