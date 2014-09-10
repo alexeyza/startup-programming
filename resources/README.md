@@ -56,10 +56,16 @@ Go to [recommended reading](recommended reading.md) seciton.
 - [JSDB](http://www.jsdb.io/) - Database of Javascript libraries, frameworks & plugins.
 - [Advanced JavaScript](https://github.com/advanced-js/syllabus#resources) course - A nice collection of resources to learn JavaScript.
 
-### Continues Integration
+### Continuous Integration
 
-- [Travis CI](https://travis-ci.org/) - Easy to use continues integration tool (see [tutorial](https://www.youtube.com/watch?v=BOIJjfFoRdc)).
+- [Travis CI](https://travis-ci.org/) - Easy to use continuous integration tool (see [tutorial](https://www.youtube.com/watch?v=BOIJjfFoRdc)).
 - [Coveralls](https://coveralls.io/) - Coveralls works with popular continuous integration tools (such as Travis CI) to show test coverage history and statistics.
+
+### Requirements and User Stories
+
+- [What's in a Story](http://dannorth.net/whats-in-a-story/) - Simple way to describe user stories / requirements for your product (behavior-driven development).
+- [Cucumber](http://cukes.info/) (Ruby) tool to support Behaviour-Driven Development.
+
 
 ### Mobile
 
