@@ -22,7 +22,7 @@
 ### Meeting 2
 
 - [Web development overview](https://docs.google.com/presentation/d/1zvVbyEkl6rlU_Wnd-IIJCQm9Q-vZXPR3XIO0FZxMkng)
-- [Cloud Computing Services](https://docs.google.com/presentation/d/10YzdcKihpphwu9zDsIxBHP7ntKUPYePb2sj973sywUI) (App Engine [demo files](GAEDemo.zip?raw=true) from class)
+- [Cloud computing services](https://docs.google.com/presentation/d/10YzdcKihpphwu9zDsIxBHP7ntKUPYePb2sj973sywUI) (App Engine [demo files](GAEDemo.zip?raw=true) from class)
 - UX – UI overview
 
 ### Meeting 3
@@ -64,7 +64,7 @@ Go to [recommended reading](recommended reading.md) seciton.
 ### Requirements and User Stories
 
 - [What's in a Story](http://dannorth.net/whats-in-a-story/) - Simple way to describe user stories / requirements for your product (behavior-driven development).
-- [Cucumber](http://cukes.info/) (Ruby) tool to support Behaviour-Driven Development.
+- [Cucumber](http://cukes.info/) - (Ruby) tool to support Behaviour-Driven Development.
 
 
 ### Mobile
