@@ -32,6 +32,7 @@ Members:
 - Logan Masniuk [[logan.masniuk@gmail.com](mailto:logan.masniuk@gmail.com)]
 - Berk Yazicioglu [[yaziciogluberk@gmail.com](mailto:yaziciogluberk@gmail.com)]
 - ?? [[??](mailto:??)]
+- ?? [[??](mailto:??)]
 
 ---
 
@@ -51,11 +52,11 @@ Members:
 Description:  
 Members:
 
-- Student 1 <email>
-- Student 2 <email>
-- Student 3 <email>
-- Student 4 <email>
-- Student 5 <email>
+- Erik Afable [[afablee@gmail.com](mailto:afablee@gmail.com)]
+- Sahibdeep Sran [[sahibdeepsran@hotmail.com](mailto:sahibdeepsran@hotmail.com)]
+- James Hedin [[jhedin10@gmail.com](mailto:jhedin10@gmail.com)]
+- Gaurav Thakur [[gst.coldplayer@gmail.com](mailto:gst.coldplayer@gmail.com)]
+- ?? [[??](??)]
 
 ---
 
