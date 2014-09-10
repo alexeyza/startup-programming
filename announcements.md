@@ -1,5 +1,12 @@
 # Announcements
 
+## Interesting events
+Here a few events that may interest you:
+
+- An upcoming [PitchIt competition](http://www.uvic.ca/ice/services/competitions/pitchit/index.php) on October 16th and February 5th.
+- [Startup Slam](http://ow.ly/i/6Qdge/original) meeting on September 20th.
+
+
 ## So, What should I do before the next meeting (12/09/2014)?
 1. Form a team.
     - Each team should consist of 4 students.
