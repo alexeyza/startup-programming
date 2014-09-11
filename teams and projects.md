@@ -32,7 +32,6 @@ Members:
 - Logan Masniuk [[logan.masniuk@gmail.com](mailto:logan.masniuk@gmail.com)]
 - Berk Yazicioglu [[yaziciogluberk@gmail.com](mailto:yaziciogluberk@gmail.com)]
 - ?? [[??](mailto:??)]
-- ?? [[??](mailto:??)]
 
 ---
 
@@ -56,7 +55,6 @@ Members:
 - Sahibdeep Sran [[sahibdeepsran@hotmail.com](mailto:sahibdeepsran@hotmail.com)]
 - James Hedin [[jhedin10@gmail.com](mailto:jhedin10@gmail.com)]
 - Gaurav Thakur [[gst.coldplayer@gmail.com](mailto:gst.coldplayer@gmail.com)]
-- ?? [[??](mailto:??)]
 
 ---
 
