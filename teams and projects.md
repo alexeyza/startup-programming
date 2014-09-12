@@ -31,7 +31,7 @@ Members:
 - Jordan Lerner [[jordan.m.lerner@gmail.com](mailto:jordan.m.lerner@gmail.com)]
 - Logan Masniuk [[logan.masniuk@gmail.com](mailto:logan.masniuk@gmail.com)]
 - Berk Yazicioglu [[yaziciogluberk@gmail.com](mailto:yaziciogluberk@gmail.com)]
-- ?? [[??](mailto:??)]
+- Paulo Tabarro [[bobleujr@hotmail.com](mailto:bobleujr@hotmail.com)]
 
 ---
 
