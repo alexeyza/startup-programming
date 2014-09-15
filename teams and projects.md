@@ -32,6 +32,7 @@ Members:
 - Logan Masniuk [[logan.masniuk@gmail.com](mailto:logan.masniuk@gmail.com)]
 - Berk Yazicioglu [[yaziciogluberk@gmail.com](mailto:yaziciogluberk@gmail.com)]
 - Paulo Tabarro [[bobleujr@hotmail.com](mailto:bobleujr@hotmail.com)]
+- James Hedin [[jhedin10@gmail.com](mailto:jhedin10@gmail.com)]
 
 ---
 
@@ -44,15 +45,6 @@ Members:
 - Jesper Rage [[jrage@uvic.ca](mailto:jrage@uvic.ca)]
 - Lloyd Montgomery [[lloydrmontgomery@gmail.com](mailto:lloydrmontgomery@gmail.com)]
 - Noel Feliciano [[felicianonoel@gmail.com](mailto:felicianonoel@gmail.com)]
-
----
-
-**Team 5:**  
-Description:  
-Members:
-
-- James Hedin [[jhedin10@gmail.com](mailto:jhedin10@gmail.com)]
-- Gaurav Thakur [[gst.coldplayer@gmail.com](mailto:gst.coldplayer@gmail.com)]
 
 ---
 
