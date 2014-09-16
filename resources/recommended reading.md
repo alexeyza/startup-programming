@@ -21,5 +21,6 @@
 ### Recommended Watching
 - The User is Drunk [[YouTube](https://www.youtube.com/watch?v=r2CbbBLVaPk)]
 - Startup School talks [[YouTube](https://www.youtube.com/channel/UCcefcZRL2oaA_uBNeo5UOWg/playlists)]
+- How to Start a Startup course at Stanford by Y-Combinator [[link](http://startupclass.samaltman.com/)]
 - Beyond Landing Pages: Five Ways to Find Out if Your Idea Is Stupid by Laura Klein [[YouTube](https://www.youtube.com/watch?v=g_g-9BpBcFs)]
 - User Interface Techniques by Janne Jul Jensen [[YouTube](https://www.youtube.com/watch?v=7OSkB4BCx00)]
