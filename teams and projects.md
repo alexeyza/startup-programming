@@ -33,7 +33,6 @@ Members:
 - Berk Yazicioglu [[yaziciogluberk@gmail.com](mailto:yaziciogluberk@gmail.com)]
 - Paulo Tabarro [[bobleujr@hotmail.com](mailto:bobleujr@hotmail.com)]
 - James Hedin [[jhedin10@gmail.com](mailto:jhedin10@gmail.com)]
-- Gaurav Thakur [[gst.coldplayer@gmail.com](mailto:gst.coldplayer@gmail.com)]
 
 ---
 
