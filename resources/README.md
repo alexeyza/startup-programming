@@ -115,6 +115,10 @@ These tools can help you create demo videos, and tutorial videos for your applic
 - [Sublime Text](http://www.sublimetext.com/) - A recommended text editor/"light IDE", especially for web developers. Other good options are [TextMate](http://macromates.com/) (only for Mac) or [Atom](https://atom.io/) by GitHub.
 - A badass list of [frontend development resources](https://gist.github.com/dypsilon/5819504).
 
+### Finding Users and Promoting Your Application
+
+- [Product Hunt](http://www.producthunt.com/) shows new applications on a daily basis (Reddit-like interface). You can submit your own application. 
+
 ### Web and Mobile Prototyping
 
 - [invision](http://www.invisionapp.com/) - Quickly transform your designs into beautiful, fully interactive prototypes complete with gestures, transitions & animations for web, iOS & Android (Free).
