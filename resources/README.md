@@ -36,9 +36,13 @@
 # Resources
 
 ### Recommended Reading and Watching
-Go to [recommended reading](recommended reading.md) seciton.
+Go to [recommended reading](recommended reading.md) section.
 
-### Google App Engine
+### Cloud Computing Services
+
+- Information on various cloud computing services [[link](http://leanstack.io/)]
+
+#### Google App Engine
 
 - [Google App Engine](https://developers.google.com/appengine/) - Google App Engine is a Platform as a Service (PaaS) offering that lets you build and run applications on Google’s infrastructure.
 - App Engine Shoutout ([Python](https://www.youtube.com/watch?v=bfgO-LXGpTM), [Java](https://www.youtube.com/watch?v=P3GT4-m_6RQ)) - "Hello World" for App Engine in Python (a bit outdated but with a few minor changes can work).
@@ -51,9 +55,9 @@ Go to [recommended reading](recommended reading.md) seciton.
 
 ### JavaScript
 - [Douglas Crockford's Javascript](http://javascript.crockford.com/) - Useful links for JavaScript. Watch the video courses (in the bottom of the page).
-- [jQuery](http://jquery.com/) - If you plan to use javascript in your application, you should consider using JQuery library.
+- [jQuery](http://jquery.com/) - If you plan to use JavaScript in your application, you should consider using JQuery library.
 - [jQuery plugins](http://webdesignledger.com/resources/best-jquery-plugins-of-2011) - A few nice plugins for jQuery.
-- [JSDB](http://www.jsdb.io/) - Database of Javascript libraries, frameworks & plugins.
+- [JSDB](http://www.jsdb.io/) - Database of JavaScript libraries, frameworks & plugins.
 - [Advanced JavaScript](https://github.com/advanced-js/syllabus#resources) course - A nice collection of resources to learn JavaScript.
 
 ### Continuous Integration
@@ -90,7 +94,7 @@ Go to [recommended reading](recommended reading.md) seciton.
 
 ### Screen Recording
 
-These tools can help you create demo videos, and tutorial videos for your application. Use [this](https://www.youtube.com/watch?v=kRAO-gf67nM) for inspiration.
+These tools can help you create demo videos, and tutorial videos for your application. Use [this demo video](https://www.youtube.com/watch?v=kRAO-gf67nM) for inspiration.
 
 **On Windows OS:**
 
