@@ -81,3 +81,10 @@ libraries:
   version: "2.5.2"
 
 ```
+
+### How do I continue from here?
+[Flask](http://flask.pocoo.org/) is a very simple web framework for Python. There are several good resources to learn Flask:
+
+- [Official documentation](http://flask.pocoo.org/docs/0.10/)
+- [Flask by Example](https://www.youtube.com/watch?v=FGrIyBDQLPg) A great YouTube tutorial, with all the [code availible online](https://github.com/miguelgrinberg/flask-pycon2014) as well
+- [Explore Flask](http://exploreflask.com/) online book
