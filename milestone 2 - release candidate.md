@@ -1,6 +1,6 @@
 #Milestone 2 - Release Candidate
 
-For the second milestone (Monday, 07/11/2014) you are required to show progress based on the feedback you've received from the staff about Milestone 1.
+For the second milestone (due on Monday, 07/11/2014) you are required to show progress based on the feedback you've received from the staff about Milestone 1.
 
 Please provide a full demonstration (**6 minutes**) of using your product in various scenarios. The demonstration should encompass your top features, and **highlight** new features or changes made since Milestone 1.
 You should also be prepared to talk about your development process, in case you are asked: what is your plan for the next Milestone? how long do you expect the work would take? how did you split the work? what was easy? what was difficult? why?
@@ -18,12 +18,12 @@ You are required to provide in your project page (on GitHub) a link to your live
 
 **Important note:** Full grading for Milestone 2 (25 points) will be given for teams that are successfully:
 
-1. Focusing on primary use case and taking into account our feedback (sent by email for every team).
-2. Following the project plan while adapting dynamically.
-3. Continuously working throughout the semester.
-4. Demonstrating an interesting, self contained, useful and live application.
+1. Focus on the primary use case and take into account our feedback (will be sent by email for every team).
+2. Follow the project plan while adapting dynamically.
+3. Continuously work throughout the semester.
+4. Demonstrate an interesting, self contained, useful and live application.
 5. Providing a link to the live application.
-6. Good presentation (simple, clear, focused, time-framed, sincere)
+6. Give a good presentation (simple, clear, focused, time-framed, sincere)
 
 If you have any questions or comments please do not wait for the milestone meeting, use email: [startup.programming@gmail.com](mailto:startup.programming@gmail.com)
 
