@@ -22,7 +22,7 @@
 ### Meeting 2
 
 - [Web development overview](https://docs.google.com/presentation/d/1zvVbyEkl6rlU_Wnd-IIJCQm9Q-vZXPR3XIO0FZxMkng)
-- [Cloud computing services](https://docs.google.com/presentation/d/10YzdcKihpphwu9zDsIxBHP7ntKUPYePb2sj973sywUI) ([App Engine with Java example code](example code/app engine java shoutout.md) from class, and [App Engine with Python+Flask example code](example code/app engine python with flask shoutout.md))
+- [Cloud computing services](https://docs.google.com/presentation/d/10YzdcKihpphwu9zDsIxBHP7ntKUPYePb2sj973sywUI) ([App Engine with Java example code](example code/app engine java shoutout.md) from class, and an equivalent [App Engine with Python+Flask example code](example code/app engine python with flask shoutout.md))
 - [UX – UI overview](ux.pdf?raw=true)
 
 ### Meeting 3
