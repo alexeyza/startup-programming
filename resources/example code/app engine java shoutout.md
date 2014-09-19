@@ -3,7 +3,7 @@
 First, follow [the installation instructions](FAQ.md#google-app-engine-tutorial) to install Eclipse, and the Google plugin for Eclipse. At this point, you should have a newly created *Hello World* project.
 
 Let's start by creating a ```/src/main/Shout.java``` class to represent a single Shout:
-```
+```java
 package main;
 
 import javax.jdo.annotations.IdentityType;
@@ -34,7 +34,7 @@ public class Shout {
 ```
 
 And create a typical [Persistence Manager Factory](https://db.apache.org/jdo/pmf.html) class at ```/src/main/PMF.java``` in order to use the database (via JDO):
-```
+```java
 package main;
 
 import javax.jdo.JDOHelper;
@@ -53,7 +53,7 @@ public final class PMF {
 ```
 
 Next, we'll create a ```/src/main/GAEDemoServlet.java``` servlet to handle GET requests that add new Shouts:
-```
+```java
 package main;
 
 import java.io.IOException;
@@ -83,7 +83,7 @@ public class GAEDemoServlet extends HttpServlet {
 ```
 
 Instead of using the existing ```/war/index.html```, we'll create the following ```/war/index.jsp```. This page will include a *form* to input new shouts, and will display all the existing shouts :
-```
+```jsp
 <%@ page language="java" contentType="text/html; charset=windows-1255"
     pageEncoding="windows-1255"%>
 <%@ page import="javax.jdo.PersistenceManager"%>
@@ -117,7 +117,7 @@ Instead of using the existing ```/war/index.html```, we'll create the following 
 ```
 
 Lastly, we need to configure the [deployment descriptor](https://developers.google.com/appengine/docs/java/config/webxml) at ```/war/WEB-INF/web.xml``` to determine the URL mapping of our application:
-```
+```xml
 <?xml version="1.0" encoding="utf-8"?>
 <web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 xmlns="http://java.sun.com/xml/ns/javaee"
