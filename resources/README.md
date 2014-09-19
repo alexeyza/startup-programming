@@ -27,7 +27,7 @@
 
 ### Meeting 3
 
-- Team work, Source control (GitHub), and API's
+- Team work, Source control (GitHub), and API's - [Run your project like it’s an open source project]() by Ian Bull
 
 ### Meeting 4
 
