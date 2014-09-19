@@ -1,6 +1,6 @@
 # Shoutout Demo - an App Engine Tutorial (with Java)
 
-First, follow [the installation instructions](../FAQ.md#google-app-engine-tutorial) to install Eclipse, and the Google plugin for Eclipse. At this point, you should have a newly created *Hello World* project.
+First, follow [the installation instructions](FAQ.md#google-app-engine-tutorial) to install Eclipse, and the Google plugin for Eclipse. At this point, you should have a newly created *Hello World* project.
 
 Let's start by creating a ```/src/main/Shout.java``` class to represent a single Shout:
 ```java
