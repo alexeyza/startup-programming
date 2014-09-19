@@ -31,13 +31,13 @@ For mobile applications you are required to provide a link to a page which will 
 
 **Important note:** Full grading for the milestone (25 points) will be given for teams that are successfully:
 
-1. Focusing on primary use case and taking into account our feedback (sent by email for every team).
-2. Following the project plan while adapting dynamically.
-3. Continuously working throughout the semester.
-4. Demonstrating an interesting, self contained, useful, and live application.
-5. Providing a link to a live application and a link to installation/usage instructions page
+1. Focus on the primary use case and take into account our feedback (will be sent by email for every team).
+2. Follow the project plan while adapting dynamically.
+3. Continuously work throughout the semester.
+4. Demonstrate an interesting, self contained, useful, and live application.
+5. Provide a link to a live application and a link to installation/usage instructions page
 6. Finishing level of the existing features
-7. Good presentation (simple, clear, focused, time-framed, sincere)
+7. Give a good presentation (simple, clear, focused, time-framed, sincere)
 
 **Important note:** This is not the final submission of your project. Please see details on the [Final Submission](final submission.md) page.
 
