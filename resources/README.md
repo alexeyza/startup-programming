@@ -22,7 +22,7 @@
 ### Meeting 2
 
 - [Web development overview](https://docs.google.com/presentation/d/1zvVbyEkl6rlU_Wnd-IIJCQm9Q-vZXPR3XIO0FZxMkng)
-- [Cloud computing services](https://docs.google.com/presentation/d/10YzdcKihpphwu9zDsIxBHP7ntKUPYePb2sj973sywUI) - Code tutorials (with various platforms) for the [example shown in class](http://startupprogrammingdemo.appspot.com/) can be found in the [tutorials section](tutorials).
+- [Cloud computing services](https://docs.google.com/presentation/d/10YzdcKihpphwu9zDsIxBHP7ntKUPYePb2sj973sywUI) - Code tutorials (of various platforms) for the [example shown in class](http://startupprogrammingdemo.appspot.com/) can be found in the [tutorials section](tutorials).
 - [UX – UI overview](ux.pdf?raw=true)
 
 ### Meeting 3
