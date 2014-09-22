@@ -10,22 +10,22 @@ Download and install [the Heroku Toolbelt](https://devcenter.heroku.com/articles
 ### Creating An Initial Hello World Application
 
 Create a new directory for your application:
-```shell
+```bash
 mkdir shoutout
 cd shoutout
 ```
 Create a new virtual environment for your application:
-```shell
+```bash
 virtualenv venv
 ```
 Activate the virtual environment:
-```shell
+```bash
 source venv/bin/activate
 ```
 This allows to install new Python packages with ```pip``` in the virtual environment of the current project without affecting other projects. In order to deactivate (when you're done working on the project) use the ```deactivate``` command.
 
 Install flask:
-```shell
+```bash
 pip install flask
 ```
 
@@ -47,7 +47,7 @@ if __name__ == "__main__":
 
 <br>
 Now, there are two additional files required to deploy to Heroku: ```requirements.txt``` and ```Procfile```. The requirements file will include the package names needed for our application to run. We can generate it using the following command:
-```shell
+```bash
 pip freeze > requirements.txt
 ```
 This should create a ```requirements.txt``` file that is similar to this:
@@ -69,7 +69,7 @@ web: python main.py
 
 <br>
 Now, let's deploy your *Hello World* application to Heroku to make sure everything works so far. We will ask Heroku to create an application ID of ```shoutoutdemo``` (assuming it is available). 
-```shell
+```bash
 git init
 git add main.py requirements.txt Procfile
 git commit -m "initial commit"
@@ -84,23 +84,23 @@ We can see the live application running on Heroku at ```http://<app id>.herokuap
 In this tutorial we will use the NoSQL database called [MongoDB](http://www.mongodb.org/). Download and install MongoDB (installation instructions can be found on the [MongoDB website](http://www.mongodb.org/downloads)).
 
 Install [pymongo](http://api.mongodb.org/python/current/):
-```shell
+```bash
 pip install pymongo
 ```
 
 Update the ```requirements.txt``` file to include pymongo:
-```shell
+```bash
 pip freeze > requirements.txt
 ```
 
 Add the MongoHQ addon to your Heroku application:
-```shell
+```bash
 heroku addons:add mongohq
 ```
 **Note, there is a need to verify your billing information on Heroku in order to use addons**, even though MongoHQ is free to use for 512mb ([a possible workaround](http://www.elliotbradbury.com/use-mongohq-heroku-without-verifying-account/)).
 
 Find the ID of the database MongoHQ has assigned for your application with the following command:
-```shell
+```bash
 heroku config
 ```
 The output should be similar to this:
@@ -166,7 +166,7 @@ Lastly, we'll create the frontend of our application - the ```templates/index.ht
 ```
 
 Deploy to Heroku and test:
-```shell
+```bash
 git add main.py templates/
 git commit -m "add MongoDB"
 git push heroku master

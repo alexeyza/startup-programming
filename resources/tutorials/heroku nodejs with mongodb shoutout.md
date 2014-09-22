@@ -12,13 +12,13 @@ Download and install [the Heroku Toolbelt](https://devcenter.heroku.com/articles
 In this tutorial we will use the NoSQL database called [MongoDB](http://www.mongodb.org/). Download and install MongoDB (installation instructions can be found on the [MongoDB website](http://www.mongodb.org/downloads)).
 
 Create a new directory for your application:
-```shell
+```bash
 mkdir shoutout
 cd shoutout
 ```
 
 Install the following packages with ```npm```:
-```shell
+```bash
 npm install express
 npm install body-parser
 npm install ejs
@@ -26,7 +26,7 @@ npm install mongoose
 ```
 
 Generate the ```package.json``` file by using:
-```shell
+```bash
 npm init
 ```
 The created file should look similar to this:
@@ -55,13 +55,13 @@ The created file should look similar to this:
 ```
 
 Create and assign a Heroku application ID. We will ask Heroku to create an application ID of ```shoutoutdemo``` (assuming it is available):
-```shell
+```bash
 git init
 heroku create shoutoutdemo
 ```
 
 Add the MongoHQ addon to your Heroku application:
-```shell
+```bash
 heroku addons:add mongohq
 ```
 **Note, there is a need to verify your billing information on Heroku in order to use addons**, even though MongoHQ is free to use for 512mb ([a possible workaround](http://www.elliotbradbury.com/use-mongohq-heroku-without-verifying-account/)).
