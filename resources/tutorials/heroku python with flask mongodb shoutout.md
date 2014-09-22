@@ -9,7 +9,7 @@ Download and install [the Heroku Toolbelt](https://devcenter.heroku.com/articles
 
 ### Creating An Initial Hello World Application
 
-Create a new folder for your application:
+Create a new directory for your application:
 ```shell
 mkdir shoutout
 cd shoutout
