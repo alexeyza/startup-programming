@@ -8,3 +8,4 @@ The following code tutorials showcase the same basic [Shoutout](http://startuppr
 - Shoutout demo with App Engine and Java ([code tutorial](app engine java shoutout.md))
 - Shoutout demo with App Engine, Python, and Flask ([code tutorial](app engine python with flask shoutout.md))
 - Shoutout demo with Heroku, Python, Flask, and MongoDB ([code tutorial](heroku python with flask mongodb shoutout.md))
+- Shoutout demo with Heroku, Node.js, and MongoDB ([code tutorial](heroku nodejs with mongodb shoutout.md))
