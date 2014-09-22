@@ -29,7 +29,7 @@ Install flask:
 pip install flask
 ```
 
-Create a basic backend for our application at ```main.py```:
+Create a basic backend for your application at ```main.py```:
 ```python
 import os
 from flask import Flask
@@ -45,7 +45,8 @@ if __name__ == "__main__":
     app.run(host='0.0.0.0', port=port)
 ```
 
-Now, there are two additional files required to deploy to Heroku: ```requirements.txt``` and ```Procfile```. The requirements file needs to include the packages needed for our application to run. We can generate it with the following command:
+<br>
+Now, there are two additional files required to deploy to Heroku: ```requirements.txt``` and ```Procfile```. The requirements file will include the package names needed for our application to run. We can generate it using the following command:
 ```shell
 pip freeze > requirements.txt
 ```
@@ -66,7 +67,8 @@ Next, create a file named ```Procfile``` to include the following:
 web: python main.py
 ```
 
-Now, let's deploy our *Hello World* application to Heroku to make sure everything works so far. We will ask Heroku to create with the ```shoutoutdemo``` app id (assuming it is available). 
+<br>
+Now, let's deploy your *Hello World* application to Heroku to make sure everything works so far. We will ask Heroku to create an application ID of ```shoutoutdemo``` (assuming it is available). 
 ```shell
 git init
 git add main.py requirements.txt Procfile
@@ -85,7 +87,7 @@ Install [pymongo](http://api.mongodb.org/python/current/):
 pip install pymongo
 ```
 
-Update the ```requirements.txt``` file:
+Update the ```requirements.txt``` file to include pymongo:
 ```shell
 pip freeze > requirements.txt
 ```
@@ -105,7 +107,8 @@ The output should be similar to this:
 mongodb://<user>:<password>@kahana.mongohq.com:10087/app29843323
 ```
 In which case, the database ID is the last part - ```app29843323```. We will use it to set the connection later.
-  
+
+<br>  
 Next, we'll create the backend for our application by modifying ```main.py```, to handle POST requests that add new shouts, and GET requests that display existing shouts:
 ```python
 import os
