@@ -61,6 +61,11 @@ Go to [recommended reading](recommended reading.md) section.
 - [JSDB](http://www.jsdb.io/) - Database of JavaScript libraries, frameworks & plugins.
 - [Advanced JavaScript](https://github.com/advanced-js/syllabus#resources) course - A nice collection of resources to learn JavaScript.
 
+### Sending email
+- [Mailgun](http://www.mailgun.com/) - Sending the first 10,000 emails every month is free.
+- [SendGrid](http://sendgrid.com/) - Sending the first 200 emails every day is free.
+- [Amazon SES](http://aws.amazon.com/ses/) - Pay as you go.
+
 ### Continuous Integration
 
 - [Travis CI](https://travis-ci.org/) - Easy to use continuous integration tool (see [tutorial](https://www.youtube.com/watch?v=BOIJjfFoRdc)).
