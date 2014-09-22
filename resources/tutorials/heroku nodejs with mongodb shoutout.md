@@ -125,7 +125,7 @@ Lastly, we'll create the frontend of our application - the ```views/index.html``
         <input type="submit" value="Submit"/>
     </form>
     <% shouts.forEach(function(shout){ %>
-    <%= shout.name %> - <%= shout.message %>
+    <%= shout.name %> - <%= shout.message %> <br>
     <% }); %>
 </body>
 </html>
