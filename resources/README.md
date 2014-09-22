@@ -31,7 +31,8 @@
 
 ### Meeting 4
 
-- Guest Talk 
+- Failing fast in Startup Programming by Arie
+- Guest talk by Michael de Jong
 
 # Resources
 
