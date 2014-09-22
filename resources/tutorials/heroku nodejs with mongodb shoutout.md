@@ -131,13 +131,13 @@ Lastly, we'll create the frontend of our application - the ```views/index.html``
 </html>
 ```
 
-Lastly, we need to create a ```Procfile```:
+Lastly, we need to create a ```Procfile``` that contains:
 ```
 web: node main.js
 ```
 
 Deploy to Heroku and test:
-```shell
+```bash
 git add main.js packages.json Procfile views/
 git commit -m "initial commit"
 git push heroku master
