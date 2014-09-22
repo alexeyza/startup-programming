@@ -68,7 +68,7 @@ heroku addons:add mongohq
 
 <br>  
 Next, we'll create the backend for our application by creating ```main.js```, to handle POST requests that add new shouts, and GET requests that display existing shouts:
-```node
+```js
 var express = require('express');
 var mongoose = require('mongoose');
 var bodyParser = require('body-parser');
