@@ -75,6 +75,7 @@ git add main.py requirements.txt Procfile
 git commit -m "initial commit"
 heroku create shoutoutdemo
 git push heroku master
+heroku open
 ```
 We can see the live application running on Heroku at ```http://<app id>.herokuapp.com```, in our case it would be ```http://shoutoutdemo.herokuapp.com```. We can manage our application with the [Heroku dashboard](https://dashboard-next.heroku.com/apps).
 
@@ -169,6 +170,7 @@ Deploy to Heroku and test:
 git add main.py templates/
 git commit -m "add MongoDB"
 git push heroku master
+heroku open
 ```
 
 ### How do I continue from here?
