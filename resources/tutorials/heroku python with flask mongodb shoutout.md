@@ -179,3 +179,5 @@ heroku open
 - [Official documentation](http://flask.pocoo.org/docs/)
 - [Flask by Example](https://www.youtube.com/watch?v=FGrIyBDQLPg) is a great YouTube tutorial, with all the [code availible online](https://github.com/miguelgrinberg/flask-pycon2014) as well
 - [Explore Flask](http://exploreflask.com/) online book
+
+A popular alternative to Flask is [Django](https://www.djangoproject.com/).
