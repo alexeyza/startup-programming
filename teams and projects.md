@@ -1,6 +1,6 @@
 # Teams and Projects
 
-**Team 1:**  
+Team 1: **Be Local**  
 Description:  
 Members:
 
@@ -12,7 +12,7 @@ Members:
 
 ---
 
-**Team 2:**  
+Team 2: **Alternative Power Source Property Mapper**  
 Description:  
 Members:
 
@@ -36,7 +36,7 @@ Members:
 
 ---
 
-**Team 4:**  
+Team 4: **Mangiamo**  
 Description:  
 Members:
 
