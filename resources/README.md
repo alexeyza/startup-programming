@@ -31,12 +31,12 @@
 
 ### Meeting 4
 
-- Failing fast in Startup Programming by Arie
+- Failing fast in Startup Programming by Arie Van Deursen
 - Guest talk by Michael de Jong
 
 ### Meeting 5
 
-- Talk by Cliff
+- Talk by Cliff McCollum
 
 # Resources
 
