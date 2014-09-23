@@ -34,6 +34,10 @@
 - Failing fast in Startup Programming by Arie
 - Guest talk by Michael de Jong
 
+### Meeting 5
+
+- Talk by Cliff
+
 # Resources
 
 ### Recommended Reading and Watching
