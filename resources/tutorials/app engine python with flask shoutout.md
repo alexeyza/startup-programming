@@ -89,4 +89,4 @@ libraries:
 - [Flask by Example](https://www.youtube.com/watch?v=FGrIyBDQLPg) is a great YouTube tutorial, with all the [code availible online](https://github.com/miguelgrinberg/flask-pycon2014) as well
 - [Explore Flask](http://exploreflask.com/) online book
 
-A popular alternative to Flask is [Django](https://www.djangoproject.com/).
+Possible alternatives to Flask are the App Engine default [webapp2](https://cloud.google.com/appengine/docs/python/gettingstartedpython27/usingwebapp) and the popular [Django](https://www.djangoproject.com/).
