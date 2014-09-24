@@ -38,10 +38,11 @@
 
 - Talk by Cliff McCollum
 
-# Resources
+# Recommended Reading and Watching
 
-### Recommended Reading and Watching
 Go to [recommended reading](recommended reading.md) section.
+
+# Resources
 
 ### Cloud Computing Services
 
