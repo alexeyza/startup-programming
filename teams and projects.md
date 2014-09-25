@@ -36,8 +36,8 @@ Members:
 
 ---
 
-Team 4: **Mangiamo**  
-Description:  
+Team 4: [**Mangiamo**](https://github.com/nfeliciano/mangiamo)  
+Description: A web application that is aimed for business savvy, outgoing groups of people who are looking for opportunities to meet new contacts, expand their friend base by meeting people informally for a meal.  
 Members:
 
 - Christopher Cook [[cjcook@uvic.ca](mailto:cjcook@uvic.ca)]
