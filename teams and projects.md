@@ -1,6 +1,6 @@
 # Teams and Projects
 
-Team 1: **Be Local**  
+### Team 1: **Be Local**  
 Description:  
 Members:
 
@@ -12,7 +12,7 @@ Members:
 
 ---
 
-Team 2: **Alternative Power Source Property Mapper**  
+### Team 2: **Alternative Power Source Property Mapper**  
 Description:  
 Members:
 
@@ -24,7 +24,7 @@ Members:
 
 ---
 
-**Team 3:**  
+### **Team 3:**  
 Description:  
 Members:
 
@@ -36,7 +36,7 @@ Members:
 
 ---
 
-Team 4: [**Mangiamo**](https://github.com/nfeliciano/mangiamo)  
+### Team 4: [**Mangiamo**](https://github.com/nfeliciano/mangiamo)  
 Description: A web application that is aimed for business savvy, outgoing groups of people who are looking for opportunities to meet new contacts, expand their friend base by meeting people informally for a meal.  
 Members:
 
