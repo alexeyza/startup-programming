@@ -148,4 +148,4 @@ We can see the live application running on Heroku at ```http://<app id>.herokuap
 
 ### How do I continue from here?
 
-You should also check out [this webinar](https://www.youtube.com/watch?v=xuXIBSa_7j4), which shows how to use [WebStorm](http://www.jetbrains.com/webstorm/) (which is FREE for students) with Node.js and Heroku.
+You should also check out [this webinar](https://www.youtube.com/watch?v=xuXIBSa_7j4), which shows how to use [WebStorm](http://www.jetbrains.com/webstorm/) (FREE for students) with Node.js and Heroku.
