@@ -1,6 +1,6 @@
 # Teams and Projects
 
-### Team 1: **Be Local**  
+### Team 1: [**Be Local**](https://github.com/rpanjwani/beLocal)  
 Description:  
 Members:
 
