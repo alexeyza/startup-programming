@@ -12,7 +12,7 @@ Members:
 
 ---
 
-### Team 2: **Alternative Power Source Property Mapper**  
+### Team 2: [**Alternate Power Source Property Mapper**](https://github.com/prashantchhabra89/Alternate-Power-Source-Property-Mapper)  
 Description:  
 Members:
 
