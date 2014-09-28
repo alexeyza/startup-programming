@@ -31,7 +31,7 @@
 
 ### Meeting 4
 
-- Failing fast in Startup Programming by Arie Van Deursen
+- [Failing fast in Startup Programming](https://speakerdeck.com/avandeursen/failing-fast-in-startup-programming) by Arie Van Deursen
 - Guest talk by Michael de Jong
 
 ### Meeting 5
