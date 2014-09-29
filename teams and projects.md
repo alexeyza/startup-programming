@@ -1,7 +1,7 @@
 # Teams and Projects
 
 ### Team 1: [**Be Local**](https://github.com/rpanjwani/beLocal)  
-Description:  
+**Description:**  
 Members:
 
 - Scott Low [[scouter32@gmail.com](mailto:scouter32@gmail.com)]
@@ -13,7 +13,7 @@ Members:
 ---
 
 ### Team 2: [**Alternative Power Source Property Mapper**](https://github.com/prashantchhabra89/Alternate-Power-Source-Property-Mapper)  
-Description:  
+**Description:**  
 Members:
 
 - Charlie Guan [[sirius890928@gmail.com](mailto:sirius890928@gmail.com)]
@@ -25,7 +25,7 @@ Members:
 ---
 
 ### **Team 3:**  
-Description:  
+**Description:**  
 Members:
 
 - Jordan Lerner [[jordan.m.lerner@gmail.com](mailto:jordan.m.lerner@gmail.com)]
@@ -37,7 +37,7 @@ Members:
 ---
 
 ### Team 4: [**Mangiamo**](https://github.com/nfeliciano/mangiamo)  
-Description: A web application that is aimed for business savvy, outgoing groups of people who are looking for opportunities to meet new contacts, expand their friend base by meeting people informally for a meal.  
+**Description:** A web application that is aimed for business savvy, outgoing groups of people who are looking for opportunities to meet new contacts, expand their friend base by meeting people informally for a meal.  
 Members:
 
 - Christopher Cook [[cjcook@uvic.ca](mailto:cjcook@uvic.ca)]
