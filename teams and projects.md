@@ -1,6 +1,6 @@
 # Teams and Projects
 
-### Team 1: [**Be Local**](https://github.com/rpanjwani/beLocal)  
+### Team 1: [**beLocal**](https://github.com/rpanjwani/beLocal)  
 **Description:** A web application that connects Local Vendors with the community by allowing them to post information about their business, what items they produce, and where they will be selling.  
 Members:
 
