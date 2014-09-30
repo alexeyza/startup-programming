@@ -32,7 +32,7 @@
 ### Meeting 4
 
 - [Failing fast in Startup Programming](https://speakerdeck.com/avandeursen/failing-fast-in-startup-programming) by Arie Van Deursen
-- Guest talk by Michael de Jong
+- [Software Engineering at Magnet.me](https://speakerdeck.com/michaeldejong/software-engineering-at-magnet-dot-me) by Michael de Jong
 
 ### Meeting 5
 
