@@ -1,7 +1,7 @@
 # Teams and Projects
 
 ### Team 1: [**Be Local**](https://github.com/rpanjwani/beLocal)  
-**Description:**  
+**Description:** A web application that connects Local Vendors with the community by allowing them to post information about their business, what items they produce, and where they will be selling.  
 Members:
 
 - Scott Low [[scouter32@gmail.com](mailto:scouter32@gmail.com)]
