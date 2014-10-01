@@ -24,8 +24,8 @@ Members:
 
 ---
 
-### **Team 3:**  
-**Description:**  
+### **Team 3:**  [**TextChange**](https://github.com/brkk/textchange)  
+**Description:** The peoples network for sharing textbooks.
 Members:
 
 - Jordan Lerner [[jordan.m.lerner@gmail.com](mailto:jordan.m.lerner@gmail.com)]
