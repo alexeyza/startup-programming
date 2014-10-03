@@ -13,7 +13,7 @@ Members:
 ---
 
 ### Team 2: [**Alternative Power Source Property Mapper**](https://github.com/prashantchhabra89/Alternate-Power-Source-Property-Mapper)  
-**Description:**  
+**Description:** Putting power in people's hands for finding sites for sustainable electricity generation.  
 Members:
 
 - Charlie Guan [[sirius890928@gmail.com](mailto:sirius890928@gmail.com)]
