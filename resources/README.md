@@ -101,6 +101,7 @@ Go to [recommended reading](recommended reading.md) section.
 
 ### Visualization
 
+- [The Data Visualization Catalogue](http://www.datavizcatalogue.com/)
 - [Google Charts](https://developers.google.com/chart/) - Google chart tools are powerful, simple to use, and free. For example, it allows to dynamically generate QR codes.
 
 ### Screen Recording
