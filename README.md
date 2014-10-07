@@ -11,7 +11,7 @@ Projects will include designing and developing a live web system. Each team will
 See [course requirements](requirements.md).
 
 **Classes will be on Fridays 2:30-4:30 at ECS 130:**  
-(*Tentative schedule*)
+(*Tentative schedule*, slides are in the [resources section](resources))
 
 - Meeting 1, 05/09/2014 - Introduction, How to build a software product, Standing on the shoulders of giants, Demo of past projects, Forming teams
 - Meeting 2, 12/09/2014 - Web development overview, Cloud computing services (Alexey), UI/UX overview lecture (Peggy)
