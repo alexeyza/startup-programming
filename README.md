@@ -16,8 +16,8 @@ See [course requirements](requirements.md).
 - Meeting 1, 05/09/2014 - Introduction, How to build a software product, Standing on the shoulders of giants, Demo of past projects, Forming teams
 - Meeting 2, 12/09/2014 - Web development overview, Cloud computing services (Alexey), UI/UX overview lecture (Peggy)
 - Meeting 3, 19/09/2014 - Team work, GitHub, and API's (Ian), [Project proposal presentations](presenting your ideas.md)
-- Meeting 4, 26/09/2014 - Failing fast in Startup Programming (Arie), Guest talk ([Michael de Jong](https://github.com/michaeldejong)), Project proposal presentations cont.
-- Meeting 5, 10/10/2014 - Guest Talks (Cliff)
+- Meeting 4, 26/09/2014 - Failing fast in Startup Programming (Arie), Software Engineering at [Magnet.me](https://magnet.me/) ([Michael de Jong](https://github.com/michaeldejong)), Project proposal presentations cont.
+- Meeting 5, 10/10/2014 - Guest Talks (Cliff and TBA)
 - Meeting 6, 17/10/2014 - [Milestone 1 presentation](milestone 1 - proof of concept.md) - Proof Of Concept
 - Meeting 7, 07/11/2014 - [Milestone 2 presentation](milestone 2 - release candidate.md) - Release Candidate
 - Meeting 8, 28/11/2014 - Final presentation ([Milestone 3](milestone 3 - public beta.md), Public live BETA)
