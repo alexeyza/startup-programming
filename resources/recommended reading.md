@@ -10,6 +10,7 @@
 - UX for Lean Startups by Laura Klein ([Amazon](http://www.amazon.com/UX-Lean-Startups-Experience-Research/dp/1449334911))
 - Getting Real by 37signals ([PDF](https://basecamp.com/books/Getting%20Real.pdf))
 - Who Moved My Cheese by Spencer Johnson ([Amazon](http://www.amazon.com/Who-Moved-My-Cheese-Amazing/dp/0399144463), [YouTube](https://www.youtube.com/watch?v=91YxXk3fmw8))
+- 77 Failed Startup Post-Mortems ([download or read online](https://www.gitbook.io/book/3things/77-failed-startup-post-mortems))
 
 ### Blogs and Articles
 
