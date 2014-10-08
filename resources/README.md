@@ -120,6 +120,11 @@ These tools can help you create demo videos, and tutorial videos for your applic
 - [WinFF](http://winff.org/html_new/) - you can convert to other formats
 - [Avidemux](http://fixounet.free.fr/avidemux/) - if you need to edit or compress the video
 
+### Presentation and Slide Design
+
+- [Slide design for developers](http://zachholman.com/posts/slide-design-for-developers/) - Nice, though older, blog post on easy ways to improve slide decks.
+- [The Talk on Talks](http://zachholman.com/talk/the-talk-on-talks/) - A more recent post, with great pointers on presenting, and a video where Zach Holman comments on his own presentation. He also published a lot of tips on [speaking.io](http://speaking.io/)
+
 ### Useful Links and Tools
 
 - [Balsamiq](http://balsamiq.com/) - A web service (or desktop tool) for UI mockup sketching.
