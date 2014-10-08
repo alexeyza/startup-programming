@@ -36,7 +36,8 @@
 
 ### Meeting 5
 
-- Talk by Cliff McCollum
+- Guest talk by Cliff McCollum
+- Guest talk by Aidin Tavakkol, CTO and Founder of [LimeSpot](https://limespot.com/)
 
 # Recommended Reading and Watching
 
