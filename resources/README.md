@@ -36,8 +36,12 @@
 
 ### Meeting 5
 
-- Guest talk by Cliff McCollum
+- [Software Management...for people who just want to get stuff done]() by Cliff McCollum
 - Guest talk by Aidin Tavakkol, CTO and Founder of [LimeSpot](https://limespot.com/)
+
+### Meeting 7
+
+- Guest talks (TBA)
 
 # Recommended Reading and Watching
 
