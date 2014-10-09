@@ -36,7 +36,7 @@
 
 ### Meeting 5
 
-- [Software Management...for people who just want to get stuff done]() by Cliff McCollum
+- [Software Management...for people who just want to get stuff done](slides_to_be_posted) by Cliff McCollum
 - Guest talk by Aidin Tavakkol, CTO and Founder of [LimeSpot](https://limespot.com/)
 
 ### Meeting 7
