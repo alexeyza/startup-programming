@@ -24,7 +24,7 @@ Members:
 
 ---
 
-### **Team 3:**  [**TextChange**](https://github.com/brkk/textchange)  
+### **Team 3:**  [**TextChange**](https://github.com/brkk/text-share)  
 **Description:** The peoples network for sharing textbooks.
 Members:
 
