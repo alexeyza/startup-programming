@@ -23,7 +23,7 @@ See [course requirements](requirements.md).
 - Meeting 8, 07/11/2014 - [Milestone 2 presentation](milestone 2 - release candidate.md) - Release Candidate
 - Meeting 9, 28/11/2014 - Final presentation ([Milestone 3](milestone 3 - public beta.md), Public live BETA)
 
-**Staff:**
+**Mentoring Staff:**
 
 - [Margaret-Anne Storey](http://webhome.cs.uvic.ca/~mstorey)
 - [Alexey Zagalsky](http://alexeyza.com/)
