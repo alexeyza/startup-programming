@@ -2,7 +2,7 @@
 
 ### [beLocal](https://github.com/rpanjwani/beLocal)  
 **Description:** A web application that connects Local Vendors with the community by allowing them to post information about their business, what items they produce, and where they will be selling.  
-Members:
+**Members**:
 
 - Scott Low [[scouter32@gmail.com](mailto:scouter32@gmail.com)]
 - Samuel Navarrete [[cakebrewery@gmail.com](mailto:cakebrewery@gmail.com)]
@@ -14,7 +14,7 @@ Members:
 
 ### [Alternative Power Source Property Mapper](https://github.com/prashantchhabra89/Alternate-Power-Source-Property-Mapper)  
 **Description:** Putting power in people's hands for finding sites for sustainable electricity generation.  
-Members:
+**Members**:
 
 - Charlie Guan [[sirius890928@gmail.com](mailto:sirius890928@gmail.com)]
 - Jonathan Lam [[lamjwe@uvic.ca](mailto:lamjwe@uvic.ca)]
@@ -26,7 +26,7 @@ Members:
 
 ### [TextShare](https://github.com/brkk/text-share)  
 **Description:** The peoples network for sharing textbooks, connecting you with community members that have the books you need.  
-Members:
+**Members**:
 
 - Jordan Lerner [[jordan.m.lerner@gmail.com](mailto:jordan.m.lerner@gmail.com)]
 - Logan Masniuk [[logan.masniuk@gmail.com](mailto:logan.masniuk@gmail.com)]
@@ -38,7 +38,7 @@ Members:
 
 ### [Mangiamo](https://github.com/nfeliciano/mangiamo)  
 **Description:** A web application that is aimed for business savvy, outgoing groups of people who are looking for opportunities to meet new contacts, expand their friend base by meeting people informally for a meal.  
-Members:
+**Members**:
 
 - Christopher Cook [[cjcook@uvic.ca](mailto:cjcook@uvic.ca)]
 - Hardeep Kevin Gill [[hkevgill@uvic.ca](mailto:hkevgill@uvic.ca)]
