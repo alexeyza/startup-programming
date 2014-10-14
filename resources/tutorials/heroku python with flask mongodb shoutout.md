@@ -167,7 +167,7 @@ Lastly, we'll create the frontend of our application - the ```templates/index.ht
 
 Deploy to Heroku and test:
 ```bash
-git add main.py templates/
+git add main.py requirements.txt templates/
 git commit -m "add MongoDB"
 git push heroku master
 heroku open
