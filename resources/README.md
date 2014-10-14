@@ -140,7 +140,7 @@ These tools can help you create demo videos, and tutorial videos for your applic
 
 ### Finding Users and Promoting Your Application
 
-- [Product Hunt](http://www.producthunt.com/) shows new applications on a daily basis (Reddit-like interface). You can submit your own application. 
+- [Product Hunt](http://www.producthunt.com/) shows new applications on a daily basis (Reddit-like interface). You can submit your own application, and [it might get noticed by some of the most important people in the industry](http://techcrunch.com/2014/10/14/how-product-hunt-hopes-to-avoid-the-pitfalls-that-wounded-quora-and-buried-digg).
 
 ### Web and Mobile Prototyping
 
