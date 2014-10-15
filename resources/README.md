@@ -41,6 +41,7 @@
 
 ### Meeting 7
 
+- Guest talk by Tali Saar, Co-founder and CEO of [Palo Alto Rooster](http://paloalto.therooster.co/)
 - Guest talks (TBA)
 
 # Recommended Reading and Watching
