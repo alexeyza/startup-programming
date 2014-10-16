@@ -5,7 +5,7 @@ For the second milestone (due on Monday, 07/11/2014) you are required to show pr
 Please provide a full demonstration (**6 minutes**) of using your product in various scenarios. The demonstration should encompass your top features, and **highlight** new features or changes made since Milestone 1.
 You should also be prepared to talk about your development process, in case you are asked: what is your plan for the next Milestone? how long do you expect the work would take? how did you split the work? what was easy? what was difficult? why?
 
-If you are using a power point presentation, use **no more than 3 slides** altogether (including cover slide!)
+If you are using a power point presentation, use **no more than 3 slides**
 
 Some general advice:
 
@@ -16,9 +16,9 @@ Some general advice:
 
 You are required to provide in your project page (on GitHub) a link to your live application (App-Engine website or a download link to an Android apk file). In addition provide instructions on how to use your application and how to install it (if installation is needed).
 
-**Important note:** Full grading for Milestone 2 (25 points) will be given for teams that are successfully:
+**Important note:** Full grading for Milestone 2 (25 points) will be given for teams that successfully:
 
-1. Focus on the primary use case and take into account our feedback (will be sent by email for every team).
+1. Focus on the primary use case and take into account our feedback from milestone 1 or earlier.
 2. Follow the project plan while adapting dynamically.
 3. Continuously work throughout the semester.
 4. Demonstrate an interesting, self contained, useful and live application.
