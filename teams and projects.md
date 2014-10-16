@@ -24,7 +24,7 @@
 
 ---
 
-### [TextShare](https://github.com/brkk/text-share)  
+### [TextShare](https://github.com/Brkk/textchanger)  
 **Description:** The peoples network for sharing textbooks, connecting you with community members that have the books you need.  
 **Members**:
 
