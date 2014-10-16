@@ -42,7 +42,7 @@
 ### Meeting 7
 
 - Guest talk by [Tali Saar](http://www.talisaar.com/), Co-founder and CEO of [Palo Alto Rooster](http://paloalto.therooster.co/)
-- Guest talks (TBA)
+- Guest talk by Anthony Sukow, EVP & Co-founder [Terapeak](https://www.terapeak.ca/)
 
 # Recommended Reading and Watching
 
