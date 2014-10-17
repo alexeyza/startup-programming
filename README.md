@@ -19,7 +19,7 @@ See [course requirements](requirements.md).
 - Meeting 4, 26/09/2014 - Failing fast in Startup Programming (Arie), Software engineering at [Magnet.me](https://magnet.me/) (Michael de Jong), Project proposal presentations cont.
 - Meeting 5, 10/10/2014 - Team stand-up meeting, [Software Management... for people who just want to get stuff done](http://www.slideshare.net/cliffmcc/software-managementfor-people-who-just-want-to-get-stuff-done) (Cliff), Guest talk (Aidin Tavakkol, CTO and Founder of [LimeSpot](https://limespot.com/))
 - Meeting 6, 17/10/2014 - [Milestone 1 presentation](milestone 1 - proof of concept.md) - Proof Of Concept
-- Meeting 7, 31/10/2014 - Guest talk (Tali Saar, Co-founder and CEO of [Palo Alto Rooster](http://paloalto.therooster.co/)), Guest talk (“How 2 UVic Students started an eBay ecommerce Analytics company”, by [Anthony Sukow](ca.linkedin.com/in/anthonysukow/), EVP & Co-founder [Terapeak](https://www.terapeak.ca/))
+- Meeting 7, 31/10/2014 - Guest talk (Tali Saar, Co-founder and CEO of [Palo Alto Rooster](http://paloalto.therooster.co/)), Guest talk (“How 2 UVic Students started an eBay ecommerce Analytics company”, by [Anthony Sukow](http://ca.linkedin.com/in/anthonysukow/), EVP & Co-founder [Terapeak](https://www.terapeak.ca/))
 - Meeting 8, 07/11/2014 - [Milestone 2 presentation](milestone 2 - release candidate.md) - Release Candidate
 - Meeting 9, 28/11/2014 - Final presentation ([Milestone 3](milestone 3 - public beta.md), Public live BETA)
 
