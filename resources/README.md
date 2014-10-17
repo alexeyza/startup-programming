@@ -42,7 +42,7 @@
 ### Meeting 7
 
 - Guest talk by [Tali Saar](http://www.talisaar.com/), Co-founder and CEO of [Palo Alto Rooster](http://paloalto.therooster.co/)
-- How 2 UVic Students started an eBay ecommerce Analytics company by [Anthony Sukow](http://ca.linkedin.com/in/anthonysukow/), EVP & Co-founder [Terapeak](https://www.terapeak.ca/)
+- How 2 UVic students started an eBay ecommerce analytics company by [Anthony Sukow](http://ca.linkedin.com/in/anthonysukow/), EVP & Co-founder [Terapeak](https://www.terapeak.ca/)
 
 # Recommended Reading and Watching
 
