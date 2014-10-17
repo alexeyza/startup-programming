@@ -12,7 +12,7 @@
 
 ---
 
-### [Alternative Power Source Property Mapper](https://github.com/prashantchhabra89/Alternate-Power-Source-Property-Mapper)  
+### [Power Planner](https://github.com/prashantchhabra89/Alternate-Power-Source-Property-Mapper)  
 **Description:** Putting power in people's hands for finding sites for sustainable electricity generation.  
 **Members**:
 
