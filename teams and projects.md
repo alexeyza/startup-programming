@@ -1,6 +1,7 @@
 # Teams and Projects
 
 ### [beLocal](https://github.com/rpanjwani/beLocal)  
+**Website:**  
 **Description:** A web application that connects Local Vendors with the community by allowing them to post information about their business, what items they produce, and where they will be selling.  
 **Members**:
 
@@ -13,6 +14,7 @@
 ---
 
 ### [Power Planner](https://github.com/prashantchhabra89/Alternate-Power-Source-Property-Mapper)  
+**Website:** [power-planner.appspot.com](http://power-planner.appspot.com/)  
 **Description:** Putting power in people's hands for finding sites for sustainable electricity generation.  
 **Members**:
 
@@ -24,7 +26,8 @@
 
 ---
 
-### [TextShare](https://github.com/Brkk/textchanger)  
+### [TextChangr](https://github.com/Brkk/textchanger)  
+**Website:** [textchngr.appspot.com](http://textchngr.appspot.com/)  
 **Description:** The peoples network for sharing textbooks, connecting you with community members that have the books you need.  
 **Members**:
 
@@ -37,6 +40,7 @@
 ---
 
 ### [Mangiamo](https://github.com/nfeliciano/mangiamo)  
+**Website:**  
 **Description:** A web application that is aimed for business savvy, outgoing groups of people who are looking for opportunities to meet new contacts, expand their friend base by meeting people informally for a meal.  
 **Members**:
 
