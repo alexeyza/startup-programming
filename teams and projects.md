@@ -1,7 +1,7 @@
 # Teams and Projects
 
 ### [beLocal](https://github.com/rpanjwani/beLocal)  
-**Website:**  
+**Website:** [belocalvictoria.me](http://belocalvictoria.me/)  
 **Description:** A web application that connects Local Vendors with the community by allowing them to post information about their business, what items they produce, and where they will be selling.  
 **Members**:
 
