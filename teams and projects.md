@@ -40,7 +40,7 @@
 ---
 
 ### [Mangiamo](https://github.com/nfeliciano/mangiamo)  
-**Website:**  
+**Website:** [mangiamo-app.elasticbeanstalk.com](http://mangiamo-app.elasticbeanstalk.com/)  
 **Description:** A web application that is aimed for business savvy, outgoing groups of people who are looking for opportunities to meet new contacts, expand their friend base by meeting people informally for a meal.  
 **Members**:
 
