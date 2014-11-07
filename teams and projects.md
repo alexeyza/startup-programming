@@ -28,7 +28,8 @@
 
 ---
 
-### [TextChangr](https://github.com/Brkk/textchanger)  
+### [Flybrary](https://github.com/Brkk/textchanger)  
+![Flybrary Logo](http://i.imgur.com/HtXCs8l.png?1)  
 **Website:** [textchngr.appspot.com](http://textchngr.appspot.com/)  
 **Description:** The peoples network for sharing textbooks, connecting you with community members that have the books you need.  
 **Members**:
