@@ -30,7 +30,7 @@
 
 ### [Flybrary](https://github.com/Brkk/textchanger)  
 ![Flybrary Logo](http://i.imgur.com/HtXCs8l.png?1)  
-**Website:** [textchngr.appspot.com](http://textchngr.appspot.com/)  
+**Website:** [http://flybrary.ca/](http://flybrary.ca/)  
 **Description:** The peoples network for sharing textbooks, connecting you with community members that have the books you need.  
 **Members**:
 
@@ -42,7 +42,7 @@
 
 ---
 
-### [Mangiamo](https://github.com/nfeliciano/mangiamo)  
+### [linksupp](https://github.com/nfeliciano/mangiamo)  
 **Website:** [mangiamo-app.elasticbeanstalk.com](http://mangiamo-app.elasticbeanstalk.com/)  
 **Description:** A web application that is aimed for business savvy, outgoing groups of people who are looking for opportunities to meet new contacts, expand their friend base by meeting people informally for a meal.  
 **Members**:
