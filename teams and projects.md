@@ -30,7 +30,7 @@
 
 ### [Flybrary](https://github.com/Brkk/textchanger)  
 ![Flybrary Logo](http://i.imgur.com/HtXCs8l.png?1)  
-**Website:** [http://flybrary.ca/](http://flybrary.ca/)  
+**Website:** [flybrary.ca](http://flybrary.ca/)  
 **Description:** The peoples network for sharing textbooks, connecting you with community members that have the books you need.  
 **Members**:
 
