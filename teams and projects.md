@@ -43,6 +43,7 @@
 ---
 
 ### [linksupp](https://github.com/nfeliciano/mangiamo)  
+![linksupp Logo](https://raw.githubusercontent.com/nfeliciano/mangiamo/master/mockups/logo-banner.png)  
 **Website:** [mangiamo-app.elasticbeanstalk.com](http://mangiamo-app.elasticbeanstalk.com/)  
 **Description:** A web application that is aimed for business savvy, outgoing groups of people who are looking for opportunities to meet new contacts, expand their friend base by meeting people informally for a meal.  
 **Members**:
