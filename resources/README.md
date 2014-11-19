@@ -134,6 +134,7 @@ These tools can help you create demo videos, and tutorial videos for your applic
 
 - [Balsamiq](http://balsamiq.com/) - A web service (or desktop tool) for UI mockup sketching.
 - [ZenHub](https://www.zenhub.io/) - ZenHub enhances the GitHub workflow with a visual way to organize your features, and projects.
+- [Let’s Encrypt](https://letsencrypt.org/) - Free SSL/TLS encryption (coming in summer 2015 - until then you can use the free SSL service provided as part of the [GitHub student pack](https://education.github.com/pack)).
 - [Google API Explorer](http://code.google.com/apis/explorer/) - A quick and easy way to see all available API's provided by Google.
 - [Build Podcast](http://build-podcast.com/) - A cool podcast about technology tools for design and development (each episode covers a different tool).
 - [Sublime Text](http://www.sublimetext.com/) - A recommended text editor/"light IDE", especially for web developers. Other good options are [TextMate](http://macromates.com/) (only for Mac) or [Atom](https://atom.io/) by GitHub.
