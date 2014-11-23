@@ -56,9 +56,9 @@
 
 ---
 
-## Past Teams and Projects
+# Alumni
 
-## Tel Aviv University Course
+# Tel Aviv University Course
 
 - [2007/2008, Semester A](http://tau-itw.wikidot.com/active-projects-08)
 - [2007/2008, Semester B](http://tau-gadgets.wikidot.com/)
