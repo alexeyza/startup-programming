@@ -20,6 +20,7 @@
 - How to give a 90-second demo [[link](http://www.mattmcalister.com/blog/2006/09/22/96/how-to-give-a-90-second-demo/)]
 - How Not to Design a Mobile App [[link](http://giffconstable.com/2014/08/how-not-to-design-a-mobile-app/)]
 - 7 Rules for Creating Gorgeous UI [[Part 1](https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-1-559d4e805cda), and [Part 2](https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-2-430de537ba96)]
+- [Seven startup marketing mistakes](http://mashable.com/2014/11/26/startups-marketing-mistakes/)
 
 ### Recommended Watching
 - The User is Drunk [[YouTube](https://www.youtube.com/watch?v=r2CbbBLVaPk)]
