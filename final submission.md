@@ -8,6 +8,7 @@ By the due date (05/12/2014) you should send us an email ([startup.programming@g
 - link for all the source code involved in your final project (client, server, other)
 - link to the final project documentation (architectural overview, main APIs, installation and usage instructions)
 - link to a video demonstrating the application (try to show all the various features of your application and explain them in the video).
+- A personal reflection (written by each team member) on your contribution to the project, what you did, what you **learned** and the **challenges** you faced. Please email these personal reflections to us rather than post on GitHub.  
 
 After that date, the course staff will examine your projects, test them and evaluate them, without you being present, so it is very important that everything would be self explained.
 
