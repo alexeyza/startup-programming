@@ -6,7 +6,7 @@ By the due date (05/12/2014) you should send us an email ([startup.programming@g
 
 - link to download the final application installation file or to the App-Engine website
 - link for all the source code involved in your final project (client, server, other)
-- link to the final project documentation (architectural overview, main APIs, installation and usage instructions)
+- link to the final project documentation (description of main use cases, architectural overview, main APIs/features, installation and usage instructions, the user study, and any other relevant information). An example for the documentation can be seen [here](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxjbG91ZHdlYjEwYXxneDo2Y2Q3MmZjNzk1ODdmNzA2).
 - link to a video demonstrating the application (try to show all the various features of your application and explain them in the video).
 - A personal reflection (written by each team member) on your contribution to the project, what you did, what you **learned** and the **challenges** you faced. Please email these personal reflections to us rather than post on GitHub.  
 
