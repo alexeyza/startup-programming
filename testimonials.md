@@ -11,4 +11,4 @@
 
 >"The workshop is challenging and requires a looot of time and effort, but is worth the end result, and the knowledge acquired in the process"
 
-![students presenting at Google](images/DSC_FIX-0025.jpg "Students presenting their projects at Google")
+![students presenting at Google](images/DSC_FIX-0024.jpg "Students presenting the projects at Google")
