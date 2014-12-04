@@ -9,3 +9,7 @@ The following code tutorials showcase the same basic [Shoutout](http://startuppr
 - Shoutout demo with App Engine, Python, and Flask ([code tutorial](app engine python with flask shoutout.md))
 - Shoutout demo with Heroku, Python, Flask, and MongoDB ([code tutorial](heroku python with flask mongodb shoutout.md))
 - Shoutout demo with Heroku, Node.js, and MongoDB ([code tutorial](heroku nodejs with mongodb shoutout.md))
+
+### Recommended Video Tutorials
+
+- Building a demo web app with Java, Angular and MongoDB (and many other recommended frameworks and libraries) by Trisha Gee ([YouTube](https://www.youtube.com/watch?v=VyEdy-l5608))
