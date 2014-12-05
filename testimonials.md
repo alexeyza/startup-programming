@@ -1,8 +1,6 @@
 # Testimonials
 
-### Student questionnaire (2010/2011 and 2011/2012 - Tel Aviv University)
-Student were asked to describe the course in a single sentence:  
-
+### Student questionnaire (2010/2011 and 2011/2012 - Tel Aviv University) 
 >"Difficult but interesting, and requires a lot of effort"  
 
 >"The best preparation for the real world, that applies everything we learned"  
