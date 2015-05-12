@@ -137,7 +137,7 @@ These tools can help you create demo videos, and tutorial videos for your applic
 - [Let’s Encrypt](https://letsencrypt.org/) - Free SSL/TLS encryption (coming in summer 2015 - until then you can use the free SSL service provided as part of the [GitHub student pack](https://education.github.com/pack)).
 - [Google API Explorer](http://code.google.com/apis/explorer/) - A quick and easy way to see all available API's provided by Google.
 - [Build Podcast](http://build-podcast.com/) - A cool podcast about technology tools for design and development (each episode covers a different tool).
-- [Sublime Text](http://www.sublimetext.com/) - A recommended text editor/"light IDE", especially for web developers. Other good options are [TextMate](http://macromates.com/) (only for Mac) or [Atom](https://atom.io/) by GitHub.
+- [Sublime Text](http://www.sublimetext.com/) - A recommended text editor/"light IDE", especially for web developers. Other good options are [Brackets](http://brackets.io/), [TextMate](http://macromates.com/) (only for Mac) or [Atom](https://atom.io/) by GitHub.
 - A badass list of [frontend development resources](https://gist.github.com/dypsilon/5819504).
 - Create product shots with ease - [Dunnnk](http://dunnnk.com/), [Magic Mockups](http://magicmockups.com/), [Frame](http://frame.lab25.co.uk/), and [MockUPhone](http://mockuphone.com/).
 
