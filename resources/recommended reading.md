@@ -2,6 +2,7 @@
 
 ### Books
 - Extreme Programming Explained: Embrace Change, 2nd Edition by Kent Beck ([Amazon](http://www.amazon.com/Extreme-Programming-Explained-Embrace-Change/dp/0321278658/ref=sr_1_1?s=books&ie=UTF8&qid=1407949544&sr=1-1&keywords=Extreme+Programming+kent+beck))
+- The Nature of Software Development by Ron Jeffries ([Book](https://pragprog.com/book/rjnsd/the-nature-of-software-development))
 - The Mythical Man-Month, 2nd Edition by Fred Brooks ([Amazon](http://www.amazon.com/gp/product/0201835959/ref=as_li_qf_sp_asin_tl?ie=UTF8&tag=wwwsteveblank-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0201835959))
 - The Lean Startup by Eric Ries ([Amazon](http://www.amazon.com/The-Lean-Startup-Entrepreneurs-Continuous/dp/0307887898), [YouTube](https://www.youtube.com/watch?v=fEvKo90qBns))
 - Founders at Work: Stories of Startups' Early Days by Jessica Livingston ([Amazon](http://www.amazon.com/Founders-Work-Stories-Startups-Early/dp/1430210788))
