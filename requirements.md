@@ -9,7 +9,7 @@ Prerequisites:
 
 General Requirements:
 
-- Attendance in all workshop meetings is **mandatory**. If you have to miss a meeting, please let us know ahead of time. Doctor’s note will be required in case of illness or appropriate documentation to justify your absence.
+- Attendance in all course meetings is **mandatory**. If you have to miss a meeting, please let us know ahead of time. Doctor’s note will be required in case of illness or appropriate documentation to justify your absence.
 
 Each team is required to do the following:
 
