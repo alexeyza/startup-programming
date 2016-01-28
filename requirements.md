@@ -3,7 +3,7 @@
 Prerequisites:
 
 - Minimum grade of B in CSC 115 (Programming 2)
-- Minimum grade of B in CSC 255 (Algorithms and Data Structures)
+- Minimum grade of B in CSC 225 (Algorithms and Data Structures)
 - Minimum grade of B in SENG 265 (Software Engineering Introduction)
 - 3rd or 4th year standing
 
