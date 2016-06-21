@@ -27,7 +27,7 @@ See [course requirements](requirements.md) and [student testimonials](testimonia
 **Mentoring Staff:**
 
 - [Alexey Zagalsky](http://alexeyza.com/)
-- [Margaret-Anne Storey](http://webhome.cs.uvic.ca/~mstorey)
+- [Margaret-Anne Storey](https://margaretannestorey.wordpress.com/)
 - Cliff McCollum
 - [Ian Bull](http://ianbull.com/)
 - [Gregory Schier](http://schier.co/)
