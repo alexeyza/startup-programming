@@ -1,5 +1,11 @@
 # Teams and Projects
 
+
+
+---
+
+# Alumni
+
 ### [beLocal](https://github.com/beLocalVictoria)  
 ![beLocal Logo](https://camo.githubusercontent.com/24910693ab977bd96f4ea8727b412bdbb047ed03/687474703a2f2f64726976652e676f6f676c652e636f6d2f75633f69643d30423571576639766338796952524668684d454e735253313152556b)  
 **Website:** [belocalvictoria.me](https://belocalvictoria.me)  
@@ -53,10 +59,6 @@
 - Jesper Rage [[jrage@uvic.ca](mailto:jrage@uvic.ca)]
 - Lloyd Montgomery [[lloydrmontgomery@gmail.com](mailto:lloydrmontgomery@gmail.com)]
 - Noel Feliciano [[felicianonoel@gmail.com](mailto:felicianonoel@gmail.com)]
-
----
-
-# Alumni
 
 # Tel Aviv University Course
 
