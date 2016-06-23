@@ -38,7 +38,7 @@ See [course requirements](requirements.md) and [student testimonials](testimonia
 - [Ian Bull](http://ianbull.com/)
 - [Gregory Schier](http://schier.co/)
 
-Alumni mentors: [Arie Van Deursen](http://www.st.ewi.tudelft.nl/~arie/)
+Alumni mentors: [Arie van Deursen](http://www.st.ewi.tudelft.nl/~arie/)
 
 **Teams and Projects:**  
 View current and past [teams and projects](teams and projects.md).
