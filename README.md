@@ -24,7 +24,7 @@ See [course requirements](requirements.md) and [student testimonials](testimonia
 - Meeting 9, 25/11/2016 - Final presentation ([Milestone 3](milestone 3 - public beta.md), Public live BETA)
 - No meeting, 19/12/2016 - Final submission (by email)
 
-*Important: this is a tentative schedule!*
+*Please note: this is a tentative schedule!*
 
 **Mentoring Staff:**
 
