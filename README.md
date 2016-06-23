@@ -10,6 +10,8 @@ Projects will include designing and developing a live web system. Each team will
 
 See [course requirements](requirements.md) and [student testimonials](testimonials.md).
 
+---
+
 **Classes will be on Fridays 1:30-4:20 at HHB 110:**  
 (*Tentative schedule, slides are in the [**resources section**](resources)*)
 
@@ -25,6 +27,8 @@ See [course requirements](requirements.md) and [student testimonials](testimonia
 - No meeting, 19/12/2016 - Final submission (by email)
 
 *Please note: this is a tentative schedule!*
+
+---
 
 **Mentoring Staff:**
 
@@ -44,7 +48,7 @@ View current and past [teams and projects](teams and projects.md).
 
 **Contact email:** [startup.programming@gmail.com](mailto:startup.programming@gmail.com)
 
-# License
+## License
 This work is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/). This doesn't include the students' projects, which are hosted on separate repositories and each have their own license.
 
 ![Alt text](https://i.creativecommons.org/l/by-sa/4.0/88x31.png "Creative Commons Attribution-ShareAlike 4.0 International License")
