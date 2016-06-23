@@ -35,7 +35,6 @@ See [course requirements](requirements.md) and [student testimonials](testimonia
 - [Gregory Schier](http://schier.co/)
 
 Alumni mentors:
-
 - [Arie Van Deursen](http://www.st.ewi.tudelft.nl/~arie/)
 
 **Teams and Projects:**  
@@ -46,6 +45,6 @@ View current and past [teams and projects](teams and projects.md).
 **Contact email:** [startup.programming@gmail.com](mailto:startup.programming@gmail.com)
 
 # License
-This work is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/). This doesn't include the students' work, which is hosted on separate repositories and each has their own license.
+This work is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/). This doesn't include the students' projects, which are hosted on separate repositories and each have their own license.
 
 ![Alt text](https://i.creativecommons.org/l/by-sa/4.0/88x31.png "Creative Commons Attribution-ShareAlike 4.0 International License")
