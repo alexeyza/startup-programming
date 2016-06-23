@@ -1,4 +1,4 @@
-![Alt text](images/logo.png)
+![Alt text](https://raw.githubusercontent.com/alexeyza/startup-programming/master/images/logo.png)
 
 ##### [Department of Computer Science - University of Victoria](http://www.csc.uvic.ca/)
 ##### CSC 485B + SENG 480B, 2014/2015, Semester A
