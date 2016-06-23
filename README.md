@@ -24,7 +24,7 @@ See [course requirements](requirements.md) and [student testimonials](testimonia
 - Meeting 7, 28/10/2016 - Guest talks (TBA)
 - Meeting 8, 04/11/2016 - [Milestone 2 presentation](milestone 2 - release candidate.md) - Release Candidate
 - Meeting 9, 25/11/2016 - Final presentation ([Milestone 3](milestone 3 - public beta.md), Public live BETA)
-- No meeting, 19/12/2016 - Final submission (by email)
+- No meeting, 19/12/2016 - [Final submission](final submission.md) (by email)
 
 *Please note: this is a tentative schedule!*
 
