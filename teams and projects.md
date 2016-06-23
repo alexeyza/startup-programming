@@ -6,6 +6,8 @@
 
 # Alumni
 
+## 2014
+
 ### [beLocal](https://github.com/beLocalVictoria)  
 ![beLocal Logo](https://camo.githubusercontent.com/24910693ab977bd96f4ea8727b412bdbb047ed03/687474703a2f2f64726976652e676f6f676c652e636f6d2f75633f69643d30423571576639766338796952524668684d454e735253313152556b)  
 **Website:** [belocalvictoria.me](https://belocalvictoria.me)  
@@ -59,18 +61,3 @@
 - Jesper Rage [[jrage@uvic.ca](mailto:jrage@uvic.ca)]
 - Lloyd Montgomery [[lloydrmontgomery@gmail.com](mailto:lloydrmontgomery@gmail.com)]
 - Noel Feliciano [[felicianonoel@gmail.com](mailto:felicianonoel@gmail.com)]
-
-# Tel Aviv University Course
-
-- [2007/2008, Semester A](http://tau-itw.wikidot.com/active-projects-08)
-- [2007/2008, Semester B](http://tau-gadgets.wikidot.com/)
-- [2008/2009, Semester A](http://sites.google.com/site/taugadgets09a/)
-- [2008/2009, Semester B](http://sites.google.com/site/taugadgets09b/)
-- [2009/2010, Semester A](http://sites.google.com/site/taugadgets10a)
-- [2009/2010, Semester B](http://sites.google.com/site/taugadgets10b)
-- [2010/2011, Semester A](https://sites.google.com/site/cloudweb10a/)
-- [2010/2011, Semester B](https://sites.google.com/site/cloudweb10b)
-- [2011/2012, Semester A](https://sites.google.com/site/cloudweb11a/)
-- [2011/2012, Semester B](https://sites.google.com/site/cloudweb11b/)
-- [2012/2013, Semester A](https://sites.google.com/site/cloudweb12a/)
-- [2012/2013, Semester B](https://sites.google.com/site/cloudweb12b/)
