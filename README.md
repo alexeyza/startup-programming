@@ -22,8 +22,8 @@ See [course requirements](requirements.md) and [student testimonials](testimonia
 - Meeting 5, 14/10/2016 - [Milestone 1 presentation](milestone 1 - proof of concept.md) - Proof Of Concept
 - Meeting 6, 21/10/2016 - Team stand-up meeting, Software Management for people who just want to get stuff done (Cliff), Guest talk (TBA)
 - Meeting 7, 28/10/2016 - Guest talks (TBA)
-- Meeting 8, 04/11/2016 - [Milestone 2 presentation](milestone 2 - release candidate.md) - Release Candidate
-- Meeting 9, 25/11/2016 - Final presentation ([Milestone 3](milestone 3 - public beta.md), Public live BETA)
+- Meeting 8, 04/11/2016 - [Milestone 2 presentation](milestone 2 - release candidate.md) - Public live BETA
+- Meeting 9, 25/11/2016 - [Milestone 3 presentation](milestone 3 - public beta.md) - Release Candidate
 - No meeting, 19/12/2016 - [Final submission](final submission.md) (by email)
 
 *Please note: this is a tentative schedule!*
