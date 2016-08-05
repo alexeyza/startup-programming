@@ -4,7 +4,7 @@
 ##### CSC 485E + SENG 480B, 2016, Fall Semester
 <br>
 
-This course aims to give students the tools and skills to rapidly develop and transform innovative ideas (of their own choosing) into working projects utilizing advanced mobile, social, cloud, and web technologies. In particular, students will experience the style of development activity that is common in a new startup company. The project based course will be augmented by a series of lectures to accelerate learning with new web technologies, product design, agile development practices, user interface design, and project management. During the term, students will work in teams of 4 students. Each team will be closely mentored by several staff members (including the instructors and one or more members from industry). Students will gain valuable technical skills and experience working in small teams, while facing real-world challenges that include a tight schedule, hard deadlines, and self directed learning.
+This course aims to give students the tools and skills to rapidly develop and transform innovative ideas (of their own choosing) into working projects utilizing advanced mobile, social, cloud, and web technologies. In particular, students will experience the style of development activity that is common in a new startup company. The project based course will be augmented by a series of lectures to accelerate learning with new web technologies, product design, agile development practices, user interface design, and project management. During the term, students will work in teams of 5 students. Each team will be closely mentored by several staff members (including the instructors and one or more members from industry). Students will gain valuable technical skills and experience working in small teams, while facing real-world challenges that include a tight schedule, hard deadlines, and self directed learning.
 
 Projects will include designing and developing a live web system. Each team will also maintain a web page with project documentation and design documents.
 
@@ -24,6 +24,7 @@ See [course requirements](requirements.md) and [student testimonials](testimonia
 - Meeting 7, 28/10/2016 - Guest talks (TBA)
 - Meeting 8, 04/11/2016 - [Milestone 2 presentation](milestone 2 - release candidate.md) - Public live BETA
 - Meeting 9, 25/11/2016 - [Milestone 3 presentation](milestone 3 - public beta.md) - Release Candidate
+- Meeting 10, 02/12/2016 - TBA
 - No meeting, 19/12/2016 - [Final submission](final submission.md) (by email)
 
 *Please note: this is a tentative schedule!*
