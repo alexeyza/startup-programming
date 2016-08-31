@@ -15,7 +15,7 @@ See [course requirements](requirements.md) and [student testimonials](testimonia
 **Classes will be on Fridays 1:30-4:20 at HHB 110:**  
 (*Tentative schedule, slides are in the [**resources section**](resources)*)
 
-- Meeting 1, 09/09/2016 - Introduction (Alexey), How to build a software product, Standing on the shoulders of giants, Demo of past projects, Forming teams
+- Meeting 1, 09/09/2016 - Introduction (Alexey), How to build a software product, Standing on the shoulders of giants, Demo of past projects (guest: [Carlene Lebeuf](http://clebeuf.github.io/)), Forming teams
 - Meeting 2, 16/09/2016 - Web development overview, Cloud computing services (Alexey), Mobile development (TBA), UI/UX overview (Peggy)
 - Meeting 3, 23/09/2016 - Team work, GitHub, and API's (Ian), [Project proposal presentations](presenting your ideas.md)
 - Meeting 4, 30/09/2016 - Guest talks (TBA)
