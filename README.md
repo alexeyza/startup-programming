@@ -12,7 +12,7 @@ See [course requirements](requirements.md) and [student testimonials](testimonia
 
 ---
 
-**Classes will be on Fridays 1:30-4:20 at HHB 110:**  
+**Classes will be on Fridays 1:30-4:20 at [HHB 110](http://www.uvic.ca/home/about/campus-info/maps/maps/hhb.php):**  
 (*Tentative schedule, slides are in the [**resources section**](resources)*)
 
 - Meeting 1, 09/09/2016 - Introduction (Alexey), How to build a software product, Standing on the shoulders of giants, Demo of past projects (guest: [Carlene Lebeuf](http://clebeuf.github.io/)), Forming teams
@@ -45,7 +45,7 @@ Alumni mentors: [Arie van Deursen](http://www.st.ewi.tudelft.nl/~arie/)
 **Teams and Projects:**  
 View current and past [teams and projects](teams and projects.md).
 
-**Reception Hour:** By appointment. Friday 11:00am-12:00pm at ECS 542a (please send an email to set a meeting) 
+**Reception Hour:** By appointment. Friday 11:00am-12:00pm at ECS 617 (please send an email to set a meeting) 
 
 **Contact email:** [startup.programming@gmail.com](mailto:startup.programming@gmail.com)
 
