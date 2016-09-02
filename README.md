@@ -17,7 +17,7 @@ See [course requirements](requirements.md) and [student testimonials](testimonia
 
 - Meeting 1, 09/09/2016 - Introduction (Alexey), How to build a software product, Standing on the shoulders of giants, Demo of past projects (guest: [Carlene Lebeuf](http://clebeuf.github.io/)), Forming teams
 - Meeting 2, 16/09/2016 - Web development overview, Cloud computing services (Alexey), Mobile development (TBA), UI/UX overview (Peggy)
-- Meeting 3, 23/09/2016 - Team work, GitHub, and API's (Ian), [Project proposal presentations](presenting your ideas.md)
+- Meeting 3, 23/09/2016 - Team work, GitHub, and APIs (Ian), [Project proposal presentations](presenting your ideas.md)
 - Meeting 4, 30/09/2016 - Guest talks (TBA)
 - Meeting 5, 14/10/2016 - [Milestone 1 presentation](milestone 1 - proof of concept.md) - Proof Of Concept
 - Meeting 6, 21/10/2016 - Team stand-up meeting, Software Management for people who just want to get stuff done (Cliff), Guest talk (TBA)
