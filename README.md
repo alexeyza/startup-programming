@@ -16,7 +16,7 @@ See [course requirements](requirements.md) and [student testimonials](testimonia
 (*Tentative schedule, slides are in the [**resources section**](resources)*)
 
 - Meeting 1, 09/09/2016 - Introduction (Alexey), How to build a software product, Standing on the shoulders of giants, Demo of past projects (guest: [Carlene Lebeuf](http://clebeuf.github.io/)), Forming teams
-- Meeting 2, 16/09/2016 - Web development overview, Cloud computing services (Alexey), Mobile development overview (Greg), UI/UX overview (Peggy)
+- Meeting 2, 16/09/2016 - [Startup Slam](http://www.startupslam.io/) invitation ([Noah Warder](https://angel.co/noah-warder)), Web development overview, Cloud computing services (Alexey), Mobile development overview (Greg), UI/UX overview (Peggy)
 - Meeting 3, 23/09/2016 - Team work, GitHub, and APIs (Ian), [Project proposal presentations](presenting your ideas.md)
 - Meeting 4, 30/09/2016 - Guest talks (TBA)
 - Meeting 5, 14/10/2016 - [Milestone 1 presentation](milestone 1 - proof of concept.md) - Proof Of Concept
