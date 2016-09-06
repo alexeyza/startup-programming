@@ -15,17 +15,20 @@ See [course requirements](requirements.md) and [student testimonials](testimonia
 **Classes will be on Fridays 1:30-4:20 at [HHB 110](http://www.uvic.ca/home/about/campus-info/maps/maps/hhb.php):**  
 (*Tentative schedule, slides are in the [**resources section**](resources)*)
 
-- Meeting 1, 09/09/2016 - Introduction (Alexey), How to build a software product, Standing on the shoulders of giants, Demo of past projects (guest: [Carlene Lebeuf](http://clebeuf.github.io/)), Forming teams
-- Meeting 2, 16/09/2016 - [Startup Slam](http://www.startupslam.io/) invitation ([Noah Warder](https://angel.co/noah-warder)), Web development overview, Cloud computing services (Alexey), Mobile development overview (Greg), UI/UX overview (Peggy)
-- Meeting 3, 23/09/2016 - Team work, GitHub, and APIs (Ian), [Project proposal presentations](presenting your ideas.md)
-- Meeting 4, 30/09/2016 - Guest talks (TBA)
-- Meeting 5, 14/10/2016 - [Milestone 1 presentation](milestone 1 - proof of concept.md) - Proof Of Concept
-- Meeting 6, 21/10/2016 - Team stand-up meeting, Software Management for people who just want to get stuff done (Cliff), Guest talk (TBA)
-- Meeting 7, 28/10/2016 - Guest talks (TBA)
-- Meeting 8, 04/11/2016 - [Milestone 2 presentation](milestone 2 - release candidate.md) - Public live BETA
-- Meeting 9, 25/11/2016 - [Milestone 3 presentation](milestone 3 - public beta.md) - Release Candidate
-- Meeting 10, 02/12/2016 - TBA
-- No meeting, 19/12/2016 - [Final submission](final submission.md) (by email)
+
+| | Date | Meeting agenda |
+| ---:| ---------- | -------------- |
+| 1 | 09/09/2016 | Introduction (Alexey), How to build a software product, Standing on the shoulders of giants, Demo of past projects (guest: [Carlene Lebeuf](http://clebeuf.github.io/)), Forming teams |
+| 2 | 16/09/2016 | [Startup Slam](http://www.startupslam.io/) invitation ([Noah Warder](https://angel.co/noah-warder)), Web development overview, Cloud computing services (Alexey), Mobile development overview (Greg), UI/UX overview (Peggy) |
+| 3 | 23/09/2016 | Team work, GitHub, and APIs (Ian), [Project proposal presentations](presenting your ideas.md) |
+| 4 | 30/09/2016 | Guest talks (TBA) |
+| 5 | 14/10/2016 | [Milestone 1 presentation](milestone 1 - proof of concept.md) - Proof Of Concept |
+| 6 | 21/10/2016 | Team stand-up meeting, Software Management for people who just want to get stuff done (Cliff), Guest talk (TBA) |
+| 7 | 28/10/2016 | Guest talks (TBA) |
+| 8 | 04/11/2016 | [Milestone 2 presentation](milestone 2 - release candidate.md) - Public live BETA |
+| 9 | 25/11/2016 | [Milestone 3 presentation](milestone 3 - public beta.md) - Release Candidate |
+| 10 | 02/12/2016 | TBA |
+| | 19/12/2016 | [Final submission](final submission.md) (by email, no meeting)
 
 *Please note: this is a tentative schedule!*
 
