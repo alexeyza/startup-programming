@@ -19,30 +19,7 @@
     - [Choozie](https://code.google.com/p/choosie-app/) [on [Google Play](https://play.google.com/store/apps/details?id=com.choozie.app)]
     - [EZ-Launch](https://code.google.com/p/ez-launch/) [on [Google Play](https://play.google.com/store/apps/details?id=com.sadna.widgets.application)]
 
-### Meeting 2
 
-- [Web development overview](https://docs.google.com/presentation/d/1zvVbyEkl6rlU_Wnd-IIJCQm9Q-vZXPR3XIO0FZxMkng)
-- [Cloud computing services](https://docs.google.com/presentation/d/10YzdcKihpphwu9zDsIxBHP7ntKUPYePb2sj973sywUI) - [Code tutorials](tutorials) (of various platforms) for the [example shown in class](http://startupprogrammingdemo.appspot.com/) can be found in the tutorials section.
-- [UX – UI overview](ux.pdf?raw=true)
-
-### Meeting 3
-
-- Team work, Source control (GitHub), and API's - [Run your project like it’s an open source project](run your project like it’s an open source project.pdf?raw=true) by Ian Bull
-
-### Meeting 4
-
-- [Failing fast in Startup Programming](https://speakerdeck.com/avandeursen/failing-fast-in-startup-programming) by Arie Van Deursen
-- [Software Engineering at Magnet.me](https://speakerdeck.com/michaeldejong/software-engineering-at-magnet-dot-me) by [Michael de Jong](https://github.com/michaeldejong)
-
-### Meeting 5
-
-- [Software Management...for people who just want to get stuff done](http://www.slideshare.net/cliffmcc/software-managementfor-people-who-just-want-to-get-stuff-done) by Cliff McCollum
-- Guest talk by [Aidin Tavakkol](mailto:aidin@limespot.com), CTO and Founder of [LimeSpot](https://limespot.com/)
-
-### Meeting 7
-
-- Guest talk by [Tali Saar](http://www.talisaar.com/), Co-founder and CEO of [Palo Alto Rooster](http://paloalto.therooster.co/)
-- How 2 UVic students started an eBay ecommerce analytics company by [Anthony Sukow](http://ca.linkedin.com/in/anthonysukow/), EVP & Co-founder [Terapeak](https://www.terapeak.ca/)
 
 # Recommended Reading and Watching
 

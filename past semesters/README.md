@@ -1,6 +1,6 @@
 ## University of Victoria courses
 
-- [Startup Programming - Fall 2014](fall 2014/README.md)
+- [Startup Programming - Fall 2014](fall 2014)
 
 ## Tel Aviv University courses
 
