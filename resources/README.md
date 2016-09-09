@@ -43,12 +43,23 @@ Go to [recommended reading](recommended reading.md) section.
 - [Google Python Class Day](http://www.youtube.com/watch?v=tKTZoB2Vjuk&feature=channel) - A basic tutorial for python by Nick Parlante. There are links to his exercises as well.
 - [PyCharm](http://www.jetbrains.com/pycharm/) - A pretty good IDE for Python (free for students).
 
-### JavaScript
+### Web
+
+#### Development
+- [WebStorm](https://www.jetbrains.com/webstorm/) - A good web development IDE (free for students).
+ 
+#### JavaScript
 - [Douglas Crockford's Javascript](http://javascript.crockford.com/) - Useful links for JavaScript. Watch the video courses (in the bottom of the page).
 - [jQuery](http://jquery.com/) - If you plan to use JavaScript in your application, you should consider using JQuery library.
 - [jQuery plugins](http://webdesignledger.com/resources/best-jquery-plugins-of-2011) - A few nice plugins for jQuery.
 - [JSDB](http://www.jsdb.io/) - Database of JavaScript libraries, frameworks & plugins.
 - [Advanced JavaScript](https://github.com/advanced-js/syllabus#resources) course - A nice collection of resources to learn JavaScript.
+
+#### Front-End Libraries
+- [React](https://facebook.github.io/react/) - A component-based front-end JavaScript library built by Facebook.
+
+#### Back-End Libraries
+- [NodeJS](https://nodejs.org/en/) - Serverside JavaScript platform.
 
 ### Sending email
 - [Mailgun](http://www.mailgun.com/) - Sending the first 10,000 emails every month is free.
