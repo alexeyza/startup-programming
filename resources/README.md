@@ -6,7 +6,7 @@
 - [How to build a software product?](https://docs.google.com/presentation/d/1-T1rV32jLolgbbdOrJsf9SlWsSDswbcoDqAJOtbzd_c)
 - [Standing on the shoulders of giants](http://prezi.com/mkn6azkr8kqt/standing-on-the-shoulders-of-giants-v4/) - On software reuse and software composition (v4).
 - A few of the past projects:
-    - [Check Me In](https://code.google.com/p/check-me-in/) - continued to [Microsoft's accelerator](https://www.microsoftventures.com/accelerators/telaviv.aspx) and then to create [Screemo](http://www.screemo.com/), a successful startup [[Lessons learned](https://docs.google.com/file/d/0B94p08j2m1YtRDRrLVlFOVVPLUk)].
+    - [Check Me In](https://code.google.com/p/check-me-in/) - continued to [Microsoft's accelerator](https://www.microsoftventures.com/accelerators/telaviv.aspx) and then to create [Screemo](http://www.screemo.com/), a successful startup [[Use cases](https://www.youtube.com/watch?v=nK6PTxEfvJQ), [Lessons learned](https://docs.google.com/file/d/0B94p08j2m1YtRDRrLVlFOVVPLUk)].
     - [What2Wear](https://code.google.com/p/what2wear/)
     - [AroundRoid](https://code.google.com/p/aroundroid/)
     - [StrEAT](https://code.google.com/p/team-4/)
