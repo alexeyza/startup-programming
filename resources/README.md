@@ -2,7 +2,7 @@
 
 ### Meeting 1
 
-- [Welcome to Startup Programming](https://docs.google.com/presentation/d/1smezy0AbtVYj9YDp43EwO8SYgRWuj9ajBun_AxeNK20)
+- [Welcome to Startup Programming 2016](https://speakerdeck.com/alexeyza/welcome-to-startup-programming-course-fall-2016)
 - [How to build a software product?](https://docs.google.com/presentation/d/1-T1rV32jLolgbbdOrJsf9SlWsSDswbcoDqAJOtbzd_c)
 - [Standing on the shoulders of giants](http://prezi.com/mkn6azkr8kqt/standing-on-the-shoulders-of-giants-v4/) - On software reuse and software composition (v4).
 - A few of the past projects:
