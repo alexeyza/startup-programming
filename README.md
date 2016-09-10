@@ -52,8 +52,6 @@ View current and past [teams and projects](teams and projects.md).
 
 **Contact email:** [startup.programming@gmail.com](mailto:startup.programming@gmail.com)
 
-## Useful Links
- - [GitHub Student Developer Pack](https://education.github.com/pack) 
 
 ## License
 This work is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/). This doesn't include the students' projects, which are hosted on separate repositories and each have their own license.

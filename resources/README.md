@@ -28,6 +28,9 @@ Go to [recommended reading](recommended reading.md) section.
 
 # Resources
 
+### Useful Links
+ - [GitHub Student Developer Pack](https://education.github.com/pack) 
+
 ### Cloud Computing Services
 
 - Information on various cloud computing services [[link](http://leanstack.io/)]
