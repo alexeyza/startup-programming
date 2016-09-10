@@ -1,5 +1,15 @@
 # Teams and Projects
 
+### Team 1  
+**Members**:
+
+- Amanda Dash
+- Nora Huang
+- Dany Cabrera
+- Tristan Partridge 
+- Maria Ferman
+
+---
 
 
 ---
