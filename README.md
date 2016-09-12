@@ -26,7 +26,7 @@ See [course requirements](requirements.md) and [student testimonials](testimonia
 | 6 | 21/10/2016 | Team stand-up meeting, Software Management for people who just want to get stuff done (Cliff), Guest talk (TBA) |
 | 7 | 28/10/2016 | Guest talks (TBA) |
 | 8 | 04/11/2016 | [Milestone 2 presentation](milestone 2 - release candidate.md) - Public live BETA |
-| 9 | 02/12/2016 | [Milestone 3 presentation](milestone 3 - public beta.md) - Release Candidate |
+| 9 | 02/12/2016 | [Milestone 3 presentation](milestone 3 - public beta.md) - Release Candidate **specific time and place may be different than usual** |
 | | 19/12/2016 | [Final submission](final submission.md) (by email, no meeting)
 
 *Please note: this is a tentative schedule!*
