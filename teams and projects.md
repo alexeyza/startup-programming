@@ -3,11 +3,11 @@
 ### Team 1  
 **Members**:
 
-- Amanda Dash
-- Nora Huang
-- Dany Cabrera
-- Tristan Partridge 
-- Maria Ferman
+- Amanda Dash [[memet666@gmail.com](mailto:memet666@gmail.com)]
+- Nora Huang [[norahuangsun@gmail.com](mailto:norahuangsun@gmail.com)]
+- Dany Cabrera [[dcabrera@uvic.ca](mailto:dcabrera@uvic.ca)]
+- Tristan Partridge [[tristanp2@hotmail.com](mailto:tristanp2@hotmail.com)]
+- Maria Ferman [[tania_ferman@hotmail.com](mailto:tania_ferman@hotmail.com)]
 
 ---
 
