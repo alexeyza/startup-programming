@@ -14,6 +14,13 @@
 ### Team 2  
 **Members**:
 
+- Charlie
+- Charlotte
+- Conner
+- Daniel
+- Mavis
+- Tyler
+
 ---
 
 ### Team 3  
