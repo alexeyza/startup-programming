@@ -14,12 +14,11 @@
 ### Team 2  
 **Members**:
 
-- Charlie
-- Charlotte
-- Conner
-- Daniel
-- Mavis
-- Tyler
+- Charlotte Fedderly [[charlottefedderly@gmail.com](mailto:charlottefedderly@gmail.com)]
+- Conner Leverett [[connerleverett@gmail.com](mailto:connerleverett@gmail.com)]
+- Daniel Templeman [[daniel.templeman@gmail.com](mailto:daniel.templeman@gmail.com)]
+- Mavis Brace [[mavislauren@gmail.com](mailto:mavislauren@gmail.com)]
+- Tyler Potter [[tylerjamespotter@gmail.com](mailto:tylerjamespotter@gmail.com)]
 
 ---
 
