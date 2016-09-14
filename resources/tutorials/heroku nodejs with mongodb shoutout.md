@@ -135,7 +135,7 @@ At this point, you can test your app locally, by typing in command line:
 ```
 node main.js
 ```
-And then opening http://localhost:3000 (3000 is the port number used)
+And then opening [localhost:3000](http://localhost:3000) (3000 is the port number used)
 
 
 Lastly, we need to create a ```Procfile``` that contains:
