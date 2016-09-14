@@ -29,7 +29,9 @@ Go to [recommended reading](recommended reading.md) section.
 # Resources
 
 ### Useful Links
- - [GitHub Student Developer Pack](https://education.github.com/pack) 
+
+- [Getting started web-app tutorials for newcomers - in Java, Python, or Node](/tutorials)
+- [GitHub Student Developer Pack](https://education.github.com/pack)
 
 ### Cloud Computing Services
 
