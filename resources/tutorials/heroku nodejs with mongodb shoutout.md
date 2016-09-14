@@ -3,7 +3,7 @@
 ### Initial Heroku Setup
 First, create a [free account on Heroku](https://signup.heroku.com/signup/dc).
 
-Make sure you have [Node.js](http://nodejs.org/) and [npm](https://github.com/npm/npm#synopsis) installed.
+Make sure you have [Node.js](http://nodejs.org/) and [npm](https://github.com/npm/npm#synopsis) installed (instructions for installing Node with the use of NVM can be found [here](http://alexeyza.com/blog/2015/09/28/getting-started-with-node-dot-js/)).
 
 Download and install [the Heroku Toolbelt](https://devcenter.heroku.com/articles/getting-started-with-python#set-up). Once installed, you can use the ```heroku login``` command to connect to your Heroku account.
 
