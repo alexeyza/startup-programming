@@ -30,7 +30,7 @@ Go to [recommended reading](recommended reading.md) section.
 
 ### Useful Links
 
-- [Getting started web-app tutorials for newcomers - in Java, Python, or Node](/tutorials)
+- [Getting started tutorials for newcomers - in Java, Python, and Node](tutorials)
 - [GitHub Student Developer Pack](https://education.github.com/pack)
 
 ### Cloud Computing Services
