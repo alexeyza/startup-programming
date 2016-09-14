@@ -37,6 +37,13 @@
 ### Team 4  
 **Members**:
 
+- Ryan Samarajeewa
+- Nick Addison
+- James Woo
+- Brian Chen
+- Zane Li
+- Alix Voorthuyzen
+
 ---
 
 ### Team 5  
