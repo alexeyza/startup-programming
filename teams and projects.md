@@ -25,6 +25,13 @@
 ### Team 3  
 **Members**:
 
+- Dahv Reinhart
+- Kolby Chapman
+- Logan Kearns
+- Madeline Petersen
+- Omnielle Halton
+- Tim Baker
+
 ---
 
 ### Team 4  
