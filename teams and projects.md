@@ -25,11 +25,11 @@
 ### Team 3  
 **Members**:
 
-- Dahv Reinhart [[dahvreinhart@gmail.com](dahvreinhart@gmail.com)]
-- Kolby Chapman [[kol_j@hotmail.com](kol_j@hotmail.com)]
-- Madeline Petersen [[madpeter@uvic.ca](madpeter@uvic.ca)]
-- Omnielle Halton [[om.halton@gmail.com](om.halton@gmail.com)]
-- Tim Baker [[tbakerx@gmail.com](tbakerx@gmail.com)]
+- Dahv Reinhart [[dahvreinhart@gmail.com](mailto:dahvreinhart@gmail.com)]
+- Kolby Chapman [[kol_j@hotmail.com](mailto:kol_j@hotmail.com)]
+- Madeline Petersen [[madpeter@uvic.ca](mailto:madpeter@uvic.ca)]
+- Omnielle Halton [[om.halton@gmail.com](mailto:om.halton@gmail.com)]
+- Tim Baker [[tbakerx@gmail.com](mailto:tbakerx@gmail.com)]
 
 ---
 
