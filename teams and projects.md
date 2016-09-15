@@ -25,11 +25,11 @@
 ### Team 3  
 **Members**:
 
-- Dahv Reinhart
-- Kolby Chapman
-- Madeline Petersen
-- Omnielle Halton
-- Tim Baker
+- Dahv Reinhart [[dahvreinhart@gmail.com](dahvreinhart@gmail.com)]
+- Kolby Chapman [[kol_j@hotmail.com](kol_j@hotmail.com)]
+- Madeline Petersen [[madpeter@uvic.ca](madpeter@uvic.ca)]
+- Omnielle Halton [[om.halton@gmail.com](om.halton@gmail.com)]
+- Tim Baker [[tbakerx@gmail.com](tbakerx@gmail.com)]
 
 ---
 
@@ -48,12 +48,12 @@
 ### Team 5  
 **Members**:
 
-Kelsey Legault [[kelsey.legault@gmail.com](mailto:kelsey.legault@gmail.com)]
-Brendon Earl [[bearl@uvic.ca](mailto:bearl@uvic.ca)]
-Andrew Stocks [[agstocks@uvic.ca](mailto:agstocks@uvic.ca)]
-Juan Carlos Gallegos [[jcgallegdup@gmail.com](mailto:jcgallegdup@gmail.com)]
-Josh Pearson [[joshdpearson@gmail.com](mailto:joshdpearson@gmail.com)]
-Ben Hawker [[bhawker@uvic.ca](mailto:bhawker@uvic.ca)]
+- Kelsey Legault [[kelsey.legault@gmail.com](mailto:kelsey.legault@gmail.com)]
+- Brendon Earl [[bearl@uvic.ca](mailto:bearl@uvic.ca)]
+- Andrew Stocks [[agstocks@uvic.ca](mailto:agstocks@uvic.ca)]
+- Juan Carlos Gallegos [[jcgallegdup@gmail.com](mailto:jcgallegdup@gmail.com)]
+- Josh Pearson [[joshdpearson@gmail.com](mailto:joshdpearson@gmail.com)]
+- Ben Hawker [[bhawker@uvic.ca](mailto:bhawker@uvic.ca)]
 
 ---
 
