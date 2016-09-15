@@ -27,7 +27,6 @@
 
 - Dahv Reinhart
 - Kolby Chapman
-- Logan Kearns
 - Madeline Petersen
 - Omnielle Halton
 - Tim Baker
