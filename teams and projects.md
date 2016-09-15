@@ -36,17 +36,24 @@
 ### Team 4  
 **Members**:
 
-- Ryan Samarajeewa
-- Nick Addison
-- James Woo
-- Brian Chen
-- Zane Li
-- Alix Voorthuyzen
+- Ryan Samarajeewa [[ryan.samarajeewa@gmail.com](mailto:ryan.samarajeewa@gmail.com)]
+- Nick Addison [[Nick.b.addison@gmail.com](mailto:Nick.b.addison@gmail.com)]
+- James Woo [[jamesjaywoo@gmail.com](mailto:jamesjaywoo@gmail.com)]
+- Brian Chen [[brianchen.czq@gmail.com](mailto:brianchen.czq@gmail.com)]
+- Zane Li [[zanelib1@gmail.com](mailto:zanelib1@gmail.com)]
+- Alix Voorthuyzen [[alix4000@shaw.ca](mailto:alix4000@shaw.ca)]
 
 ---
 
 ### Team 5  
 **Members**:
+
+Kelsey Legault [[kelsey.legault@gmail.com](mailto:kelsey.legault@gmail.com)]
+Brendon Earl [[bearl@uvic.ca](mailto:bearl@uvic.ca)]
+Andrew Stocks [[agstocks@uvic.ca](mailto:agstocks@uvic.ca)]
+Juan Carlos Gallegos [[jcgallegdup@gmail.com](mailto:jcgallegdup@gmail.com)]
+Josh Pearson [[joshdpearson@gmail.com](mailto:joshdpearson@gmail.com)]
+Ben Hawker [[bhawker@uvic.ca](mailto:bhawker@uvic.ca)]
 
 ---
 
