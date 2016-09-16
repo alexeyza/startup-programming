@@ -20,7 +20,9 @@
     + [Valto](https://code.google.com/p/valto/)
     + [EZ-Launch](https://code.google.com/p/ez-launch/) [on [Google Play](https://play.google.com/store/apps/details?id=com.sadna.widgets.application)]
 
+### Meeting 2
 
+- [Web development overview](https://speakerdeck.com/alexeyza/web-development-overview-2016)
 
 # Recommended Reading and Watching
 
