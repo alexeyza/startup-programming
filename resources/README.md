@@ -55,11 +55,14 @@ Go to [recommended reading](recommended reading.md) section.
 - [JSDB](http://www.jsdb.io/) - Database of JavaScript libraries, frameworks & plugins.
 - [Advanced JavaScript](https://github.com/advanced-js/syllabus#resources) course - A nice collection of resources to learn JavaScript.
 
-#### Front-End Libraries
-- [React](https://facebook.github.io/react/) - A component-based front-end JavaScript library built by Facebook.
+#### React
+- [React Home](https://facebook.github.io/react/) - A component-based front-end JavaScript library built by Facebook.
+- [9 things every ReactJS beginner should know](https://camjackson.net/post/9-things-every-reactjs-beginner-should-know) - A list of 9 basic guidelines to follow when developing in react.
+- [Using React with Webpack Tutorial](https://blog.risingstack.com/using-react-with-webpack-tutorial/) - A tutorial explaining the fundamentals of Webpack, and how to set up a basic development environment.
 
-#### Back-End Libraries
-- [NodeJS](https://nodejs.org/en/) - Serverside JavaScript platform.
+#### NodeJS
+- [NodeJS Home](https://nodejs.org/en/) - Serverside JavaScript platform.
+- [NPM](https://www.npmjs.com) - Node Package Manager, a package manager initially built for NodeJS Packages but has since expanded to host packages for front-end development as well.
 
 ### Sending email
 - [Mailgun](http://www.mailgun.com/) - Sending the first 10,000 emails every month is free.
