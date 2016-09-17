@@ -30,6 +30,7 @@
 - Madeline Petersen [[madpeter@uvic.ca](mailto:madpeter@uvic.ca)]
 - Omnielle Halton [[om.halton@gmail.com](mailto:om.halton@gmail.com)]
 - Tim Baker [[tbakerx@gmail.com](mailto:tbakerx@gmail.com)]
+- Bridget Rassell [[bridget.rassell@gmail.com](mailto:bridget.rassell@gmail.com)]
 
 ---
 
