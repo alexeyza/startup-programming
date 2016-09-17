@@ -22,6 +22,7 @@
 
 ### Meeting 2
 
+- [Startup Slam 3.0](http://www.startupslam.io/)
 - [Web development overview](https://speakerdeck.com/alexeyza/web-development-overview-2016)
 - [Mobile development - advice on how to start]()
 - [UI/UX part 1 - Design Thinking](design_thinking2016.pdf?raw=true)
