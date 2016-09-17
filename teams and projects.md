@@ -19,6 +19,7 @@
 - Daniel Templeman [[daniel.templeman@gmail.com](mailto:daniel.templeman@gmail.com)]
 - Mavis Brace [[mavislauren@gmail.com](mailto:mavislauren@gmail.com)]
 - Tyler Potter [[tylerjamespotter@gmail.com](mailto:tylerjamespotter@gmail.com)]
+- Brady Schnell [[bradyschnell@gmail.com](mailto:bradyschnell@gmail.com)]
 
 ---
 
