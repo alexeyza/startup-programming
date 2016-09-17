@@ -134,7 +134,6 @@ These tools can help you create demo videos, and tutorial videos for your applic
 
 ### Useful Links and Tools
 
-- [Balsamiq](http://balsamiq.com/) - A web service (or desktop tool) for UI mockup sketching.
 - [ZenHub](https://www.zenhub.io/) - ZenHub enhances the GitHub workflow with a visual way to organize your features, and projects.
 - [Let’s Encrypt](https://letsencrypt.org/howitworks/) - Free SSL/TLS encryption.
 - [Google API Explorer](http://code.google.com/apis/explorer/) - A quick and easy way to see all available API's provided by Google.
@@ -149,8 +148,10 @@ These tools can help you create demo videos, and tutorial videos for your applic
 
 ### Web and Mobile Prototyping
 
+- [Balsamiq](http://balsamiq.com/) - A web service (or desktop tool) for UI mockup sketching.
 - [invision](http://www.invisionapp.com/) - Quickly transform your designs into beautiful, fully interactive prototypes complete with gestures, transitions & animations for web, iOS & Android (Free).
 - [proto.io](http://proto.io/) - Mobile prototyping (15 days free trial).
+- [Adobe XD](http://www.adobe.com/ca/products/experience-design.html) - A prototyping tool for high fidelity prototypes.
 
 ### Web Parsers and Scrapers (or What to do when there is no API available?)
 
