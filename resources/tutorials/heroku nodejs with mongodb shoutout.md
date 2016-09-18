@@ -64,7 +64,7 @@ Add the MongoHQ addon to your Heroku application:
 ```bash
 heroku addons:add mongohq
 ```
-**Note, there is a need to verify your billing information on Heroku in order to use addons**, even though MongoHQ is free to use for 512mb ([a possible workaround](http://www.elliotbradbury.com/use-mongohq-heroku-without-verifying-account/)).
+**Note, there is a need to verify your billing information on Heroku in order to use addons**. MongoHQ used to be free (for 512mb), however, it's no longer free -- please use mLab MongoDB addon on heroku instead.
 
 <br>  
 Next, we'll create the backend for our application by creating ```main.js```, to handle POST requests that add new shouts, and GET requests that display existing shouts:
