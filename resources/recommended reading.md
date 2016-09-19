@@ -8,6 +8,8 @@
 - Getting Real by 37signals ([PDF](https://basecamp.com/about/books/Getting%20Real.pdf))
 - Zero to One: Notes on Startups, or How to Build the Future by Peter Thiel ([Amazon](https://www.amazon.ca/Zero-One-Notes-Startups-Future/dp/0804139296/ref=sr_1_1?s=books&ie=UTF8&qid=1474320210&sr=1-1&keywords=zero+to+one))
 - Chaos Monkeys: Obscene Fortune and Random Failure in Silicon Valley by Antonio Garcia Martinez ([Amazon](https://www.amazon.com/Chaos-Monkeys-Obscene-Fortune-Failure/dp/0062458191/ref=sr_1_1?s=books&ie=UTF8&qid=1474320434&sr=1-1&keywords=chaos+monkey))
+- The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers by Ben Horowitz ([Amazon](https://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205))
+- Some More Things (additional posts that weren't included in _The Hard Thing About the Hard Things_) by Ben Horowitz ([PDF](http://a16z.com/2016/09/04/ben-blog-ebook/))
 
 #### UI/UX
 - Lean UX: Applying Lean Principles to Improve User Experience by Jeff Gothelf ([Amazon](https://www.amazon.com/Lean-UX-Applying-Principles-Experience/dp/1449311652))
