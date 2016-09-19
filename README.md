@@ -29,8 +29,6 @@ See [course requirements](requirements.md) and [student testimonials](testimonia
 | 9 | 02/12/2016 | [Milestone 3 presentation](milestone 3 - public beta.md) - Release Candidate<br>*(note: time and location of this meeting may change)* |
 | | 19/12/2016 | [Final submission](final submission.md) (by email, no meeting)
 
-*Please note: this is a tentative schedule!*
-
 ---
 
 **Mentoring Staff:**
