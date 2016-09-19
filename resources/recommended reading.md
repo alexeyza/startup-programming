@@ -1,6 +1,6 @@
 # Recommended Reading
 
-![alt text](https://d262ilb51hltx0.cloudfront.net/max/2000/1*zncFk_rzIO1CCZYz2zDj3A.png "image from https://medium.com/@georgelovegrove/books-for-founders-at-each-stage-of-a-startup-424d5cb75473#.7uhswc47b")
+![alt text](https://d262ilb51hltx0.cloudfront.net/max/2000/1*zncFk_rzIO1CCZYz2zDj3A.png "Image by George Lovegrove @ https://medium.com/@georgelovegrove/books-for-founders-at-each-stage-of-a-startup-424d5cb75473#.7uhswc47b")
 
 ### Books
 
