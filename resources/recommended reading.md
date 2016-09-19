@@ -1,16 +1,30 @@
 # Recommended Reading
 
 ### Books
+
+#### Startups
+- The Lean Startup by Eric Ries ([Amazon](http://www.amazon.com/The-Lean-Startup-Entrepreneurs-Continuous/dp/0307887898), [YouTube](https://www.youtube.com/watch?v=fEvKo90qBns))
+- Founders at Work: Stories of Startups' Early Days by Jessica Livingston ([Amazon](http://www.amazon.com/Founders-Work-Stories-Startups-Early/dp/1430210788))
+- Getting Real by 37signals ([PDF](https://basecamp.com/about/books/Getting%20Real.pdf))
+- Zero to One: Notes on Startups, or How to Build the Future by Peter Thiel ([Amazon](https://www.amazon.ca/Zero-One-Notes-Startups-Future/dp/0804139296/ref=sr_1_1?s=books&ie=UTF8&qid=1474320210&sr=1-1&keywords=zero+to+one))
+- Chaos Monkeys: Obscene Fortune and Random Failure in Silicon Valley by Antonio Garcia Martinez ([Amazon](https://www.amazon.com/Chaos-Monkeys-Obscene-Fortune-Failure/dp/0062458191/ref=sr_1_1?s=books&ie=UTF8&qid=1474320434&sr=1-1&keywords=chaos+monkey))
+
+#### UI/UX
+- Lean UX: Applying Lean Principles to Improve User Experience by Jeff Gothelf ([Amazon](https://www.amazon.com/Lean-UX-Applying-Principles-Experience/dp/1449311652))
+- Validating Product Ideas: Through Lean User Research by Tomer Sharon ([Amazon](https://www.amazon.com/Validating-Product-Ideas-Through-Research/dp/1933820292))
+- Hooked: How to Build Habit-Forming Products by Nir Eyal ([Amazon](https://www.amazon.com/Hooked-How-Build-Habit-Forming-Products/dp/1591847788/ref=sr_1_1?s=books&ie=UTF8&qid=1474320367&sr=1-1&keywords=hooked))
+- Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability by Steve Krug ([Amazon](http://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515/ref=dp_ob_title_bk))
+- UX for Lean Startups by Laura Klein ([Amazon](http://www.amazon.com/UX-Lean-Startups-Experience-Research/dp/1449334911))
+
+#### Programming Essentials
 - Extreme Programming Explained: Embrace Change, 2nd Edition by Kent Beck ([Amazon](http://www.amazon.com/Extreme-Programming-Explained-Embrace-Change/dp/0321278658/ref=sr_1_1?s=books&ie=UTF8&qid=1407949544&sr=1-1&keywords=Extreme+Programming+kent+beck))
 - The Nature of Software Development by Ron Jeffries ([Book](https://pragprog.com/book/rjnsd/the-nature-of-software-development))
 - The Mythical Man-Month, 2nd Edition by Fred Brooks ([Amazon](http://www.amazon.com/gp/product/0201835959/ref=as_li_qf_sp_asin_tl?ie=UTF8&tag=wwwsteveblank-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0201835959))
-- The Lean Startup by Eric Ries ([Amazon](http://www.amazon.com/The-Lean-Startup-Entrepreneurs-Continuous/dp/0307887898), [YouTube](https://www.youtube.com/watch?v=fEvKo90qBns))
-- Founders at Work: Stories of Startups' Early Days by Jessica Livingston ([Amazon](http://www.amazon.com/Founders-Work-Stories-Startups-Early/dp/1430210788))
-- Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability by Steve Krug ([Amazon](http://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515/ref=dp_ob_title_bk))
-- Designing Multi-Device Experiences by Michal Levin ([Amazon](http://www.amazon.ca/Designing-Multi-Device-Experiences-Ecosystem-Approach/dp/1449340385), [YouTube](https://www.youtube.com/watch?v=5ieYBP3pUfA), and a [related presentation](http://www.slideshare.net/gabrielwhite/multidevice-user-experience))
-- UX for Lean Startups by Laura Klein ([Amazon](http://www.amazon.com/UX-Lean-Startups-Experience-Research/dp/1449334911))
-- Getting Real by 37signals ([PDF](https://basecamp.com/books/Getting%20Real.pdf))
-- Who Moved My Cheese by Spencer Johnson ([Amazon](http://www.amazon.com/Who-Moved-My-Cheese-Amazing/dp/0399144463), [YouTube](https://www.youtube.com/watch?v=91YxXk3fmw8))
+
+#### Life Lessons
+- Who Moved My Cheese by Spencer Johnson ([Amazon](http://www.amazon.com/Who-Moved-My-Cheese-Amazing/dp/0399144463))
+
+---
 
 ### Blogs and Articles
 
@@ -22,6 +36,8 @@
 - How Not to Design a Mobile App [[link](http://giffconstable.com/2014/08/how-not-to-design-a-mobile-app/)]
 - 7 Rules for Creating Gorgeous UI [[Part 1](https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-1-559d4e805cda), and [Part 2](https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-2-430de537ba96)]
 - Seven startup marketing mistakes [[link](http://mashable.com/2014/11/26/startups-marketing-mistakes/)]
+
+---
 
 ### Recommended Watching
 - The User is Drunk [[YouTube](https://www.youtube.com/watch?v=r2CbbBLVaPk)]
