@@ -24,7 +24,7 @@
 
 - [Startup Slam 3.0](http://www.startupslam.io/)
 - [Web development overview](https://speakerdeck.com/alexeyza/web-development-overview-2016)
-- [Mobile development - advice on how to start]()
+- [Mobile development - advice on how to start](https://docs.google.com/presentation/d/1kROO3-EDVNjYDe02Xf7GPpNwFz1XN5ZwfNmVbje-Zys)
 - [UI/UX part 1 - Design Thinking](design_thinking2016.pdf?raw=true)
 
 # Recommended Reading and Watching
