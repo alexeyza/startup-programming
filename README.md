@@ -54,3 +54,6 @@ View current and past [teams and projects](teams and projects.md).
 This work is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/). This doesn't include the students' projects, which are hosted on separate repositories and each have their own license.
 
 ![Alt text](https://i.creativecommons.org/l/by-sa/4.0/88x31.png "Creative Commons Attribution-ShareAlike 4.0 International License")
+
+## Project IP ownership
+Please consult with the [project participant agreement](resources/Project_Participant_Agreement).
