@@ -55,5 +55,5 @@ This work is licensed under the [Creative Commons Attribution-ShareAlike 4.0 Int
 
 ![Alt text](https://i.creativecommons.org/l/by-sa/4.0/88x31.png "Creative Commons Attribution-ShareAlike 4.0 International License")
 
-## Project IP ownership
-Please consult with the [project participant agreement](resources/Project_Participant_Agreement).
+## Project IP Ownership
+Please consult with the [project participant agreement](resources/Project_Participant_Agreement.pdf).
