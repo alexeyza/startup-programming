@@ -10,6 +10,9 @@ Projects will include designing and developing a live web system. Each team will
 
 See [course requirements](requirements.md) and [student testimonials](testimonials.md).
 
+**As a student, what should I expect from the course?**
+This [discussion on Reddit](https://www.reddit.com/r/uvic/comments/500qzx/taking_seng_474_csc_485_csc_349/) provides a pretty good answer.
+
 ---
 
 **Classes will be on Fridays 1:30-4:20 at [HHB 110](http://www.uvic.ca/home/about/campus-info/maps/maps/hhb.php):**  
