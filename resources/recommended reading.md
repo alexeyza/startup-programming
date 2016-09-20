@@ -46,6 +46,11 @@
 ### Recommended Watching
 - How to Start a Startup course at Stanford by Y-Combinator [[link](http://startupclass.samaltman.com/)]
 - Office Hours with Kevin & Qasar [[YouTube](https://www.youtube.com/watch?v=9cWPxuxqdGQ)]
+- Jessica Livingston at Startup School 2012 [[YouTube](https://www.youtube.com/watch?v=KQJ6zsNCA-4)]
+- The story of Watsi (a non-profit startup) by Chase Adam, a good motivational talk [[YouTube](https://www.youtube.com/watch?v=WlT3UhC7NwQ)]
+- "1000 days of AirBnB", the story of AirBnb [[YouTube](https://www.youtube.com/watch?v=L03vBkOKTrc)]
+- Jan Koum's talk (WhatsApp) demonstrates long term goals and keeping focus [[YouTube](https://www.youtube.com/watch?v=8-pJa11YvCs)]
+- Michelle Zatlyn and Matthew Prince (CloudFlare) talk about team dynamics [[YouTube](https://www.youtube.com/watch?v=l58rp7JoVYQ)]
 - The User is Drunk [[YouTube](https://www.youtube.com/watch?v=r2CbbBLVaPk)]
 - Startup School talks [[YouTube](https://www.youtube.com/channel/UCcefcZRL2oaA_uBNeo5UOWg/playlists)]
 - Beyond Landing Pages: Five Ways to Find Out if Your Idea Is Stupid by Laura Klein [[YouTube](https://www.youtube.com/watch?v=g_g-9BpBcFs)]
