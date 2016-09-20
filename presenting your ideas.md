@@ -7,7 +7,7 @@ You will be given 15 minutes as follows:
     - Describe the situation, the need (**the problem**), the data involved, and the decisions made in the process.
     - Describe the overall architecture of the application. What functionality will be implemented in each part? (client/server/mobile/external sources/etc.)
     - Estimate what can be **demonstrated** in Milestone 1, and what can be demonstrated in Milestones 2 and 3. Estimate possible extensions that could not be finished within the time frame of the semester, but seem to be natural extensions of your application.
-    - Include **UI mockups** in your presentation.
+    - Include a few **UI mockups** in your presentation.
 - In the next 5 minutes you will answer questions from the rest of the class and the course staff. During this discussion, the course mentors will estimate whether your use-case is well developed and your estimations are realistic.
 - In the last 5 minutes you will get feedback from the mentors.
 
@@ -22,6 +22,7 @@ You will be given 15 minutes as follows:
 - Take a look at presentations from previous semesters. An example for a good presentation: [Moishd - 2010/2011A](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxjbG91ZHdlYjEwYXxneDoyOWIzOTg0NWQ5ZDQ3YTdh&pli=1)
 - Rehearse your presentation within the team and make sure you are all on the same page.
 - If you plan on using slides, please email them to us before the meeting.
+- If you have some free time, consider watching the Y Combinator Office Hours videos ([video 1](https://www.youtube.com/watch?v=9cWPxuxqdGQ), [video 2](https://www.youtube.com/watch?v=Ud4Q1Lzh5c8), [video 3](https://www.youtube.com/watch?v=gb9PSarqysA))
 - For creating UI mockups consider using [Balsamiq](https://balsamiq.com/download/), offered for free use during the course:
 ```
 License Name: Startup Programming 2016
