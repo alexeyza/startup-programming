@@ -32,7 +32,7 @@
 ---
 
 ### Blogs and Articles
-
+- [How to Start a Startup](http://paulgraham.com/start.html) essay by Paul Grahm. If you read only one essay, read this one!
 - Y-Combinator [essays](http://www.paulgraham.com/articles.html) by Paul Grahm, and the Y-Combinator [startup library](http://www.ycombinator.com/resources/).
 - How to validate a product without building it [[link](http://blog.sendwithus.com/how-we-validated/)]
 - How Airbnb solved the mystery of predicative pricing [[link](http://www.fastcompany.com/3026550/lessons-learned/how-airbnb-solved-the-mystery-of-predictive-pricing)]
