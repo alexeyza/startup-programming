@@ -6,7 +6,7 @@
 
 #### Startups
 - The Lean Startup by Eric Ries ([Amazon](http://www.amazon.com/The-Lean-Startup-Entrepreneurs-Continuous/dp/0307887898), [YouTube](https://www.youtube.com/watch?v=fEvKo90qBns))
-- Startup Playbook by Sam Altman ([read online](http://playbook.samaltman.com/))
+- Startup Playbook by Sam Altman ([read online](http://playbook.samaltman.com/), also [available in Spanish](https://platzi.com/startup-playbook/))
 - Founders at Work: Stories of Startups' Early Days by Jessica Livingston ([Amazon](http://www.amazon.com/Founders-Work-Stories-Startups-Early/dp/1430210788))
 - Getting Real by 37signals ([PDF](https://basecamp.com/about/books/Getting%20Real.pdf))
 - Zero to One: Notes on Startups, or How to Build the Future by Peter Thiel ([Amazon](https://www.amazon.ca/Zero-One-Notes-Startups-Future/dp/0804139296/ref=sr_1_1?s=books&ie=UTF8&qid=1474320210&sr=1-1&keywords=zero+to+one))
