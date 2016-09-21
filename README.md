@@ -20,7 +20,7 @@ See [course requirements](requirements.md) and [student testimonials](testimonia
 | ---:| ---------- | -------------- |
 | 1 | 09/09/2016 | Introduction (Alexey), How to build a software product, Standing on the shoulders of giants, Demo of past projects (guest: [Carlene Lebeuf](http://clebeuf.github.io/)), Forming teams |
 | 2 | 16/09/2016 | [Startup Slam](http://www.startupslam.io/) invitation ([Noah Warder](https://angel.co/noah-warder)), Web development overview, Cloud computing services (Alexey), Mobile development overview (Greg), UI/UX overview (Peggy) |
-| 3 | 23/09/2016 | [Team work, GitHub](http://github.eclipsesource.com/introduction_to_git/), and APIs (Ian), [Project proposal presentations](presenting your ideas.md) |
+| 3 | 23/09/2016 | [Git, GitHub, and Working Together](http://github.eclipsesource.com/introduction_to_git/) (Ian), [Project proposal presentations](presenting your ideas.md) |
 | 4 | 30/09/2016 | Guest talks (TBA) |
 | 5 | 14/10/2016 | [Milestone 1 presentation](milestone 1 - proof of concept.md) - Proof Of Concept |
 | 6 | 21/10/2016 | Team stand-up meeting, Software Management for people who just want to get stuff done (Cliff), Guest talk (TBA) |

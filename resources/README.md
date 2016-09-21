@@ -27,6 +27,10 @@
 - [Mobile development - advice on how to start](https://docs.google.com/presentation/d/1kROO3-EDVNjYDe02Xf7GPpNwFz1XN5ZwfNmVbje-Zys)
 - [UI/UX part 1 - Design Thinking](design_thinking2016.pdf?raw=true)
 
+### Meeting 3
+
+- [Git, GitHub and Working Together](http://github.eclipsesource.com/introduction_to_git)
+
 # Recommended Reading and Watching
 
 Go to [recommended reading](recommended reading.md) section.
