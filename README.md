@@ -21,7 +21,7 @@ See [course requirements](requirements.md) and [student testimonials](testimonia
 | 1 | 09/09/2016 | Introduction (Alexey), How to build a software product, Standing on the shoulders of giants, Demo of past projects (guest: [Carlene Lebeuf](http://clebeuf.github.io/)), Forming teams |
 | 2 | 16/09/2016 | [Startup Slam](http://www.startupslam.io/) invitation ([Noah Warder](https://angel.co/noah-warder)), Web development overview (Alexey), Mobile development overview (Greg), UI/UX - Design Thinking (Peggy) |
 | 3 | 23/09/2016 | [Git, GitHub, and Working Together](http://github.eclipsesource.com/introduction_to_git/) (Ian), [Project proposal presentations](presenting your ideas.md) |
-| 4 | 30/09/2016 | Guest talks:<br>Jason Trill (Director of Engineering [Flow](https://www.getflow.com/), previously [Metalab](http://metalab.co/))<br>(TBA)<br>(TBA) |
+| 4 | 30/09/2016 | Guest talks:<br>Jason Trill (Director of Engineering at [Flow](https://www.getflow.com/), previously [Metalab](http://metalab.co/))<br>(TBA)<br>(TBA) |
 | 5 | 14/10/2016 | [Milestone 1 presentation](milestone 1 - proof of concept.md) - Proof Of Concept |
 | 6 | 21/10/2016 | Team stand-up meeting, Software Management for people who just want to get stuff done (Cliff), Guest talk (TBA) |
 | 7 | 28/10/2016 | UI/UX - part 2, Guest talks (TBA) |
