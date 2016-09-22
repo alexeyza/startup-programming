@@ -62,4 +62,4 @@ Prepare a 10 minute presentation:
 If you have any questions please do not wait for the milestone meeting, use email: [startup.programming@gmail.com](mailto:startup.programming@gmail.com)
 
 Good luck,  
-Alexey, Peggy, Cliff, Ian and Greg
+Alexey, Peggy, Cliff, Ian, and Greg
