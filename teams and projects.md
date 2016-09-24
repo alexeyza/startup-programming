@@ -1,6 +1,6 @@
 # Teams and Projects
 
-### Team 1  
+### [SignTalker](website)  
 **Members**:
 
 - Amanda Dash [[memet666@gmail.com](mailto:memet666@gmail.com)]
@@ -11,7 +11,7 @@
 
 ---
 
-### Team 2  
+### [Boomerang](website)  
 **Members**:
 
 - Charlotte Fedderly [[charlottefedderly@gmail.com](mailto:charlottefedderly@gmail.com)]
@@ -23,7 +23,7 @@
 
 ---
 
-### Team 3  
+### [SmirkSpace](website)  
 **Members**:
 
 - Dahv Reinhart [[dahvreinhart@gmail.com](mailto:dahvreinhart@gmail.com)]
@@ -35,7 +35,7 @@
 
 ---
 
-### Team 4  
+### [Daytomate](website)  
 **Members**:
 
 - Ryan Samarajeewa [[ryan.samarajeewa@gmail.com](mailto:ryan.samarajeewa@gmail.com)]
@@ -47,7 +47,7 @@
 
 ---
 
-### Team 5  
+### [ClubHub](website)  
 **Members**:
 
 - Kelsey Legault [[kelsey.legault@gmail.com](mailto:kelsey.legault@gmail.com)]
