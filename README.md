@@ -24,7 +24,7 @@ See [course requirements](requirements.md) and [student testimonials](testimonia
 | 4 | 30/09/2016 | Guest talks:<br>[Jason Trill](http://jjt.io/) (Director of Engineering at [Flow](https://www.getflow.com/), previously was at [Metalab](http://metalab.co/)),<br>[Will Fraser](https://twitter.com/getfraser) (CEO and Co-Founder of [Referral SaaSquatch](https://www.referralsaasquatch.com)) |
 | 5 | 14/10/2016 | [Milestone 1 presentation](milestone 1 - proof of concept.md) - Proof Of Concept |
 | 6 | 21/10/2016 | Software Management for people who just want to get stuff done ([Cliff](https://ca.linkedin.com/in/cliffmccollum)),<br>Guest talks:<br>[Jim Olson](http://islandsofno.ca/about.html) (product design at [Benevity](http://www.benevity.com/)) and [Jon Wiggens](https://twitter.com/jonwiggens) (UI Designer at [Benevity](http://www.benevity.com/), previously at EA),<br> (TBA) |
-| 7 | 28/10/2016 | UI/UX - part 2, Guest talks (TBA) |
+| 7 | 28/10/2016 | UI/UX - part 2 (Peggy),<br>Guest talks:<br>(TBA) |
 | 8 | 04/11/2016 | [Milestone 2 presentation](milestone 2 - release candidate.md) - Public live BETA |
 | 9 | 02/12/2016 | [Milestone 3 presentation](milestone 3 - public beta.md) - Release Candidate<br>*(note: time and location of this meeting may change)* |
 | | 19/12/2016 | [Final submission](final submission.md) (by email, no meeting)
