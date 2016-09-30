@@ -10,7 +10,8 @@
 - Maria Ferman [[tania_ferman@hotmail.com](mailto:tania_ferman@hotmail.com)]
 
 **Slides**:
-[Idea proposal slides](https://speakerdeck.com/startupprogramming/signtalker-idea-proposal)
+
+- Idea proposal [slides](https://speakerdeck.com/startupprogramming/signtalker-idea-proposal)
 
 ---
 
@@ -25,7 +26,8 @@
 - Brady Schnell [[bradyschnell@gmail.com](mailto:bradyschnell@gmail.com)]
 
 **Slides**:
-[Idea proposal slides](https://speakerdeck.com/startupprogramming/boomerang-idea-proposal)
+
+- Idea proposal [slides](https://speakerdeck.com/startupprogramming/boomerang-idea-proposal)
 
 ---
 
@@ -40,7 +42,8 @@
 - Bridget Rassell [[bridget.rassell@gmail.com](mailto:bridget.rassell@gmail.com)]
 
 **Slides**:
-[Idea proposal slides](https://speakerdeck.com/startupprogramming/smirkspace-idea-proposal)
+
+- Idea proposal [slides](https://speakerdeck.com/startupprogramming/smirkspace-idea-proposal)
 
 ---
 
@@ -55,7 +58,7 @@
 - Alix Voorthuyzen [[alix4000@shaw.ca](mailto:alix4000@shaw.ca)]
 
 **Slides**:
-[Idea proposal slides](https://speakerdeck.com/startupprogramming/daytomate-idea-proposal)
+- Idea proposal [slides](https://speakerdeck.com/startupprogramming/daytomate-idea-proposal)
 
 ---
 
@@ -70,7 +73,8 @@
 - Ben Hawker [[bhawker@uvic.ca](mailto:bhawker@uvic.ca)]
 
 **Slides**:
-[Idea proposal slides](https://speakerdeck.com/startupprogramming/clubhub-idea-proposal)
+
+- Idea proposal [slides](https://speakerdeck.com/startupprogramming/clubhub-idea-proposal)
 
 ---
 
