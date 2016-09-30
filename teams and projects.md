@@ -9,7 +9,7 @@
 - Tristan Partridge [[tristanp2@hotmail.com](mailto:tristanp2@hotmail.com)]
 - Maria Ferman [[tania_ferman@hotmail.com](mailto:tania_ferman@hotmail.com)]
 
-**Slides**:
+**Presentations**:
 
 - Idea proposal [slides](https://speakerdeck.com/startupprogramming/signtalker-idea-proposal)
 
@@ -25,7 +25,7 @@
 - Tyler Potter [[tylerjamespotter@gmail.com](mailto:tylerjamespotter@gmail.com)]
 - Brady Schnell [[bradyschnell@gmail.com](mailto:bradyschnell@gmail.com)]
 
-**Slides**:
+**Presentations**:
 
 - Idea proposal [slides](https://speakerdeck.com/startupprogramming/boomerang-idea-proposal)
 
@@ -41,7 +41,7 @@
 - Tim Baker [[tbakerx@gmail.com](mailto:tbakerx@gmail.com)]
 - Bridget Rassell [[bridget.rassell@gmail.com](mailto:bridget.rassell@gmail.com)]
 
-**Slides**:
+**Presentations**:
 
 - Idea proposal [slides](https://speakerdeck.com/startupprogramming/smirkspace-idea-proposal)
 
@@ -57,7 +57,7 @@
 - Zane Li [[zanelib1@gmail.com](mailto:zanelib1@gmail.com)]
 - Alix Voorthuyzen [[alix4000@shaw.ca](mailto:alix4000@shaw.ca)]
 
-**Slides**:
+**Presentations**:
 - Idea proposal [slides](https://speakerdeck.com/startupprogramming/daytomate-idea-proposal)
 
 ---
@@ -72,7 +72,7 @@
 - Josh Pearson [[joshdpearson@gmail.com](mailto:joshdpearson@gmail.com)]
 - Ben Hawker [[bhawker@uvic.ca](mailto:bhawker@uvic.ca)]
 
-**Slides**:
+**Presentations**:
 
 - Idea proposal [slides](https://speakerdeck.com/startupprogramming/clubhub-idea-proposal)
 
