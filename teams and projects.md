@@ -47,7 +47,10 @@
 
 ---
 
-### [Daytomate](https://github.com/fridayideas/daytomato) by [FridayIdeas](https://github.com/fridayideas)  
+### [Daytomate](https://github.com/fridayideas)  
+![Logo](https://avatars2.githubusercontent.com/u/22110075)
+**Website:** [https://fridayideas.github.io/](https://fridayideas.github.io/)  
+**Description:** DayTomato is a mobile application designed for locals. DayTomato provides the opportunity for locals to share their opinion on businesses, activities, restaurants, anything! Automate your day with the trip builder, provided to you by locals.  
 **Members**:
 
 - Ryan Samarajeewa [[ryan.samarajeewa@gmail.com](mailto:ryan.samarajeewa@gmail.com)]
