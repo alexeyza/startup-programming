@@ -47,7 +47,7 @@
 
 ---
 
-### [Daytomate](website)  
+### [Daytomate](https://github.com/fridayideas/daytomato) by [FridayIdeas](https://github.com/fridayideas)  
 **Members**:
 
 - Ryan Samarajeewa [[ryan.samarajeewa@gmail.com](mailto:ryan.samarajeewa@gmail.com)]
