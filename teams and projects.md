@@ -65,7 +65,8 @@
 
 ---
 
-### [ClubHub](website)  
+### ClubHub ([view on GitHub](https://github.com/Wubbadub/ClubHub/))  
+**Description:** Platform allowing university clubs to create a club page and students to easily find info about any club.  
 **Members**:
 
 - Kelsey Legault [[kelsey.legault@gmail.com](mailto:kelsey.legault@gmail.com)]
