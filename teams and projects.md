@@ -1,6 +1,8 @@
 # Teams and Projects
 
-### [SignTalker](website)  
+### SignTalker ([view on GitHub]())  
+**Website:**  
+**Description:**  
 **Members**:
 
 - Amanda Dash [[memet666@gmail.com](mailto:memet666@gmail.com)]
@@ -15,7 +17,9 @@
 
 ---
 
-### [Boomerang](website)  
+### Boomerang ([view on GitHub]())  
+**Website:**  
+**Description:**  
 **Members**:
 
 - Charlotte Fedderly [[charlottefedderly@gmail.com](mailto:charlottefedderly@gmail.com)]
@@ -31,7 +35,9 @@
 
 ---
 
-### [SmirkSpace](website)  
+### SmirkSpace ([view on GitHub]())  
+**Website:**  
+**Description:**  
 **Members**:
 
 - Dahv Reinhart [[dahvreinhart@gmail.com](mailto:dahvreinhart@gmail.com)]
@@ -48,7 +54,7 @@
 ---
 
 ### Daytomate ([view on GitHub](https://github.com/fridayideas))  
-![Logo](https://avatars2.githubusercontent.com/u/22110075?v=3&s=200)  
+![Logo](https://avatars2.githubusercontent.com/u/22110075?v=3&s=100)  
 **Website:** [https://fridayideas.github.io/](https://fridayideas.github.io/)  
 **Description:** DayTomato is a mobile application designed for locals. DayTomato provides the opportunity for locals to share their opinion on businesses, activities, restaurants, anything! Automate your day with the trip builder, provided to you by locals.  
 **Members**:
