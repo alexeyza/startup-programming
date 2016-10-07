@@ -72,6 +72,7 @@
 ---
 
 ### ClubHub ([view on GitHub](https://github.com/Wubbadub/ClubHub/))  
+**Website:**  
 **Description:** Platform allowing university clubs to create a club page and students to easily find info about any club.  
 **Members**:
 
