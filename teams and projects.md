@@ -1,6 +1,6 @@
 # Teams and Projects
 
-### SignTalker ([view on GitHub](https://github.com/TaniaFerman/StartUp-Programming))  
+### SignTalker ([view on GitHub](https://github.com/TaniaFerman/SignTalker))  
 ![Logo](https://github.com/TaniaFerman/StartUp-Programming/blob/master/images/signtalkerlogo.png?raw=true)  
 **Website:**  
 **Description:** A mobile app that allows those in the deaf community to have a more dynamic communications with non-deaf people.  
