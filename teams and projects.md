@@ -2,8 +2,8 @@
 
 ### SignTalker ([view on GitHub](https://github.com/TaniaFerman/StartUp-Programming))  
 ![Logo](https://github.com/TaniaFerman/StartUp-Programming/blob/master/images/signtalkerlogo.png?raw=true)  
-**Website:** Under construction  
-**Description:** We are proposing a mobile app that will act as a tool to enable those in the deaf community to have a more dynamic communications with non-deaf people.  
+**Website:**  
+**Description:** A mobile app that allows those in the deaf community to have a more dynamic communications with non-deaf people.  
 **Members**:
 
 - Amanda Dash [[memet666@gmail.com](mailto:memet666@gmail.com)]
