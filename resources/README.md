@@ -63,6 +63,7 @@ Go to [recommended reading](recommended reading.md) section.
 - [WebStorm](https://www.jetbrains.com/webstorm/) - A good web development IDE (free for students).
  
 #### JavaScript
+- [Yarn](https://yarnpkg.com/) - A JavaScript package manager
 - [Douglas Crockford's Javascript](http://javascript.crockford.com/) - Useful links for JavaScript. Watch the video courses (in the bottom of the page).
 - [jQuery](http://jquery.com/) - If you plan to use JavaScript in your application, you should consider using JQuery library.
 - [jQuery plugins](http://webdesignledger.com/resources/best-jquery-plugins-of-2011) - A few nice plugins for jQuery.
