@@ -16,7 +16,7 @@
 
 #### UI/UX
 - Lean UX: Applying Lean Principles to Improve User Experience by Jeff Gothelf ([Amazon](https://www.amazon.com/Lean-UX-Applying-Principles-Experience/dp/1449311652))
-- Validating Product Ideas: Through Lean User Research by Tomer Sharon ([Amazon](https://www.amazon.com/Validating-Product-Ideas-Through-Research/dp/1933820292))
+- Validating Product Ideas: Through Lean User Research by Tomer Sharon ([Amazon](https://www.amazon.com/Validating-Product-Ideas-Through-Research/dp/1933820292)) + [accompanying resources](http://www.leanresearch.co/book/) (includes many links to articles, books, slides, and videos)
 - Hooked: How to Build Habit-Forming Products by Nir Eyal ([Amazon](https://www.amazon.com/Hooked-How-Build-Habit-Forming-Products/dp/1591847788/ref=sr_1_1?s=books&ie=UTF8&qid=1474320367&sr=1-1&keywords=hooked))
 - Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability by Steve Krug ([Amazon](http://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515/ref=dp_ob_title_bk))
 - UX for Lean Startups by Laura Klein ([Amazon](http://www.amazon.com/UX-Lean-Startups-Experience-Research/dp/1449334911))
