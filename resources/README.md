@@ -31,6 +31,10 @@
 
 - [Git, GitHub and Working Together](http://github.eclipsesource.com/introduction_to_git)
 
+### Meeting 4
+
+- [So you want to build a thing](http://so-you-want-to-build-a-thing.surge.sh) by [Jason Trill](http://jjt.io/)
+
 # Recommended Reading and Watching
 
 Go to [recommended reading](recommended reading.md) section.
