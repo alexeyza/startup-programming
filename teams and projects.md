@@ -36,7 +36,8 @@
 
 ---
 
-### SmirkSpace ([view on GitHub]())  
+### SmirkSpace ([view on GitHub](https://github.com/smirkspace/smirkspace))  
+![Logo](https://raw.githubusercontent.com/smirkspace/smirkspace/master/public/images/Logo1.png)  
 **Website:**  
 **Description:**  
 **Members**:
