@@ -1,7 +1,8 @@
 # Teams and Projects
 
-### SignTalker
+### SignTalker ([view on GitHub](https://github.com/TaniaFerman/SignTalker))  
 ![Logo](https://github.com/TaniaFerman/StartUp-Programming/blob/master/images/signtalkerlogo.png?raw=true)  
+
 ([view on GitHub](https://github.com/TaniaFerman/StartUp-Programming)) 
 
 **Website:** [[http://104.236.214.96:8080/signtalker/](http://104.236.214.96:8080/signtalker/)]  
@@ -38,7 +39,8 @@
 
 ---
 
-### SmirkSpace ([view on GitHub]())  
+### SmirkSpace ([view on GitHub](https://github.com/smirkspace/smirkspace))  
+![Logo](https://raw.githubusercontent.com/smirkspace/smirkspace/master/public/images/Logo1.png)  
 **Website:**  
 **Description:**  
 **Members**:
