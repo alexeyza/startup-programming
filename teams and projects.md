@@ -2,7 +2,7 @@
 
 ### SignTalker ([view on GitHub](https://github.com/TaniaFerman/SignTalker))  
 ![Logo](https://github.com/TaniaFerman/StartUp-Programming/blob/master/images/signtalkerlogo.png?raw=true)  
-**Website:** [http://104.236.214.96:8080/signtalker/](http://104.236.214.96:8080/signtalker/)
+**Website:** [http://104.236.214.96:8080/signtalker/](http://104.236.214.96:8080/signtalker/)  
 **Description:** A mobile app that allows those in the deaf community to have a more dynamic communications with non-deaf people.  
 **Members**:
 
