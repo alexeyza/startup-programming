@@ -2,11 +2,8 @@
 
 ### SignTalker ([view on GitHub](https://github.com/TaniaFerman/SignTalker))  
 ![Logo](https://github.com/TaniaFerman/StartUp-Programming/blob/master/images/signtalkerlogo.png?raw=true)  
-
-([view on GitHub](https://github.com/TaniaFerman/StartUp-Programming)) 
-
-**Website:** [[http://104.236.214.96:8080/signtalker/](http://104.236.214.96:8080/signtalker/)]  
-**Description:** We are proposing a mobile app that will act as a tool to enable those in the deaf community to have a more dynamic communications with non-deaf people.
+**Website:** [http://104.236.214.96:8080/signtalker/](http://104.236.214.96:8080/signtalker/)
+**Description:** A mobile app that allows those in the deaf community to have a more dynamic communications with non-deaf people.  
 **Members**:
 
 - Amanda Dash [[memet666@gmail.com](mailto:memet666@gmail.com)]
@@ -18,6 +15,7 @@
 **Presentations**:
 
 - Idea proposal [slides](https://speakerdeck.com/startupprogramming/signtalker-idea-proposal)
+- Milestone 1 [slides](https://speakerdeck.com/startupprogramming/signtalker-milestone-1)
 
 ---
 
@@ -36,6 +34,7 @@
 **Presentations**:
 
 - Idea proposal [slides](https://speakerdeck.com/startupprogramming/boomerang-idea-proposal)
+- Milestone 1 [slides]()
 
 ---
 
@@ -55,10 +54,11 @@
 **Presentations**:
 
 - Idea proposal [slides](https://speakerdeck.com/startupprogramming/smirkspace-idea-proposal)
+- Milestone 1 [slides](https://speakerdeck.com/startupprogramming/smirkspace-milestone-1)
 
 ---
 
-### Daytomate ([view on GitHub](https://github.com/fridayideas))  
+### DayTomato ([view on GitHub](https://github.com/fridayideas))  
 ![Logo](https://avatars2.githubusercontent.com/u/22110075?v=3&s=100)  
 **Website:** [https://fridayideas.github.io/](https://fridayideas.github.io/)  
 **Description:** DayTomato is a mobile application designed for locals. DayTomato provides the opportunity for locals to share their opinion on businesses, activities, restaurants, anything! Automate your day with the trip builder, provided to you by locals.  
@@ -73,6 +73,7 @@
 
 **Presentations**:
 - Idea proposal [slides](https://speakerdeck.com/startupprogramming/daytomate-idea-proposal)
+- Milestone 1 [slides](https://speakerdeck.com/startupprogramming/daytomato-milestone-1)
 
 ---
 
@@ -91,6 +92,7 @@
 **Presentations**:
 
 - Idea proposal [slides](https://speakerdeck.com/startupprogramming/clubhub-idea-proposal)
+- Milestone 1 [slides](https://speakerdeck.com/startupprogramming/clubhub-milestone-1)
 
 ---
 
