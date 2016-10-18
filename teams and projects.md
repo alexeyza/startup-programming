@@ -40,7 +40,6 @@
 
 ### SmirkSpace ([view on GitHub](https://github.com/smirkspace/smirkspace))  
 ![Logo](https://raw.githubusercontent.com/smirkspace/smirkspace/master/public/images/Logo1.png)  
-**Website:**  
 **Description:** Smirkspace is an app that provides a place for people with similar interests to connect. Targeting niche groups in the community; people whose interests are rare enough that they won’t necessarily find congenial company without intentionally seeking it out.  
 **Members**:
 
@@ -78,8 +77,7 @@
 ---
 
 ### ClubHub ([view on GitHub](https://github.com/Wubbadub/ClubHub/))  
-**Website:**  
-**Description:** Platform allowing university clubs to create a club page and students to easily find info about any club.  
+**Description:** ClubHub streamlines the setup and maintenance of engaging club websites. A platform that allows university clubs to create a club page and students to easily find info about any club.  
 **Members**:
 
 - Kelsey Legault [[kelsey.legault@gmail.com](mailto:kelsey.legault@gmail.com)]
