@@ -21,7 +21,6 @@
 
 ### Bumerang ([view on GitHub](https://github.com/CFedderly/bumerang-client))  
 <img src="https://github.com/CFedderly/bumerang-client/blob/master/Bumerang/app/src/main/ic_launcher-web.png?raw=true" alt="logo" width="100" height="100">  
-**Website:**  
 **Description:**  A mobile app for connecting people that help each other by lending items in need --- Someone got you covered!  
 **Members**:
 
@@ -42,7 +41,7 @@
 ### SmirkSpace ([view on GitHub](https://github.com/smirkspace/smirkspace))  
 ![Logo](https://raw.githubusercontent.com/smirkspace/smirkspace/master/public/images/Logo1.png)  
 **Website:**  
-**Description:**  
+**Description:** Smirkspace is an app that provides a place for people with similar interests to connect. Targeting niche groups in the community; people whose interests are rare enough that they won’t necessarily find congenial company without intentionally seeking it out.  
 **Members**:
 
 - Dahv Reinhart [[dahvreinhart@gmail.com](mailto:dahvreinhart@gmail.com)]
