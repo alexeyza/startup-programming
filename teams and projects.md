@@ -35,7 +35,7 @@
 **Presentations**:
 
 - Idea proposal [slides](https://speakerdeck.com/startupprogramming/boomerang-idea-proposal)
-- Milestone 1 [slides]()
+- Milestone 1 [slides](https://speakerdeck.com/startupprogramming/bumerang-milestone-1)
 
 ---
 
