@@ -19,9 +19,10 @@
 
 ---
 
-### Boomerang ([view on GitHub]())  
+### Bumerang ([view on GitHub](https://github.com/CFedderly/bumerang-client))  
+<img src="https://github.com/CFedderly/bumerang-client/blob/master/Bumerang/app/src/main/ic_launcher-web.png?raw=true" alt="logo" width="100" height="100">  
 **Website:**  
-**Description:**  
+**Description:**  A mobile app for connecting people that help each other by lending items in need --- Someone got you covered!  
 **Members**:
 
 - Charlotte Fedderly [[charlottefedderly@gmail.com](mailto:charlottefedderly@gmail.com)]
