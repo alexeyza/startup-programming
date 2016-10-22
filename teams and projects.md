@@ -85,7 +85,7 @@
 - Andrew Stocks [[agstocks@uvic.ca](mailto:agstocks@uvic.ca)]
 - Juan Carlos Gallegos [[jcgallegdup@gmail.com](mailto:jcgallegdup@gmail.com)]
 - Josh Pearson [[joshdpearson@gmail.com](mailto:joshdpearson@gmail.com)]
-- Ben Hawker [[bhawker@uvic.ca](mailto:bhawker@uvic.ca)]
+- Brynn Hawker [[bhawker@uvic.ca](mailto:bhawker@uvic.ca)]
 
 **Presentations**:
 
