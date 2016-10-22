@@ -35,6 +35,12 @@
 
 - [So you want to build a thing](http://so-you-want-to-build-a-thing.surge.sh) by [Jason Trill](http://jjt.io/)
 
+### Meeting 6
+
+- [Software Management for people who just want to get stuff done](http://www.slideshare.net/cliffmcc/software-managementfor-people-who-just-want-to-get-stuff-done) by [Cliff](https://ca.linkedin.com/in/cliffmccollum)
+- Guest talk by [Jim Olson](http://islandsofno.ca/about.html) (product design at [Benevity](http://www.benevity.com/)) and [Jon Wiggens](https://twitter.com/jonwiggens) (UI Designer at [Benevity](http://www.benevity.com/), previously at EA)
+- [Dev Ops - 12 factor apps](devops_12_factor_apps.pdf?raw=true) by [Cliff](https://ca.linkedin.com/in/cliffmccollum) 
+
 # Recommended Reading and Watching
 
 Go to [recommended reading](recommended reading.md) section.
