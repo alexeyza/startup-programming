@@ -77,6 +77,7 @@
 ---
 
 ### ClubHub ([view on GitHub](https://github.com/Wubbadub/ClubHub/))  
+![Logo](https://rawgit.com/Wubbadub/ClubHub/develop/assets/clubhub.svg)  
 **Description:** ClubHub streamlines the setup and maintenance of engaging club websites. A platform that allows university clubs to create a club page and students to easily find info about any club.  
 **Members**:
 
