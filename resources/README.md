@@ -38,7 +38,7 @@
 ### Meeting 6
 
 - [Software Management for people who just want to get stuff done](http://www.slideshare.net/cliffmcc/software-managementfor-people-who-just-want-to-get-stuff-done) by [Cliff](https://ca.linkedin.com/in/cliffmccollum)
-- [Slides of the guest talk](benevity_guest_talk.pdf) by [Jim Olson](http://islandsofno.ca/about.html) (product design at [Benevity](http://www.benevity.com/)) and [Jon Wiggens](https://twitter.com/jonwiggens) (UI Designer at [Benevity](http://www.benevity.com/), previously at EA)
+- [Slides of the Benevity guest talk](benevity_guest_talk.pdf?raw=true) by [Jim Olson](http://islandsofno.ca/about.html) (product design at [Benevity](http://www.benevity.com/)) and [Jon Wiggens](https://twitter.com/jonwiggens) (UI Designer at [Benevity](http://www.benevity.com/), previously at EA)
 - [Dev Ops - 12 factor apps](devops_12_factor_apps.pdf?raw=true) by [Cliff](https://ca.linkedin.com/in/cliffmccollum) 
 
 # Recommended Reading and Watching
