@@ -3,7 +3,7 @@
 ### SignTalker ([view on GitHub](https://github.com/TaniaFerman/SignTalker))  
 ![Logo](https://github.com/TaniaFerman/StartUp-Programming/blob/master/images/signtalkerlogo.png?raw=true)  
 **Website:** [http://104.236.214.96:8080/signtalker/](http://104.236.214.96:8080/signtalker/)  
-**Description:** A mobile app that allows those in the deaf community to have a more dynamic communications with non-deaf people.  
+**Description:** American sign language (ASL) learning and communication app for mobile.  
 **Members**:
 
 - Amanda Dash [[memet666@gmail.com](mailto:memet666@gmail.com)]
@@ -21,7 +21,7 @@
 
 ### Bumerang ([view on GitHub](https://github.com/CFedderly/bumerang-client))  
 <img src="https://github.com/CFedderly/bumerang-client/blob/master/Bumerang/app/src/main/ic_launcher-web.png?raw=true" alt="logo" width="100" height="100">  
-**Description:**  A mobile app for connecting people that help each other by lending items in need --- Someone got you covered!  
+**Description:**  A mobile app for connecting people that help each other by lending items in need --- someone got you covered!  
 **Members**:
 
 - Charlotte Fedderly [[charlottefedderly@gmail.com](mailto:charlottefedderly@gmail.com)]
