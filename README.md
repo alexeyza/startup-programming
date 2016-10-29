@@ -25,8 +25,8 @@ See [course requirements](requirements.md) and [student testimonials](testimonia
 | 5 | 14/10/2016 | [Milestone 1 presentation](milestone 1 - proof of concept.md) - Proof Of Concept |
 | 6 | 21/10/2016 | &nbsp;·&nbsp;[Software Management for people who just want to get stuff done](http://www.slideshare.net/cliffmcc/software-managementfor-people-who-just-want-to-get-stuff-done) ([Cliff](https://ca.linkedin.com/in/cliffmccollum)),<br>&nbsp;·&nbsp;[Benevity guest talk](resources/benevity_guest_talk.pdf?raw=true) by [Jim Olson](http://islandsofno.ca/about.html) (product design at [Benevity](http://www.benevity.com/)) and [Jon Wiggens](https://twitter.com/jonwiggens) (UI Designer at [Benevity](http://www.benevity.com/), previously at EA),<br>&nbsp;·&nbsp;[Dev Ops - 12 factor apps](resources/devops_12_factor_apps.pdf?raw=true) ([Cliff](https://ca.linkedin.com/in/cliffmccollum)) |
 | 7 | 28/10/2016 | &nbsp;·&nbsp;Testing for web developers by [Clarke Brunsdon](https://twitter.com/cbrunsdon) (CEO and Co-founder of [Stembolt](https://stembolt.com))<br>&nbsp;·&nbsp;Startup accelerators Q&A by [Brad Van Vugt](https://twitter.com/bvanvugt) (Co-founder of [SendWithUs](https://www.sendwithus.com/) and [YC alum](https://www.ycombinator.com/)) and [Leif Baradoy](http://www.leifb.com/) (CEO and Co-founder of [Giftbit](https://www.giftbit.com/) and [Techstars Alum](http://www.techstars.com/))<br>&nbsp;·&nbsp;[UI/UX - thinking about the user](resources/ui_ux_thinking_about_the_user.pdf?raw=true) ([Peggy](https://margaretannestorey.wordpress.com/)) |
-| 8 | 04/11/2016 | [Milestone 2 presentation](milestone 2 - release candidate.md) - Public live BETA |
-| 9 | 02/12/2016 | [Milestone 3 presentation](milestone 3 - public beta.md) - Release Candidate<br>*(note: time and location of this meeting may change)* |
+| 8 | 04/11/2016 | [Milestone 2 presentation](milestone 2 - release candidate.md) - Release Candidate |
+| 9 | 02/12/2016 | [Milestone 3 presentation](milestone 3 - public beta.md) - Public live BETA<br>*(note: time and location of this meeting may change)* |
 | | 19/12/2016 | [Final submission](final submission.md) (by email, no meeting)
 
 ---
