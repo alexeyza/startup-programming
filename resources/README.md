@@ -43,7 +43,7 @@
 
 ### Meeting 7
 
-- [UI/UX - thinking about the user](ui_ux_thinking_about_the_user.pdf?raw=true)
+- [UI/UX - thinking about the user](ui_ux_thinking_about_the_user.pdf?raw=true) by Peggy
 
 # Recommended Reading and Watching
 
