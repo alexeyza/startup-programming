@@ -1,7 +1,7 @@
 # Teams and Projects
 
-### SignTalker ([view on GitHub](https://github.com/TaniaFerman/SignTalker))  
-![Logo](https://github.com/TaniaFerman/StartUp-Programming/blob/master/images/signtalkerlogo.png?raw=true)  
+### SignCoach ([view on GitHub](https://github.com/TaniaFerman/SignTalker))  
+![Logo](https://raw.githubusercontent.com/TaniaFerman/SignTalker/master/images/SignCoachLogo.png)  
 **Website:** [http://104.236.214.96:8080/signtalker/](http://104.236.214.96:8080/signtalker/)  
 **Description:** American sign language (ASL) learning and communication app for mobile.  
 **Members**:
