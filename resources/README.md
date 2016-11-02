@@ -43,6 +43,7 @@
 
 ### Meeting 7
 
+- [Testing for web developers](testing-clarke.pdf?raw=true) by [Clarke Brunsdon](https://twitter.com/cbrunsdon)
 - [UI/UX - thinking about the user](ui_ux_thinking_about_the_user.pdf?raw=true) by Peggy
 
 # Recommended Reading and Watching
