@@ -19,6 +19,8 @@ Please include in your presentation:
 - Project challenges, including your own experience and reflections
 - Your insights of pilot testing your product with real users (please send us by email the pilot summary beforehand).
 
+>_“If you are not embarrassed by the first version of your product, you’ve launched too late.”_ - Reid Hoffman, LinkedIn co-founder
+
 Some general advice:
 
 - Prepare an appealing demo!
