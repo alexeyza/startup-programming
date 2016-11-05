@@ -6,9 +6,7 @@ In this meeting, you'll have the opportunity to present the beta version of your
 
 We remind you that for this third milestone you are required to provide a fully functioning project, that will be evaluated by the mentoring staff. You will get valuable feedback regarding the expected final project configuration and scope.
 
-<br>
 >_“Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do.”_ - Steve Jobs
-<br>
 
 This is not BETA in the sense of "only a proof of concept" but rather in the sense of "you could still fix minor bugs or add minor missing features emerged at the last minute". **By the third milestone you should have completed your product** (except for some minor bugs which you may fix until the [Final Submission](final submission.md)). Please provide a full demonstration (**15 minutes**) of using your product in various scenarios on the *live* project. The demonstration should encompass your top features, and highlight your product complexity and challenges (architectural/algorithmic/technological/design/usability/etc). You should also talk about your development process (for an additional **5 minutes**).  Tell us: What was easy? what was difficult? why? what did you learn during the course? what feedback did you receive from users about your app?
 
@@ -21,9 +19,7 @@ Please include in your presentation:
 - Project challenges, including your own experience and reflections
 - Your insights of pilot testing your product with real users (please send us by email the pilot summary beforehand).
 
-<br>
 >_“If you are not embarrassed by the first version of your product, you’ve launched too late.”_ - Reid Hoffman, LinkedIn co-founder
-<br>
 
 Some general advice:
 
@@ -36,9 +32,7 @@ Some general advice:
 
 For mobile applications you are required to provide a link to a page which includes images/videos which show how to install and use your application. In addition it should have a requirements section (i.e. if your app requires android 6.0). This page should be simple and clear.
 
-<br>
 >_“So often people are working hard at the wrong thing. Working on the right thing is probably more important than working hard.”_ - Caterina Fake, Flickr co-founder
-<br>
 
 **Important note:** Full grading for the milestone (25 points) will be given for teams that successfully:
 
