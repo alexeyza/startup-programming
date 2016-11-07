@@ -16,6 +16,7 @@
 
 - Idea proposal [slides](https://speakerdeck.com/startupprogramming/signtalker-idea-proposal)
 - Milestone 1 [slides](https://speakerdeck.com/startupprogramming/signtalker-milestone-1)
+- Milestone 2 [slides](https://speakerdeck.com/startupprogramming/signcoach-formerly-signtalker-milestone-2)
 
 ---
 
