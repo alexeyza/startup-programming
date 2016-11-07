@@ -40,6 +40,7 @@
 
 ### SmirkSpace ([view on GitHub](https://github.com/smirkspace/smirkspace))  
 ![Logo](https://raw.githubusercontent.com/smirkspace/smirkspace/master/public/images/Logo1.png)  
+**Website:** [http://www.smirkspace.com/](http://www.smirkspace.com/)  
 **Description:** Smirkspace is an app that provides a place for people with similar interests to connect. Targeting niche groups in the community; people whose interests are rare enough that they won’t necessarily find congenial company without intentionally seeking it out.  
 **Members**:
 
@@ -54,6 +55,7 @@
 
 - Idea proposal [slides](https://speakerdeck.com/startupprogramming/smirkspace-idea-proposal)
 - Milestone 1 [slides](https://speakerdeck.com/startupprogramming/smirkspace-milestone-1)
+- Milestone 2 [slides](https://speakerdeck.com/startupprogramming/smirkspace-milestone-2)
 
 ---
 
