@@ -76,6 +76,7 @@
 **Presentations**:
 - Idea proposal [slides](https://speakerdeck.com/startupprogramming/daytomate-idea-proposal)
 - Milestone 1 [slides](https://speakerdeck.com/startupprogramming/daytomato-milestone-1) and [demo](https://www.youtube.com/watch?v=hr2p28WS2qM)
+- Milestone 2 [slides](https://speakerdeck.com/startupprogramming/daytomato-milestone-2)
 
 ---
 
