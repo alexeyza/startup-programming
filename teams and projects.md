@@ -2,7 +2,7 @@
 
 ### SignCoach ([view on GitHub](https://github.com/TaniaFerman/SignTalker))  
 ![Logo](https://raw.githubusercontent.com/TaniaFerman/SignTalker/master/images/SignCoachLogo.png)  
-**Website:** [http://104.236.214.96:8080/signtalker/](http://104.236.214.96:8080/signtalker/)  
+**Website:** [http://signcoach.me/](http://signcoach.me/)  
 **Description:** American sign language (ASL) learning and communication app for mobile.  
 **Members**:
 
