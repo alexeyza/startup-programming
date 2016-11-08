@@ -22,6 +22,7 @@
 
 ### Bumerang ([view on GitHub](https://github.com/CFedderly/bumerang-client))  
 <img src="https://github.com/CFedderly/bumerang-client/blob/master/Bumerang/app/src/main/ic_launcher-web.png?raw=true" alt="logo" width="100" height="100">  
+**Website:** [http://bumerangapp.paperplane.io/](http://bumerangapp.paperplane.io/)  
 **Description:**  A mobile app for connecting people that help each other by lending items in need --- someone got you covered!  
 **Members**:
 
@@ -36,6 +37,7 @@
 
 - Idea proposal [slides](https://speakerdeck.com/startupprogramming/boomerang-idea-proposal)
 - Milestone 1 [slides](https://speakerdeck.com/startupprogramming/bumerang-milestone-1)
+- Milestone 2 [slides](https://speakerdeck.com/startupprogramming/bumerang-milestone-2)
 
 ---
 
