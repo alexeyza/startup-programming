@@ -109,6 +109,12 @@ Go to [recommended reading](recommended reading.md) section.
 - [What's in a Story](http://dannorth.net/whats-in-a-story/) - Simple way to describe user stories / requirements for your product (behavior-driven development).
 - [Cucumber](http://cukes.info/) - (Ruby) tool to support Behaviour-Driven Development.
 
+### User Onboarding
+- Onboarding [design examples](http://www.useronboard.com/onboarding-teardowns/) from various known products.
+
+### Metrics
+- An [introduction to metrics](https://leanstack.com/3-rules-to-actionable-metrics/)
+- Some good examples for metrics in these [slides](http://www.slideshare.net/stueccles/lean-startup-metrics), based on the goal/phase of your product
 
 ### Mobile
 
