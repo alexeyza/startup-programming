@@ -17,6 +17,7 @@
 - Idea proposal [slides](https://speakerdeck.com/startupprogramming/signtalker-idea-proposal)
 - Milestone 1 [slides](https://speakerdeck.com/startupprogramming/signtalker-milestone-1)
 - Milestone 2 [slides](https://speakerdeck.com/startupprogramming/signcoach-formerly-signtalker-milestone-2)
+- Milestone 3 [slides](https://speakerdeck.com/startupprogramming/signcoach-milestone-3)
 
 ---
 
@@ -59,6 +60,7 @@
 - Idea proposal [slides](https://speakerdeck.com/startupprogramming/smirkspace-idea-proposal)
 - Milestone 1 [slides](https://speakerdeck.com/startupprogramming/smirkspace-milestone-1)
 - Milestone 2 [slides](https://speakerdeck.com/startupprogramming/smirkspace-milestone-2)
+- Milestone 3 [slides](https://speakerdeck.com/startupprogramming/smirkspace-milestone-3)
 
 ---
 
@@ -79,6 +81,7 @@
 - Idea proposal [slides](https://speakerdeck.com/startupprogramming/daytomate-idea-proposal)
 - Milestone 1 [slides](https://speakerdeck.com/startupprogramming/daytomato-milestone-1) and [demo](https://www.youtube.com/watch?v=hr2p28WS2qM)
 - Milestone 2 [slides](https://speakerdeck.com/startupprogramming/daytomato-milestone-2)
+- Milestone 3 [slides](https://speakerdeck.com/startupprogramming/daytomato-milestone-3)
 
 ---
 
