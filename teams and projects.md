@@ -39,6 +39,7 @@
 - Idea proposal [slides](https://speakerdeck.com/startupprogramming/boomerang-idea-proposal)
 - Milestone 1 [slides](https://speakerdeck.com/startupprogramming/bumerang-milestone-1)
 - Milestone 2 [slides](https://speakerdeck.com/startupprogramming/bumerang-milestone-2)
+- Milestone 3 [slides](https://speakerdeck.com/startupprogramming/bumerang-milestone-3)
 
 ---
 
