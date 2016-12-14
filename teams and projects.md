@@ -102,6 +102,7 @@
 
 - Idea proposal [slides](https://speakerdeck.com/startupprogramming/clubhub-idea-proposal)
 - Milestone 1 [slides](https://speakerdeck.com/startupprogramming/clubhub-milestone-1)
+- Milestone 3 [slides](https://speakerdeck.com/startupprogramming/clubhub-milestone-3)
 
 ---
 
