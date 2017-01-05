@@ -1,7 +1,7 @@
 # Teams and Projects
 
 ### SignCoach ([view on GitHub](https://github.com/TaniaFerman/SignTalker))  
-![Logo](https://raw.githubusercontent.com/TaniaFerman/SignTalker/master/images/SignCoachLogo.png)  
+![Logo](images/signcoach_logo.png)  
 **Website:** [http://signcoach.me/](http://signcoach.me/)  
 **Description:** American sign language (ASL) learning and communication app for mobile.  
 **Members**:
@@ -22,7 +22,7 @@
 ---
 
 ### Bumerang ([view on GitHub](https://github.com/CFedderly/bumerang-client))  
-<img src="https://github.com/CFedderly/bumerang-client/blob/master/Bumerang/app/src/main/ic_launcher-web.png?raw=true" alt="logo" width="100" height="100">  
+<img src="images/bumerang_logo.png" alt="logo" width="100" height="100">  
 **Website:** [http://bumerangapp.paperplane.io/](http://bumerangapp.paperplane.io/)  
 **Description:**  A mobile app for connecting people that help each other by lending items in need --- someone got you covered!  
 **Members**:
@@ -44,7 +44,7 @@
 ---
 
 ### SmirkSpace ([view on GitHub](https://github.com/smirkspace/smirkspace))  
-![Logo](https://raw.githubusercontent.com/smirkspace/smirkspace/master/public/images/Logo1.png)  
+![Logo](images/smirkspace_logo.png)  
 **Website:** [http://www.smirkspace.com/](http://www.smirkspace.com/)  
 **Description:** Smirkspace is an app that provides a place for people with similar interests to connect. Targeting niche groups in the community; people whose interests are rare enough that they won’t necessarily find congenial company without intentionally seeking it out.  
 **Members**:
@@ -66,7 +66,7 @@
 ---
 
 ### DayTomato ([view on GitHub](https://github.com/fridayideas))  
-![Logo](https://avatars2.githubusercontent.com/u/22110075?v=3&s=100)  
+![Logo](images/daytomato_logo.png?v=3&s=100)  
 **Website:** [https://fridayideas.github.io/](https://fridayideas.github.io/)  
 **Description:** DayTomato is a mobile application designed for locals. DayTomato provides the opportunity for locals to share their opinion on businesses, activities, restaurants, anything! Automate your day with the trip builder, provided to you by locals.  
 **Members**:
@@ -87,7 +87,7 @@
 ---
 
 ### ClubHub ([view on GitHub](https://github.com/Wubbadub/ClubHub/))  
-![Logo](https://rawgit.com/Wubbadub/ClubHub/develop/assets/clubhub.svg)  
+![Logo](images/clubhub_logo.svg)  
 **Website:** [http://tryclubhub.com/](http://tryclubhub.com/)  
 **Description:** ClubHub streamlines the setup and maintenance of engaging club websites. A platform that allows university clubs to create a club page and students to easily find info about any club.  
 **Members**:
