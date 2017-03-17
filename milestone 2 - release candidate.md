@@ -1,4 +1,4 @@
-#Milestone 2 - Release Candidate
+# Milestone 2 - Release Candidate
 
 For the second milestone (due on Friday, 04/11/2016) you are required to show progress based on the feedback you've received from the staff about Milestone 1.
 
