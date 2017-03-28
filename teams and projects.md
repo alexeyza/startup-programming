@@ -52,7 +52,7 @@
 - Dahv Reinhart [[dahvreinhart@gmail.com](mailto:dahvreinhart@gmail.com)]
 - Kolby Chapman [[kol_j@hotmail.com](mailto:kol_j@hotmail.com)]
 - Madeline Petersen [[madpeter@uvic.ca](mailto:madpeter@uvic.ca)]
-- Omnielle Halton [[om.halton@gmail.com](mailto:om.halton@gmail.com)]
+- HaltonO [[sumari@uvic.ca](mailto:sumari@uvic.ca)]
 - Tim Baker [[tbakerx@gmail.com](mailto:tbakerx@gmail.com)]
 - Bridget Rassell [[bridget.rassell@gmail.com](mailto:bridget.rassell@gmail.com)]
 
