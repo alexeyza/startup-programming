@@ -48,7 +48,7 @@
 
 # Recommended Reading and Watching
 
-Go to [recommended reading](recommended reading.md) section.
+Go to [recommended reading](/recommended%20reading.md) section.
 
 # Resources
 
