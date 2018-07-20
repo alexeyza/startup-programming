@@ -38,7 +38,7 @@ See [course requirements](requirements.md) and [student testimonials](testimonia
 - [Cliff McCollum](https://ca.linkedin.com/in/cliffmccollum)
 - [Ian Bull](http://ianbull.com/)
 - [Gregory Schier](http://schier.co/)
-- [Eirini Kalliamvakou](http://thesegalgroup.org/people/eirini-kalliamvakou/) (Teaching Assistant)
+- Eirini Kalliamvakou (Teaching Assistant)
 
 Alumni mentors: [Arie van Deursen](http://www.st.ewi.tudelft.nl/~arie/)
 
